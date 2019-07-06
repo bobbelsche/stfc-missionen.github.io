@@ -16,7 +16,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 > (37k Par)
 - [x] Unterschätztes Genie
 - [x] Begieb Dich nach Delta Vega
-- [] Besiege den Nausakaanischen Plünderer (Jäger, 44970)
+- [ ] Besiege den Nausakaanischen Plünderer (Jäger, 44970)
 
 ### **_(Vemet - Jigokef)_** oder **_(Aciben - Miioyap)_** oder **_(Kaus Media - Vijofet)_**
 
@@ -28,20 +28,20 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 #### Berufsrisiko
 > (49k Par)
 - [x] Eskotiere den Senator nach Pune
-- [] Besiege den Attentäter  (Jäger 16758)
+- [ ] Besiege den Attentäter  (Jäger 16758)
 
 #### Am besten kalt genießen
 > (53k Par)
 - [x] Stiehl Captain Tormund's Banner-Trophäe
 - [x] Führe Captain Tormund nach Kosz
-- [] Besiege Captain Tormind (Kampfschiff 16207)
+- [ ] Besiege Captain Tormind (Kampfschiff 16207)
 
 ### **_(Obilent - Gauovik)_** oder **_(Labac - Niwukin)_**
 
 #### Wissen ist Macht 
 > (31k Parastahl)
 - [x] Platziere einen Datenrekorder auf Rigel Iaqik
-- [] Besiege den rigelianischen Captain (Forschungsschiff, 16382) 
+- [ ] Besiege den rigelianischen Captain (Forschungsschiff, 16382) 
 
 ### **_(Vemet - Detta)_** oder **_(Aciben - Neya)_**
 
@@ -89,13 +89,3 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Finde den Gefangenen im Kepler-018-System
 - [x] Besiege die Suliban Wache (Forschungsschiff, 12905)
 - [x] Bringe den Gefangenen zu deiner Basis zurück             
-
-
-
-
-
-
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
