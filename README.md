@@ -24,7 +24,7 @@ __**Vemet - Detta**__ oder __**Aciben - Neya**__
   - [x] Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
   - [Folgemission: Das Gesetzt verstummt](#Das-Gesetzt-verstummt)
 
-3. #Das Gesetzt verstummt (R70+, F32-, K21-, 4xArix, Credits 60+) <erfordert (1)[Bündnisse schmieden]>
+3. ### Das Gesetzt verstummt (R70+, F32-, K21-, 4xArix, Credits 60+) <erfordert (1)[Bündnisse schmieden]>
 > Untersuche das Notsignal in Lycia
 > Repariere das Schiff des Kundschafters mit 30000 Trilitium
 > Besiege die USS Manhatten (Forschungsschiff, 17996)
@@ -53,5 +53,5 @@ etwas anderes
     - First nested list item
       - Second nested list item
       
-# Das Gesetzt verstummt 
+###Das Gesetzt verstummt 
 (R70+, F32-, K21-, 4xArix, Credits 60+) <erfordert (1)[Bündnisse schmieden]>
