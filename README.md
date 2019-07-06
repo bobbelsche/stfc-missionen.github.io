@@ -1,5 +1,13 @@
 # stfc-missionen.github.io
 
+* Table of contents
+
+1. [Level 17 Systeme](#Level 17 Systeme)
+2. blubber
+3. [My first title](#my-first-title)
+4. [My second title](#my-second-title)
+5. [My 3 title](#My-3-title)
+
 - [Heading](#heading)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
@@ -10,16 +18,30 @@
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 
+## Level 17 Systeme
+Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
+__**Vemet - Detta**__ oder __**Aciben - Neya**__
+1. Bündnisse schmieden (R60+, F26-, K17-, Vella, Credits 30+)
+2. Montiere einen Suliban Transponder bei Davidul
+3. Überwache den Suliban-Nomaden Kundschafter
+4. Besiege das Lockvogel Dronenschiff (Jäger 982 Stärke)
+5. Verteidige Kelia vor den Klingonen (Forscher, 17996 Stärke)
+6. Kehre nach Davidul zurück
 
-* Table of contents
-1. bla
-2. blubber
-3. [My first title](#my-first-title)
-4. [My second title](#my-second-title)
-5. [My 3 title](#My-3-title)
+2. Kriegszeiten (R60+, F26-, K17-, Arix, Credits 50+) <erfordert (1) [Bündnisse schmieden]>
+> Triff die menschliche Ärztin in Labac (Spende 7000 Dilithium)
+> Bring die Ärztin zum Valdore Außenposten (außer Warp Reichweite ? Kadett Scotty hilft)
+> Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
+<Folgemission (3)[Das Gesetzt verstummt]>
 
-## My first title
-Some text.
+3. Das Gesetzt verstummt (R70+, F32-, K21-, 4xArix, Credits 60+) <erfordert (1)[Bündnisse schmieden]>
+> Untersuche das Notsignal in Lycia
+> Repariere das Schiff des Kundschafters mit 30000 Trilitium
+> Besiege die USS Manhatten (Forschungsschiff, 17996)
+> Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
+> Besiege Samson (Abfangjäger, 18405 Stärke)
+
+
 
 ## My second title
 etwas anderes
@@ -30,4 +52,3 @@ etwas anderes
 1. First list item
     - First nested list item
       - Second nested list item
-      
