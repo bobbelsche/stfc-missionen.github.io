@@ -12,19 +12,17 @@
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 __**Vemet - Detta**__ oder __**Aciben - Neya**__
 - [x] Bündnisse schmieden (R60+, F26-, K17-, Vella, Credits 30+)
-  - Montiere einen Suliban Transponder bei Davidul
-  - Überwache den Suliban-Nomaden Kundschafter
-  - Besiege das Lockvogel Dronenschiff (Jäger 982 Stärke)
-  - Verteidige Kelia vor den Klingonen (Forscher, 17996 Stärke)
-  - Kehre nach Davidul zurück
+  - [x] Montiere einen Suliban Transponder bei Davidul
+  - [x] Überwache den Suliban-Nomaden Kundschafter
+  - [x] Besiege das Lockvogel Dronenschiff (Jäger 982 Stärke)
+  - [x] Verteidige Kelia vor den Klingonen (Forscher, 17996 Stärke)
+  - [x] Kehre nach Davidul zurück
 
-2. Kriegszeiten (R60+, F26-, K17-, Arix, Credits 50+) <erfordert (1) [Bündnisse schmieden]>
-> Triff die menschliche Ärztin in Labac (Spende 7000 Dilithium)
-
-> Bring die Ärztin zum Valdore Außenposten (außer Warp Reichweite ? Kadett Scotty hilft)
-
-> Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
-<Folgemission (3)[Das Gesetzt verstummt]>
+- [x] Kriegszeiten (R60+, F26-, K17-, Arix, Credits 50+) <erfordert (1) [Bündnisse schmieden]>
+  - [x] Triff die menschliche Ärztin in Labac (Spende 7000 Dilithium)
+  - [x] Bring die Ärztin zum Valdore Außenposten (außer Warp Reichweite ? Kadett Scotty hilft)
+  - [x] Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
+  <Folgemission(Das Gesetzt verstummt)>
 
 3. Das Gesetzt verstummt (R70+, F32-, K21-, 4xArix, Credits 60+) <erfordert (1)[Bündnisse schmieden]>
 > Untersuche das Notsignal in Lycia
