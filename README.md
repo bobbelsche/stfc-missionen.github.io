@@ -37,25 +37,23 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
 - [x] Besiege Samson (Abfangjäger, 18405 Stärke)
 
-### dfsd
+### **_(Obilent - Gauovik)_** oder **_(Labac - Niwukin)_**
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+#### Arbeitsmoral 
+> (14k Par, 3x Kadet McCoy)
+- [x] Finde den Wissenschaftler im Opla System
+- [x] Besiege 5 Feinde im Opla System
+- [x] Spende 10k Tri 
+- [x] Bring Doktor Jenson zu deiner Station zurück
 
-## My second title
-etwas anderes
+#### Fern der Heimat
+> (28k Parastahl)
+- [x] Finde die Verschollenen Kolonisten
+- [x] Besiege 4 Feinde in Vindemiatrix
+- [x] Bring die Händler nach Riegel zurück     
 
-## My 3 title
-etwas anderes
-
-1. First list item
-    - First nested list item
-      - Second nested list item
-      
+#### Inflagranti 
+> (20k Parastahl)
+- [x] Finde den Gefangenen im Kepler-018-System
+- [x] Besiege die Suliban Wache (Forschungsschiff, 12905)
+- [x] Bringe den Gefangenen zu deiner Basis zurück             
