@@ -12,6 +12,47 @@
 
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 
+
+### **_(Freyda - Maxom)_**
+> (37k Par)
+- [x] Unterschätztes Genie
+- [x] Begieb Dich nach Delta Vega
+- [] Besiege den Nausakaanischen Plünderer (Jäger, 44970)
+- [] ...
+
+
+
+### **_(Vemet - Jigokef)_** oder **_(Aciben - Miioyap)_** oder **_(Kaus Media - Vijofet)_**
+
+#### Experimentelle Waffen
+> (37k Par)
+- [x] Baue 8000 Tritanium ab
+- [x] Spende 8000 Tritanium 
+            
+#### Berufsrisiko
+> (49k Par)
+- [x] Eskotiere den Senator nach Pune
+- [] Besiege den Attentäter  (Jäger 16758)
+- [] ...
+
+#### Am besten kalt genießen
+> (53k Par)
+- [x] Stiehl Captain Tormund's Banner-Trophäe
+- [x] Führe Captain Tormund nach Kosz
+- [] Besiege Captain Tormind (Kampfschiff 16207)
+- [] ...
+
+
+
+### **_(Obilent - Gauovik)_** oder **_(Labac - Niwukin)_**
+
+#### Wissen ist Macht 
+> (31k Parastahl)
+- [x] Platziere einen Datenrekorder auf Rigel Iaqik
+- [] Besiege den rigelianischen Captain (Forschungsschiff, 16382) 
+- [] ...
+
+
 ### **_(Vemet - Detta)_** oder **_(Aciben - Neya)_**
 
 #### Bündnisse schmieden
@@ -36,6 +77,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Besiege die USS Manhatten (Forschungsschiff, 17996)
 - [x] Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
 - [x] Besiege Samson (Abfangjäger, 18405 Stärke)
+
 
 ### **_(Obilent - Gauovik)_** oder **_(Labac - Niwukin)_**
 
