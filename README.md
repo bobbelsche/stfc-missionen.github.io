@@ -1,11 +1,11 @@
 # stfc-missionen.github.io
 
 * Table of contents
-3. bla
-2. blubber
-1. [My first title](#my-first-title)
-4. [My second title](#my-second-title)
-4. [My 3 title](#My-3-title)
+1. bla
+. blubber
+. [My first title](#my-first-title)
+. [My second title](#my-second-title)
+. [My 3 title](#My-3-title)
 
 ## My first title
 Some text.
