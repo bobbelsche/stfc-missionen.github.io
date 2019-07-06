@@ -4,9 +4,8 @@
 1. bla
 1. blubber
 
-  . [My first title](#my-first-title)
-
-  . . [My second title](#my-second-title)
+a. [My first title](#my-first-title)
+b.. [My second title](#my-second-title)
 
 ## My first title
 Some text.
