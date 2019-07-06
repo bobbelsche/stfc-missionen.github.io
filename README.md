@@ -2,10 +2,10 @@
 
 * Table of contents
 1. bla
- . blubber
- . [My first title](#my-first-title)
-. [My second title](#my-second-title)
-. [My 3 title](#My-3-title)
+2. blubber
+3. [My first title](#my-first-title)
+4. [My second title](#my-second-title)
+5. [My 3 title](#My-3-title)
 
 ## My first title
 Some text.
@@ -18,3 +18,6 @@ etwas anderes
 ## My 3 title
 etwas anderes
 
+1. First list item
+    - First nested list item
+    - Second nested list item
