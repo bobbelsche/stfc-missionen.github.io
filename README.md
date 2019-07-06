@@ -14,7 +14,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 
 ### __**Vemet - Detta**__ oder __**Aciben - Neya**__
 
-#### Buendnisse schmieden
+#### Bündnisse schmieden
 > (R60+, F26-, K17-, Vella, Credits 30+)
 - [x] Montiere einen Suliban Transponder bei Davidul
 - [x] Überwache den Suliban-Nomaden Kundschafter
@@ -30,7 +30,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [Folgemission: Das Gesetzt verstummt](#Das-Gesetzt-verstummt)
 
 #### Das Gesetzt verstummt 
-> (R70+, F32-, K21-, 4xArix, Credits 60+) [erfordert Buendnisse schmieden](#buendnisse-schmieden)
+> (R70+, F32-, K21-, 4xArix, Credits 60+) [erfordert Buendnisse schmieden](#bündnisse-schmieden)
 - [x] Untersuche das Notsignal in Lycia
 - [x] Repariere das Schiff des Kundschafters mit 30000 Trilitium
 - [x] Besiege die USS Manhatten (Forschungsschiff, 17996)
