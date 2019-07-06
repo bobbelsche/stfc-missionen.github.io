@@ -8,29 +8,21 @@
 4. [My second title](#my-second-title)
 5. [My 3 title](#My-3-title)
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-
 ## Level 17 Systeme
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 __**Vemet - Detta**__ oder __**Aciben - Neya**__
-1. Bündnisse schmieden (R60+, F26-, K17-, Vella, Credits 30+)
-2. Montiere einen Suliban Transponder bei Davidul
-3. Überwache den Suliban-Nomaden Kundschafter
-4. Besiege das Lockvogel Dronenschiff (Jäger 982 Stärke)
-5. Verteidige Kelia vor den Klingonen (Forscher, 17996 Stärke)
-6. Kehre nach Davidul zurück
+- [x] Bündnisse schmieden (R60+, F26-, K17-, Vella, Credits 30+)
+  - Montiere einen Suliban Transponder bei Davidul
+  - Überwache den Suliban-Nomaden Kundschafter
+  - Besiege das Lockvogel Dronenschiff (Jäger 982 Stärke)
+  - Verteidige Kelia vor den Klingonen (Forscher, 17996 Stärke)
+  - Kehre nach Davidul zurück
 
 2. Kriegszeiten (R60+, F26-, K17-, Arix, Credits 50+) <erfordert (1) [Bündnisse schmieden]>
 > Triff die menschliche Ärztin in Labac (Spende 7000 Dilithium)
+
 > Bring die Ärztin zum Valdore Außenposten (außer Warp Reichweite ? Kadett Scotty hilft)
+
 > Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
 <Folgemission (3)[Das Gesetzt verstummt]>
 
@@ -42,6 +34,16 @@ __**Vemet - Detta**__ oder __**Aciben - Neya**__
 > Besiege Samson (Abfangjäger, 18405 Stärke)
 
 
+
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
 
 ## My second title
 etwas anderes
