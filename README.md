@@ -17,7 +17,6 @@ print("hello world!")
 3. [Level 20 Systeme](#level-20-systeme)
 
 ## Level 17 Systeme
-<details><summary>click mich</summary>
             
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 
@@ -98,5 +97,3 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Finde den Gefangenen im Kepler-018-System
 - [x] Besiege die Suliban Wache (Forschungsschiff, 12905)
 - [x] Bringe den Gefangenen zu deiner Basis zurück
-
-</details>
