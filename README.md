@@ -5,7 +5,7 @@
 2. blubber
 1. [My first title](#my-first-title)
 4. [My second title](#my-second-title)
-4. [My second title](#My 3 title)
+4. [My second title](#My-3-title)
 
 ## My first title
 Some text.
