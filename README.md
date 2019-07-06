@@ -10,14 +10,12 @@
 ## My first title
 Some text.
 
-
 ## My second title
 etwas anderes
-
 
 ## My 3 title
 etwas anderes
 
 1. First list item
-    - First nested list item
-        - Second nested list item
+  - First nested list item
+    - Second nested list item
