@@ -22,7 +22,7 @@ __**Vemet - Detta**__ oder __**Aciben - Neya**__
   - [x] Triff die menschliche Ärztin in Labac (Spende 7000 Dilithium)
   - [x] Bring die Ärztin zum Valdore Außenposten (außer Warp Reichweite ? Kadett Scotty hilft)
   - [x] Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
-  <Folgemission(Das Gesetzt verstummt)>
+  - <Folgemission(Das Gesetzt verstummt)>
 
 3. Das Gesetzt verstummt (R70+, F32-, K21-, 4xArix, Credits 60+) <erfordert (1)[Bündnisse schmieden]>
 > Untersuche das Notsignal in Lycia
