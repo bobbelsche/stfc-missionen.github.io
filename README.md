@@ -2,11 +2,10 @@
 
 * Table of contents
 1. bla
-2. blubber
+1. blubber
 
-17. [My first title](#my-first-title)
-
- . [My second title](#my-second-title)
+.. [My first title](#my-first-title)
+.. [My second title](#my-second-title)
 
 ## My first title
 Some text.
