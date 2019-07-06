@@ -1,12 +1,3 @@
-#### collapsible markdown?
-
-<details><summary>click mich</summary>
-###### yes, even hidden code blocks!
-```python
-print("hello world!")
-```
-</details>
-
 # stfc-missionen.github.io
 
 * Table of contents
@@ -75,7 +66,6 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Besiege die USS Manhatten (Forschungsschiff, 17996)
 - [x] Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
 - [x] Besiege Samson (Abfangjäger, 18405 Stärke)
-
 
 ### **_(Obilent - Gauovik)_** oder **_(Labac - Niwukin)_**
 
