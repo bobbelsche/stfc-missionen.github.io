@@ -52,3 +52,6 @@ etwas anderes
 1. First list item
     - First nested list item
       - Second nested list item
+      
+#Das Gesetzt verstummt 
+(R70+, F32-, K21-, 4xArix, Credits 60+) <erfordert (1)[Bündnisse schmieden]>
