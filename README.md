@@ -12,9 +12,7 @@
 
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 
-### __**Vemet - Detta**__ oder __**Aciben - Neya**__
-
-__**Vemet - Detta**__ oder __**Aciben - Neya**__
+### **_Vemet - Detta_** oder **_Aciben - Neya_**
 
 #### Bündnisse schmieden
 > (R60+, F26-, K17-, Vella, Credits 30+)
