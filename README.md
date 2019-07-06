@@ -1,7 +1,6 @@
 #### collapsible markdown?
 
-<details><summary>CLICK ME</summary>
-<p>
+<details><summary>click mich</summary>
 
 ###### yes, even hidden code blocks!
 
@@ -9,7 +8,6 @@
 print("hello world!")
 ```
 
-</p>
 </details>
 
 # stfc-missionen.github.io
@@ -21,8 +19,10 @@ print("hello world!")
 3. [Level 19 Systeme](#level-19-systeme)
 3. [Level 20 Systeme](#level-20-systeme)
 
-## Level 17 Systeme
 
+## Level 17 Systeme
+<details><summary>click mich</summary>
+            
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 
 ### **_(Freyda - Maxom)_**
@@ -101,4 +101,6 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 > (20k Parastahl)
 - [x] Finde den Gefangenen im Kepler-018-System
 - [x] Besiege die Suliban Wache (Forschungsschiff, 12905)
-- [x] Bringe den Gefangenen zu deiner Basis zurück             
+- [x] Bringe den Gefangenen zu deiner Basis zurück
+
+</details>
