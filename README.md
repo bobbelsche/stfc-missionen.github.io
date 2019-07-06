@@ -19,9 +19,9 @@ print("hello world!")
 3. [Level 19 Systeme](#level-19-systeme)
 3. [Level 20 Systeme](#level-20-systeme)
 
-
+<details><summary>
 ## Level 17 Systeme
-<details><summary>click mich</summary>
+</summary>
             
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 
