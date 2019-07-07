@@ -109,10 +109,72 @@
 - [x] Triff dich mit dem Informanten in Antonehk
 - [x] Besiege 7 Feinde in Davidul
 - [x] Finde den Söldner auf Nojusor
-- [x] Verhöre oder bestich Venik 
-      > Belohnung auswählbar verhöre links 300k Parastahl, bestich rechts 25k Tritanium        
-      > Bestechung ausgewählt
+- [x] Verhöre oder bestich Venik
+  > Belohnung auswählbar: verhöre links 300k Parastahl, bestich rechts 25k Tritanium. Bestechung ausgewählt.      
 - [ ] Spende dem Söldner 37000 Dilithium
+
+
+
+
+### _**(Kaikara - Voros-Außenposten)**_
+
+#### Jolan Tru   
+> (120x Parastahl, 4xArix, R60+, F26-, K17-, Credits 40)
+- [x] Begieb dich nach Jolan Tru
+- [x] Besiege den Klingonen B'Rel (Forschungsschiff, 17996 Stärke)
+- [x] Stop die klingonischen Kommandogruppen (Abfangjäger, 18405 Stärke)
+- [x] Heiße Aciben Prime im Romulanischen Reich willkommen
+            
+#### Gleichgewicht des Schreckens 
+> (40x Vermmessungsteile G3, R60+, F26-, K17-, Credits 25)
+- [x] Begleite die Flotte zum Außenposten 1 
+- [x] Zerstöre das Verteidigungsschiff der Föderation (Kampfschiff 12765 Stärke)
+- [x] Begleite den Centurion bei einem Angriff auf Außenposten 2
+- [x] Verteidige die Centurion, wärend sie Außenposten 2 bombadiert (Forschungsschiff 17996 Stärke)
+- [x] Führe den Angriff auf Außenposten 3 an.
+- [x] Zerstöre die USS Lhotse (Kampfschiff 17801 Stärke)
+- [x] Triff Dich mit dem Centurion beim Außenposten 4.
+- [Folgemission: Gefallener Centurion](#gefallener-centurion)
+
+#### Gefallener Centurion   
+> (1x Nordstern, R60+, F26-, K17-, Credits 40, Frachttresor) [erfordert: Gleichgewicht des Schreckens](#gleichgewicht-des-schreckens)
+- [x] Untersuche den letzten bekannten Standort der Centurion
+- [x] Triff Dich mit Stiles im Sorenle System (Bezahle 20000 Tritanium)
+- [x] Vernichte den Gesetzlosen Abfangjäger (Abfangjäger, 18405 Stärke)
+- [Folgemission: Pflichtwesen](#pflichtwesen)
+
+#### Pflichtwesen 
+> (10xDomita, R60+, F26-, K17-, Credits 40) [erfordert: Gefallener Centurion](#gefallener-centurion)
+- [x] Verfolge Stiles zur Vos’Keth-Station (Entscheide welche Belohnung Du haben willst 10x Domita oder 200k Parastahl)
+- [x] Zerstöre das klingonische Verteidigungsschiff (Kampfschiff 22909 Stärke)
+- [x] Wehre die klingonische D4 ab (Abfangjäger 18405 Stärke)
+- [x] Fliehe ins Kaikara System
+- [Folgemission: Ihr Krieg ist nicht deiner](#ihr-krieg-ist-nicht-deiner)
+
+#### Ihr Krieg ist nicht deiner
+> (10xDomitia, 150x Vermmessungsteile G3, R80+, F38-, K26-, Credits 60) [erfordert: Pflichtwesen](#pflichtwesen)
+- [x] Triff dich mit Subcommander T'Nal
+- [x] Verfolge das gestohlene Tarnschiff nach Fastolf
+- [x] Vernichte das Kampfschiff das das Centurion schützt (Kampfschiff, 30071 Stärke)
+- [x] Verfolge Stiles im getarnten Schiff
+- [x] Vernichte Stiles (Forschungsschiff, 17996 Stärke)
+- [Folgemission: Mantel und Degen](#mantel-und-degen)
+
+#### Mantel und Degen 
+> (2x Nordstern, 300k Parastahl, R160+, F81-, K54-, 2x Frachttresor) [erfordert: Ihr Krieg ist nicht deiner](#ihr-krieg-ist-nicht-deiner)
+- [x] Finde die Position des klingonischen Flaggschiff heraus
+- [x] Spühre den Kanzler in Khitomer auf (Warpreichweite Kadett Scott)
+- [x] Besiege 10 Feinde auf Level 22 oder höher
+- [x] Bring die Technologie zum Voros-Außenposten zurück
+- [x] Besiege Corvallener Söldner (Forschungsschiff, 17996 Stärke)
+- [x] Brich durch die Feindlichen Linien
+- [x] Kehre zur Sternenbasis 82 zurück
+- [Folgemission: Geteilte Aufmerksamkeit](#geteilte-aufmerksamkeit)
+
+#### Geteilte Aufmerksamkeit 
+> (?)
+- [ ] Besiege 8 Feinde in V'varia
+- [ ] ...
 
 
 ## Level 17 Systeme
