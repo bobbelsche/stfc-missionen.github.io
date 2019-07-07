@@ -26,6 +26,7 @@
 #### Hattrick
 > (100k Parstahl)
 - [x] Baue Trockendock C
+-
 ---
 
  #### Kristall
@@ -34,11 +35,13 @@
 - [x] Besiege 5 Feinde auf Level 16+
 - [x] Baue 25 Gas ab
 - [x] Bringe es zurück auf die Station
+-
 ---
 
  #### Aufstieg der Unabhängigen
  < (vergessen zu notieren)
  - [x] Verbessere Ops 18
+ -
 ---
 
 ## Level 20 Systeme
