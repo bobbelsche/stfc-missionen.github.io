@@ -85,6 +85,18 @@
 - [x] Kehre zur Station zurück
 - [Folgemission: Der Preis der Einheit](#der-preis-der-einheit)
 
+#### Der Preis der Einheit 
+> (?) [erfordert: Das Schwert des Kahless](#das-schwert-des-kahless)
+- [x] Triff dich mit dem Informanten in Antonehk
+- [x] Besiege 7 Feinde in Davidul
+- [x] Finde den Söldner auf Nojusor
+- [x] Verhöre oder bestich Venik
+  > Belohnung auswählbar: verhöre links 300k Parastahl, bestich rechts 25k Tritanium. Bestechung ausgewählt.      
+- [x] Spende dem Söldner 37000 Dilithium
+- [x] Konfrontiere K'Thak auf Dhi'Ban
+- [ ] Besiege K'Thak (Abfangjäger 37725 Stärke)
+
+
 ### _**(Lorillia - Sternenbasis 82)**_
 
 #### Schattenboxen
@@ -103,18 +115,6 @@
 - [x] Besiege 8 Feinde in Sorenle
 - [x] Untersuche die versteckte Basis oder die stumme Kolonie (**Belohnung auswählbar**)
 - [x] Untersuche Vayuooaf
-
-#### Der Preis der Einheit 
-> (?) [erfordert: Das Schwert des Kahless](#das-schwert-des-kahless)
-- [x] Triff dich mit dem Informanten in Antonehk
-- [x] Besiege 7 Feinde in Davidul
-- [x] Finde den Söldner auf Nojusor
-- [x] Verhöre oder bestich Venik
-  > Belohnung auswählbar: verhöre links 300k Parastahl, bestich rechts 25k Tritanium. Bestechung ausgewählt.      
-- [ ] Spende dem Söldner 37000 Dilithium
-
-
-
 
 ### _**(Kaikara - Voros-Außenposten)**_
 
