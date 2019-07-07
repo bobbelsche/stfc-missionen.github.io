@@ -13,14 +13,14 @@
 #### Glocon
 > (100k Parstahl)    
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
-
+-
 ---
 
 #### Nur die Zukunft dauert nicht ewig
 > (300 gewöhnliches Raffiniertes Erz)
 - [x] Patruliere das nahegelegene Handelssystem Opla
 - [x] Vernichte 8 Feinde im Opla System
-
+-
 ---
 
 #### Hattrick
