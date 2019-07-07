@@ -2,10 +2,44 @@
 
 * Table of contents
 
-1. [Level 17 Systeme](#level-17-systeme)
-2. [Level 18 Systeme](#level-18-systeme)
-3. [Level 19 Systeme](#level-19-systeme)
-3. [Level 20 Systeme](#level-20-systeme)
+1. [Automatische Missionen (Story)](#automatische-missionen)
+5. [Level 20 Systeme](#level-20-systeme)
+4. [Level 19 Systeme](#level-19-systeme)
+3. [Level 18 Systeme](#level-18-systeme)
+2. [Level 17 Systeme](#level-17-systeme)
+
+## Automatische Missionen (Story)
+
+### **_Glocon_**
+> (100k Parstahl)    
+- [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
+
+### **_Nur die Zukunft dauert nicht ewig_**
+> (300 gewöhnliches Raffiniertes Erz)
+- [x] Patruliere das nahegelegene Handelssystem Opla
+- [x] Vernichte 8 Feinde im Opla System
+
+### **_Hattrick_**
+> (100k Parstahl)
+- [x] Baue Trockendock C
+      
+ ### **_Kristall_**
+> (35k Parstahl)
+- [x] Reise zum Nelve-System
+- [x] Besiege 5 Feinde auf Level 16+
+- [x] Baue 25 Gas ab
+- [x] Bringe es zurück auf die Station
+      
+ ### **_Aufstieg der Unabhängigen_**
+ < (vergessen zu notieren)
+ - [x] Verbessere Ops 18
+
+
+## Level 18 Systeme
+
+
+
+
 
 ## Level 17 Systeme
             
