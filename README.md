@@ -13,26 +13,31 @@
 #### Glocon
 > (100k Parstahl)    
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
+---
 
 #### Nur die Zukunft dauert nicht ewig
 > (300 gewöhnliches Raffiniertes Erz)
 - [x] Patruliere das nahegelegene Handelssystem Opla
 - [x] Vernichte 8 Feinde im Opla System
+---
 
 #### Hattrick
 > (100k Parstahl)
 - [x] Baue Trockendock C
-      
+---
+
  #### Kristall
 > (35k Parstahl)
 - [x] Reise zum Nelve-System
 - [x] Besiege 5 Feinde auf Level 16+
 - [x] Baue 25 Gas ab
 - [x] Bringe es zurück auf die Station
-      
+---
+
  #### Aufstieg der Unabhängigen
  < (vergessen zu notieren)
  - [x] Verbessere Ops 18
+---
 
 ## Level 20 Systeme
 ## Level 19 Systeme
@@ -47,7 +52,8 @@
 - [x] Besiege IRW Viribus (Kampfschiff 30071 Stärke)
 - [x] Besiege IRW Superbia (Kampfschiff 30371 Stärke)
 - [x] Kehre nach Krah’Hor zurück            
-        
+---
+
 #### Tag der Friedenstaube 
 > (?)
 - [x] Finde den Vermissten Kundschafter in Labac
@@ -57,6 +63,7 @@
 - [x] Besiege 8 Feinde in Amador
 - [x] Besiege USS Plato (Kampfschiff 17801 Stärke)
 - [Folgemission: Heilige Relikte](#heilige-relikte)
+---
 
 #### Heilige Relikte
 > (40x Vermessungsteile, K60+, F13-, R35-, 10x Komal) [erfordert: Tag der Friedenstaube](#tag-der-friedenstaube)
@@ -66,7 +73,8 @@
 - [x] Besiege den Horcher (Forschungsschiff 17996)
 - [x] Kehre zu Komal auf der Vos’Keth-Station zurück
 - [Folgemission: Diebstahl einer Icone](#diebstahl-einer-icone)
-                
+---
+
 #### Diebstahl einer Icone
 > (vergessen) [erfordert: Heilige Relikte](#heilige-relikte)
 - [x] Bring Komak zum Arnok Tempel
@@ -75,7 +83,8 @@
 - [x] Folge der Barke nach Kepler-018
 - [x] Besiege die Suliban Wache (Forschungsschiff 23149 Stärke)
 - [Folgemission: Das Schwert des Kahless](#das-schwert-des-kahless)
-                    
+---
+
 #### Das Schwert des Kahless 
 > (3x Gorcon, 1x 8Std Beschleunigung, K80+, F19-, R51-, Credits 70) [erfordert: Diebstahl einer Icone](#diebstahl-einer-icone)
 - [x] Besiege 7 Feinde in Kaikara
@@ -84,6 +93,7 @@
 - [x] Finde die Quelle des Signals auf V'varia
 - [x] Kehre zur Station zurück
 - [Folgemission: Der Preis der Einheit](#der-preis-der-einheit)
+---
 
 #### Der Preis der Einheit 
 > (?) [erfordert: Das Schwert des Kahless](#das-schwert-des-kahless)
@@ -95,7 +105,7 @@
 - [x] Spende dem Söldner 37000 Dilithium
 - [x] Konfrontiere K'Thak auf Dhi'Ban
 - [ ] Besiege K'Thak (Abfangjäger 37725 Stärke)
-
+---
 
 ### _**(Lorillia - Sternenbasis 82)**_
 
@@ -107,6 +117,7 @@
 - [x] Verfolge den echten Balor nach Astrida
 - [x] Besiege den echten Balor (Abfangjäger, 18405 Stärke)
 - [x] Bring die Daten zur Sternenbasis 82
+---
 
 #### Corbomite-Manöver (?) 
 > (2x Nordstern, F60+, R9-, K39-, Credits 40, 2x Frachttresor)
@@ -115,6 +126,7 @@
 - [x] Besiege 8 Feinde in Sorenle
 - [x] Untersuche die versteckte Basis oder die stumme Kolonie (**Belohnung auswählbar**)
 - [x] Untersuche Vayuooaf
+---
 
 ### _**(Kaikara - Voros-Außenposten)**_
 
@@ -124,7 +136,8 @@
 - [x] Besiege den Klingonen B'Rel (Forschungsschiff, 17996 Stärke)
 - [x] Stop die klingonischen Kommandogruppen (Abfangjäger, 18405 Stärke)
 - [x] Heiße Aciben Prime im Romulanischen Reich willkommen
-            
+---
+
 #### Gleichgewicht des Schreckens 
 > (40x Vermmessungsteile G3, R60+, F26-, K17-, Credits 25)
 - [x] Begleite die Flotte zum Außenposten 1 
@@ -135,6 +148,7 @@
 - [x] Zerstöre die USS Lhotse (Kampfschiff 17801 Stärke)
 - [x] Triff Dich mit dem Centurion beim Außenposten 4.
 - [Folgemission: Gefallener Centurion](#gefallener-centurion)
+---
 
 #### Gefallener Centurion   
 > (1x Nordstern, R60+, F26-, K17-, Credits 40, Frachttresor) [erfordert: Gleichgewicht des Schreckens](#gleichgewicht-des-schreckens)
@@ -142,6 +156,7 @@
 - [x] Triff Dich mit Stiles im Sorenle System (Bezahle 20000 Tritanium)
 - [x] Vernichte den Gesetzlosen Abfangjäger (Abfangjäger, 18405 Stärke)
 - [Folgemission: Pflichtwesen](#pflichtwesen)
+---
 
 #### Pflichtwesen 
 > (10xDomita, R60+, F26-, K17-, Credits 40) [erfordert: Gefallener Centurion](#gefallener-centurion)
@@ -150,6 +165,7 @@
 - [x] Wehre die klingonische D4 ab (Abfangjäger 18405 Stärke)
 - [x] Fliehe ins Kaikara System
 - [Folgemission: Ihr Krieg ist nicht deiner](#ihr-krieg-ist-nicht-deiner)
+---
 
 #### Ihr Krieg ist nicht deiner
 > (10xDomitia, 150x Vermmessungsteile G3, R80+, F38-, K26-, Credits 60) [erfordert: Pflichtwesen](#pflichtwesen)
@@ -159,6 +175,7 @@
 - [x] Verfolge Stiles im getarnten Schiff
 - [x] Vernichte Stiles (Forschungsschiff, 17996 Stärke)
 - [Folgemission: Mantel und Degen](#mantel-und-degen)
+---
 
 #### Mantel und Degen 
 > (2x Nordstern, 300k Parastahl, R160+, F81-, K54-, 2x Frachttresor) [erfordert: Ihr Krieg ist nicht deiner](#ihr-krieg-ist-nicht-deiner)
@@ -170,12 +187,13 @@
 - [x] Brich durch die Feindlichen Linien
 - [x] Kehre zur Sternenbasis 82 zurück
 - [Folgemission: Geteilte Aufmerksamkeit](#geteilte-aufmerksamkeit)
+---
 
 #### Geteilte Aufmerksamkeit 
 > (?)
 - [ ] Besiege 8 Feinde in V'varia
 - [ ] ...
-
+---
 
 ## Level 17 Systeme
             
@@ -187,6 +205,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 > (37k Parstahl)
 - [x] Begieb Dich nach Delta Vega
 - [ ] Besiege den Nausakaanischen Plünderer (Abfangjäger 44970 Stärke)
+---
 
 ### _**(Vemet - Jigokef)**_ oder _**(Aciben - Miioyap)**_ oder _**(Kaus Media - Vijofet)**_
 
@@ -194,17 +213,20 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 > (37k Parstahl)
 - [x] Baue 8000 Tritanium ab
 - [x] Spende 8000 Tritanium 
-            
+---
+
 #### Berufsrisiko
 > (49k Parstahl)
 - [x] Eskotiere den Senator nach Pune
 - [ ] Besiege den Attentäter  (Abfangjäger 16758 Stärke)
+---
 
 #### Am besten kalt genießen
 > (53k Parstahl)
 - [x] Stiehl Captain Tormund's Banner-Trophäe
 - [x] Führe Captain Tormund nach Kosz
 - [ ] Besiege Captain Tormind (Kampfschiff 16207)
+---
 
 ### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
 
@@ -212,6 +234,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 > (31k Parastahl)
 - [x] Platziere einen Datenrekorder auf Rigel Iaqik
 - [ ] Besiege den rigelianischen Captain (Forschungsschiff, 16382) 
+---
 
 ### _**(Vemet - Detta)**_ oder _**(Aciben - Neya)**_
 
@@ -222,6 +245,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Besiege das Lockvogel Dronenschiff (Abfangjäger 982 Stärke)
 - [x] Verteidige Kelia vor den Klingonen (Forschungsschiff 17996 Stärke)
 - [x] Kehre nach Davidul zurück
+---
 
 #### Kriegszeiten 
 > (R60+, F26-, K17-, Arix, Credits 50+) [erfordert Bündnisse schmieden](#bündnisse-schmieden)
@@ -229,6 +253,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Bring die Ärztin zum Valdore Außenposten (außer Warp Reichweite ? Kadett Scotty hilft)
 - [x] Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
 - [Folgemission: Das Gesetzt verstummt](#Das-Gesetzt-verstummt)
+---
 
 #### Das Gesetzt verstummt 
 > (R70+, F32-, K21-, 4xArix, Credits 60+) [erfordert Bündnisse schmieden](#bündnisse-schmieden)
@@ -237,6 +262,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Besiege die USS Manhatten (Forschungsschiff, 17996)
 - [x] Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
 - [x] Besiege Samson (Abfangjäger 18405 Stärke)
+---
 
 ### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
 
@@ -246,15 +272,18 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Besiege 5 Feinde im Opla System
 - [x] Spende 10k Tri 
 - [x] Bring Doktor Jenson zu deiner Station zurück
+---
 
 #### Fern der Heimat
 > (28k Parstahl)
 - [x] Finde die Verschollenen Kolonisten
 - [x] Besiege 4 Feinde in Vindemiatrix
 - [x] Bring die Händler nach Riegel zurück     
+---
 
 #### Inflagranti 
 > (20k Parstahl)
 - [x] Finde den Gefangenen im Kepler-018-System
 - [x] Besiege die Suliban Wache (Forschungsschiff 12905 Stärke)
 - [x] Bringe den Gefangenen zu deiner Basis zurück
+---
