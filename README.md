@@ -53,7 +53,7 @@
 - [x] Untersuche die Berichte über Angriffe in Sorenle
 - [x] Besiege die Corvallener Angreifer (Abfangjäger 13208 Stärke)
 - [x] Besiege 8 Feinde in Sorenle
-- [x] Untersuche die versteckte Basis oder die stumme Kolonie (*Belohnung auswählbar*)
+- [x] Untersuche die versteckte Basis oder die stumme Kolonie (**Belohnung auswählbar**)
 - [x] Untersuche Vayuooaf
 
 
