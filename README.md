@@ -10,7 +10,7 @@
 
 ## Automatische Missionen (Story)
 
-### **_Glocon_**
+### _**Glocon**_
 > (100k Parstahl)    
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
 
@@ -62,8 +62,9 @@
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 
 ### **_(Freyda - Maxom)_**
+
+#### Unterschätztes Genie
 > (37k Parstahl)
-- [x] Unterschätztes Genie
 - [x] Begieb Dich nach Delta Vega
 - [ ] Besiege den Nausakaanischen Plünderer (Abfangjäger 44970 Stärke)
 
