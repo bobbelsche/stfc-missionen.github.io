@@ -38,6 +38,60 @@
 ## Level 19 Systeme
 ## Level 18 Systeme
 
+### _**(Krah’Hor - Vos'Keth-Station)**_
+
+#### Ein scharfes Auge
+> (35k Tritanium, 3x Nordstern, K80+, F19-, R51-, 3x Frachttresor)
+- [x] Orte das Ziel auf Lorillia
+- [x] Besiege 7 Feinde in Lorillia
+- [x] Besiege IRW Viribus (Kampfschiff 30071 Stärke)
+- [x] Besiege IRW Superbia (Kampfschiff 30371 Stärke)
+- [x] Kehre nach Krah’Hor zurück            
+        
+#### Tag der Friedenstaube 
+> (?)
+- [x] Finde den Vermissten Kundschafter in Labac
+- [x] Entscheide was du mit dem Plünderer anstellen willst (**Belohnung auswählbar**)
+- [x] Bestich den Plünderer mit 5000 Dilithium
+- [x] Folge den Anweisungen des Logbuchs nach Xezuk
+- [x] Besiege 8 Feinde in Amador
+- [x] Besiege USS Plato (Kampfschiff 17801 Stärke)
+- [Folgemission: Heilige Relikte](#heilige-relikte)
+
+#### Heilige Relikte
+> (40x Vermessungsteile, K60+, F13-, R35-, 10x Komal) [erfordert: Tag der Friedenstaube](#tag-der-friedenstaube)
+- [x] Triff dich mit Komal an der Vos’Keth-Station
+- [x] Sprich mit dem yridianischen Informationshändler
+- [x] Zahle 35000 Tritanium für die Informationen
+- [x] Besiege den Horcher (Forschungsschiff 17996)
+- [x] Kehre zu Komal auf der Vos’Keth-Station zurück
+- [Folgemission: Diebstahl einer Icone](#diebstahl-einer-icone)
+                
+#### Diebstahl einer Icone
+> (vergessen) [erfordert: Heilige Relikte](#heilige-relikte)
+- [x] Bring Komak zum Arnok Tempel
+- [x] Besiege 8 Feinde auf Level 20 oder höher
+- [x] Folge dem Schiff nach Fastolf
+- [x] Folge der Barke nach Kepler-018
+- [x] Besiege die Suliban Wache (Forschungsschiff 23149 Stärke)
+- [Folgemission: Das Schwert des Kahless](#das-schwert-des-kahless)
+                    
+#### Das Schwert des Kahless 
+> (3x Gorcon, 1x 8Std Beschleunigung, K80+, F19-, R51-, Credits 70) [erfordert: Diebstahl einer Icone](#diebstahl-einer-icone)
+- [x] Besiege 7 Feinde in Kaikara
+- [x] Befrage den Söldner Captain (Abfangjäger 30909 Stärke)
+- [x] Untersuche das Signal in Eisenhorn
+- [x] Finde die Quelle des Signals auf V'varia
+- [x] Kehre zur Station zurück
+- [Folgemission: Der Preis der Einheit](#der-preis-der-einheit)
+
+#### Der Preis der Einheit 
+> (?) [erfordert: Das Schwert des Kahless](#das-schwert-des-kahless)
+- [x] Triff dich mit dem Informanten in Antonehk
+- [x] Besiege 7 Feinde in Davidul
+- [ ] Finde den Söldner auf Nojusor
+
+
 ### _**(Lorillia - Sternenbasis 82)**_
 
 #### Schattenboxen
