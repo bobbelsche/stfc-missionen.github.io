@@ -37,8 +37,24 @@
 
 ## Level 18 Systeme
 
+### **_(Lorillia - Sternenbasis 82)_**
 
+#### Schattenboxen
+> (4x 0815, F60+, K39-, R9-, Credits 30)
+- [x] Begieb Dich zum Dhi'Ban System
+- [x] Besiege Balors Forschungsschiff (Forschungsschiff 17996 Stärke)
+- [x] Besiege Balors Kampfschiff (Kampfschiff 12765 Stärke)
+- [x] Verfolge den echten Balor nach Astrida
+- [x] Besiege den echten Balor (Abfangjäger, 18405 Stärke)
+- [x] Bring die Daten zur Sternenbasis 82
 
+#### Corbomite-Manöver (?) 
+> (2x Nordstern, F60+, R9-, K39-, Credits 40, 2x Frachttresor)
+- [x] Untersuche die Berichte über Angriffe in Sorenle
+- [x] Besiege die Corvallener Angreifer (Abfangjäger 13208 Stärke)
+- [x] Besiege 8 Feinde in Sorenle
+- [x] Untersuche die versteckte Basis oder die stumme Kolonie (*Belohnung auswählbar*)
+- [x] Untersuche Vayuooaf
 
 
 ## Level 17 Systeme
