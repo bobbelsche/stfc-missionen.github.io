@@ -10,34 +10,34 @@
 
 ## Automatische Missionen (Story)
 
-### _**Glocon**_
+#### Glocon
 > (100k Parstahl)    
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
 
-### **_Nur die Zukunft dauert nicht ewig_**
+#### Nur die Zukunft dauert nicht ewig
 > (300 gewöhnliches Raffiniertes Erz)
 - [x] Patruliere das nahegelegene Handelssystem Opla
 - [x] Vernichte 8 Feinde im Opla System
 
-### **_Hattrick_**
+#### Hattrick
 > (100k Parstahl)
 - [x] Baue Trockendock C
       
- ### **_Kristall_**
+ #### Kristall
 > (35k Parstahl)
 - [x] Reise zum Nelve-System
 - [x] Besiege 5 Feinde auf Level 16+
 - [x] Baue 25 Gas ab
 - [x] Bringe es zurück auf die Station
       
- ### **_Aufstieg der Unabhängigen_**
+ #### Aufstieg der Unabhängigen
  < (vergessen zu notieren)
  - [x] Verbessere Ops 18
 
 
 ## Level 18 Systeme
 
-### **_(Lorillia - Sternenbasis 82)_**
+### _**(Lorillia - Sternenbasis 82)**_
 
 #### Schattenboxen
 > (4x 0815, F60+, K39-, R9-, Credits 30)
@@ -61,14 +61,14 @@
             
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 
-### **_(Freyda - Maxom)_**
+### _**(Freyda - Maxom)**_
 
 #### Unterschätztes Genie
 > (37k Parstahl)
 - [x] Begieb Dich nach Delta Vega
 - [ ] Besiege den Nausakaanischen Plünderer (Abfangjäger 44970 Stärke)
 
-### **_(Vemet - Jigokef)_** oder **_(Aciben - Miioyap)_** oder **_(Kaus Media - Vijofet)_**
+### _**(Vemet - Jigokef)**_ oder _**(Aciben - Miioyap)**_ oder _**(Kaus Media - Vijofet)**_
 
 #### Experimentelle Waffen
 > (37k Parstahl)
@@ -86,14 +86,14 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Führe Captain Tormund nach Kosz
 - [ ] Besiege Captain Tormind (Kampfschiff 16207)
 
-### **_(Obilent - Gauovik)_** oder **_(Labac - Niwukin)_**
+### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
 
 #### Wissen ist Macht 
 > (31k Parastahl)
 - [x] Platziere einen Datenrekorder auf Rigel Iaqik
 - [ ] Besiege den rigelianischen Captain (Forschungsschiff, 16382) 
 
-### **_(Vemet - Detta)_** oder **_(Aciben - Neya)_**
+### _**(Vemet - Detta)**_ oder _**(Aciben - Neya)**_
 
 #### Bündnisse schmieden
 > (R60+, F26-, K17-, Vella, Credits 30+)
@@ -118,7 +118,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
 - [x] Besiege Samson (Abfangjäger 18405 Stärke)
 
-### **_(Obilent - Gauovik)_** oder **_(Labac - Niwukin)_**
+### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
 
 #### Arbeitsmoral 
 > (14k Parstahl, 3x Kadet McCoy)
