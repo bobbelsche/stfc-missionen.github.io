@@ -13,20 +13,17 @@
 #### Glocon
 > (100k Parstahl)    
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
--
 ---
 
 #### Nur die Zukunft dauert nicht ewig
 > (300 gewöhnliches Raffiniertes Erz)
 - [x] Patruliere das nahegelegene Handelssystem Opla
 - [x] Vernichte 8 Feinde im Opla System
--
 ---
 
 #### Hattrick
 > (100k Parstahl)
 - [x] Baue Trockendock C
--
 ---
 
  #### Kristall
@@ -35,13 +32,11 @@
 - [x] Besiege 5 Feinde auf Level 16+
 - [x] Baue 25 Gas ab
 - [x] Bringe es zurück auf die Station
--
 ---
 
  #### Aufstieg der Unabhängigen
  < (vergessen zu notieren)
  - [x] Verbessere Ops 18
- -
 ---
 
 ## Level 20 Systeme
