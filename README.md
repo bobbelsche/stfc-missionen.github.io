@@ -12,25 +12,25 @@
 Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen) 
 
 ### **_(Freyda - Maxom)_**
-> (37k Par)
+> (37k Parstahl)
 - [x] Unterschätztes Genie
 - [x] Begieb Dich nach Delta Vega
-- [ ] Besiege den Nausakaanischen Plünderer (Jäger, 44970)
+- [ ] Besiege den Nausakaanischen Plünderer (Abfangjäger 44970 Stärke)
 
 ### **_(Vemet - Jigokef)_** oder **_(Aciben - Miioyap)_** oder **_(Kaus Media - Vijofet)_**
 
 #### Experimentelle Waffen
-> (37k Par)
+> (37k Parstahl)
 - [x] Baue 8000 Tritanium ab
 - [x] Spende 8000 Tritanium 
             
 #### Berufsrisiko
-> (49k Par)
+> (49k Parstahl)
 - [x] Eskotiere den Senator nach Pune
-- [ ] Besiege den Attentäter  (Jäger 16758)
+- [ ] Besiege den Attentäter  (Abfangjäger 16758 Stärke)
 
 #### Am besten kalt genießen
-> (53k Par)
+> (53k Parstahl)
 - [x] Stiehl Captain Tormund's Banner-Trophäe
 - [x] Führe Captain Tormund nach Kosz
 - [ ] Besiege Captain Tormind (Kampfschiff 16207)
@@ -48,8 +48,8 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 > (R60+, F26-, K17-, Vella, Credits 30+)
 - [x] Montiere einen Suliban Transponder bei Davidul
 - [x] Überwache den Suliban-Nomaden Kundschafter
-- [x] Besiege das Lockvogel Dronenschiff (Jäger 982 Stärke)
-- [x] Verteidige Kelia vor den Klingonen (Forscher, 17996 Stärke)
+- [x] Besiege das Lockvogel Dronenschiff (Abfangjäger 982 Stärke)
+- [x] Verteidige Kelia vor den Klingonen (Forschungsschiff 17996 Stärke)
 - [x] Kehre nach Davidul zurück
 
 #### Kriegszeiten 
@@ -65,25 +65,25 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Repariere das Schiff des Kundschafters mit 30000 Trilitium
 - [x] Besiege die USS Manhatten (Forschungsschiff, 17996)
 - [x] Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
-- [x] Besiege Samson (Abfangjäger, 18405 Stärke)
+- [x] Besiege Samson (Abfangjäger 18405 Stärke)
 
 ### **_(Obilent - Gauovik)_** oder **_(Labac - Niwukin)_**
 
 #### Arbeitsmoral 
-> (14k Par, 3x Kadet McCoy)
+> (14k Parstahl, 3x Kadet McCoy)
 - [x] Finde den Wissenschaftler im Opla System
 - [x] Besiege 5 Feinde im Opla System
 - [x] Spende 10k Tri 
 - [x] Bring Doktor Jenson zu deiner Station zurück
 
 #### Fern der Heimat
-> (28k Parastahl)
+> (28k Parstahl)
 - [x] Finde die Verschollenen Kolonisten
 - [x] Besiege 4 Feinde in Vindemiatrix
 - [x] Bring die Händler nach Riegel zurück     
 
 #### Inflagranti 
-> (20k Parastahl)
+> (20k Parstahl)
 - [x] Finde den Gefangenen im Kepler-018-System
-- [x] Besiege die Suliban Wache (Forschungsschiff, 12905)
+- [x] Besiege die Suliban Wache (Forschungsschiff 12905 Stärke)
 - [x] Bringe den Gefangenen zu deiner Basis zurück
