@@ -63,7 +63,7 @@
 - [x] Vernichte den Sklavenhändler (wählbar links) `(6x Botany Bay, 48000 Parastahl, 9x Beschleunigung)`
 - [ ] Lass den Sklavenhändler gehen (wählbar rechts) `(6x Botany Bay, 7000 Tritanium, 23x Reparatur)`
 - [x] Zerstöre die Sklavenhalteroperationsbasis auf Elmirana
----
+
 
 #### Gleicher Anteil
 `(6x Botany Bay, 12x Erz G2 ungewöhnlich, 700 Dilithium)`
@@ -71,7 +71,7 @@
 - [x] Hacke den klingonischen Horchposzten in Labac
 - [x] Besiege die Klingonische Wache (Abfangjäger 18405 Stärke)
 - [x] Sende die Daten an den Händler in Rigel zurück
----
+
 
 #### Des Käufers Reue 
 - [x] Begib dich zum Schuttfeld in Amador
@@ -80,7 +80,7 @@
 - [ ] Nimm dir die Teile mit Gewalt (wählbar rechts) `(6x Botany Bay, 4000x Tritanium, 100x Vermessungsteile)`
 - [x] Spende 10000 Tritanium 
 - [x] Bringe die Teile zu deiner Station zurück
----
+
 
 Quid Pro Quo 
 `(6x Botany Bay, 20x Kristall G2 ungewöhnlich, 140x Vermessungsteile, 30x 15 Minuten Beschleunigung)`
@@ -90,8 +90,8 @@ Quid Pro Quo
 - [x] Finde die Basis der Raider in Amador
 - [x] Hole die Artefakte vom Raider Captain zurück (Kampfschiff 17801 Stärke)
 - [x] Bring die Artefakte zu deiner Station zurück 
-  
-        
+---
+
 ## Level 18 Systeme
 
 ### _**(Krah’Hor - Vos'Keth-Station)**_
