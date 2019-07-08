@@ -112,7 +112,7 @@ Quid Pro Quo
 ---
 
 #### Diebstahl einer Icone
-> (vergessen) [erfordert: Heilige Relikte](#heilige-relikte)
+`(vergessen)` [erfordert: Heilige Relikte](#heilige-relikte)
 - [x] Bring Komak zum Arnok Tempel
 - [x] Besiege 8 Feinde auf Level 20 oder höher
 - [x] Folge dem Schiff nach Fastolf
@@ -122,7 +122,7 @@ Quid Pro Quo
 ---
 
 #### Das Schwert des Kahless 
-> (3x Gorcon, 1x 8Std Beschleunigung, K80+, F19-, R51-, Credits 70) [erfordert: Diebstahl einer Icone](#diebstahl-einer-icone)
+`(3x Gorcon, 1x 8Std Beschleunigung, K80+, F19-, R51-, Credits 70)` [erfordert: Diebstahl einer Icone](#diebstahl-einer-icone)
 - [x] Besiege 7 Feinde in Kaikara
 - [x] Befrage den Söldner Captain (Abfangjäger 30909 Stärke)
 - [x] Untersuche das Signal in Eisenhorn
@@ -132,7 +132,7 @@ Quid Pro Quo
 ---
 
 #### Der Preis der Einheit 
-> (?) [erfordert: Das Schwert des Kahless](#das-schwert-des-kahless)
+`(?)` [erfordert: Das Schwert des Kahless](#das-schwert-des-kahless)
 - [x] Triff dich mit dem Informanten in Antonehk
 - [x] Besiege 7 Feinde in Davidul
 - [x] Finde den Söldner auf Nojusor
@@ -146,7 +146,7 @@ Quid Pro Quo
 ### _**(Lorillia - Sternenbasis 82)**_
 
 #### Schattenboxen
-> (4x 0815, F60+, K39-, R9-, Credits 30)
+`(4x 0815, F60+, K39-, R9-, Credits 30)`
 - [x] Begieb Dich zum Dhi'Ban System
 - [x] Besiege Balors Forschungsschiff (Forschungsschiff 17996 Stärke)
 - [x] Besiege Balors Kampfschiff (Kampfschiff 12765 Stärke)
@@ -156,7 +156,7 @@ Quid Pro Quo
 ---
 
 #### Corbomite-Manöver (?) 
-> (2x Nordstern, F60+, R9-, K39-, Credits 40, 2x Frachttresor)
+`(2x Nordstern, F60+, R9-, K39-, Credits 40, 2x Frachttresor)`
 - [x] Untersuche die Berichte über Angriffe in Sorenle
 - [x] Besiege die Corvallener Angreifer (Abfangjäger 13208 Stärke)
 - [x] Besiege 8 Feinde in Sorenle
@@ -167,7 +167,7 @@ Quid Pro Quo
 ### _**(Kaikara - Voros-Außenposten)**_
 
 #### Jolan Tru   
-> (120x Parastahl, 4xArix, R60+, F26-, K17-, Credits 40)
+`(120x Parastahl, 4xArix, R60+, F26-, K17-, Credits 40)`
 - [x] Begieb dich nach Jolan Tru
 - [x] Besiege den Klingonen B'Rel (Forschungsschiff, 17996 Stärke)
 - [x] Stop die klingonischen Kommandogruppen (Abfangjäger, 18405 Stärke)
@@ -175,7 +175,7 @@ Quid Pro Quo
 ---
 
 #### Gleichgewicht des Schreckens 
-> (40x Vermmessungsteile G3, R60+, F26-, K17-, Credits 25)
+`(40x Vermmessungsteile G3, R60+, F26-, K17-, Credits 25)`
 - [x] Begleite die Flotte zum Außenposten 1 
 - [x] Zerstöre das Verteidigungsschiff der Föderation (Kampfschiff 12765 Stärke)
 - [x] Begleite den Centurion bei einem Angriff auf Außenposten 2
@@ -187,7 +187,7 @@ Quid Pro Quo
 ---
 
 #### Gefallener Centurion   
-> (1x Nordstern, R60+, F26-, K17-, Credits 40, Frachttresor) [erfordert: Gleichgewicht des Schreckens](#gleichgewicht-des-schreckens)
+`(1x Nordstern, R60+, F26-, K17-, Credits 40, Frachttresor)` [erfordert: Gleichgewicht des Schreckens](#gleichgewicht-des-schreckens)
 - [x] Untersuche den letzten bekannten Standort der Centurion
 - [x] Triff Dich mit Stiles im Sorenle System (Bezahle 20000 Tritanium)
 - [x] Vernichte den Gesetzlosen Abfangjäger (Abfangjäger, 18405 Stärke)
@@ -195,7 +195,7 @@ Quid Pro Quo
 ---
 
 #### Pflichtwesen 
-> (10xDomita, R60+, F26-, K17-, Credits 40) [erfordert: Gefallener Centurion](#gefallener-centurion)
+`(10xDomita, R60+, F26-, K17-, Credits 40)` [erfordert: Gefallener Centurion](#gefallener-centurion)
 - [x] Verfolge Stiles zur Vos’Keth-Station (Entscheide welche Belohnung Du haben willst 10x Domita oder 200k Parastahl)
 - [x] Zerstöre das klingonische Verteidigungsschiff (Kampfschiff 22909 Stärke)
 - [x] Wehre die klingonische D4 ab (Abfangjäger 18405 Stärke)
@@ -204,7 +204,7 @@ Quid Pro Quo
 ---
 
 #### Ihr Krieg ist nicht deiner
-> (10xDomitia, 150x Vermmessungsteile G3, R80+, F38-, K26-, Credits 60) [erfordert: Pflichtwesen](#pflichtwesen)
+`(10xDomitia, 150x Vermmessungsteile G3, R80+, F38-, K26-, Credits 60)` [erfordert: Pflichtwesen](#pflichtwesen)
 - [x] Triff dich mit Subcommander T'Nal
 - [x] Verfolge das gestohlene Tarnschiff nach Fastolf
 - [x] Vernichte das Kampfschiff das das Centurion schützt (Kampfschiff, 30071 Stärke)
@@ -214,7 +214,7 @@ Quid Pro Quo
 ---
 
 #### Mantel und Degen 
-> (2x Nordstern, 300k Parastahl, R160+, F81-, K54-, 2x Frachttresor) [erfordert: Ihr Krieg ist nicht deiner](#ihr-krieg-ist-nicht-deiner)
+`(2x Nordstern, 300k Parastahl, R160+, F81-, K54-, 2x Frachttresor)` [erfordert: Ihr Krieg ist nicht deiner](#ihr-krieg-ist-nicht-deiner)
 - [x] Finde die Position des klingonischen Flaggschiff heraus
 - [x] Spühre den Kanzler in Khitomer auf (Warpreichweite Kadett Scott)
 - [x] Besiege 10 Feinde auf Level 22 oder höher
@@ -226,7 +226,7 @@ Quid Pro Quo
 ---
 
 #### Geteilte Aufmerksamkeit 
-> (?)
+`(?)`
 - [ ] Besiege 8 Feinde in V'varia
 - [ ] ...
 ---
@@ -238,7 +238,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 ### _**(Freyda - Maxom)**_
 
 #### Unterschätztes Genie
-> (37k Parstahl)
+`(37k Parstahl)`
 - [x] Begieb Dich nach Delta Vega
 - [ ] Besiege den Nausakaanischen Plünderer (Abfangjäger 44970 Stärke)
 ---
@@ -246,19 +246,19 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 ### _**(Vemet - Jigokef)**_ oder _**(Aciben - Miioyap)**_ oder _**(Kaus Media - Vijofet)**_
 
 #### Experimentelle Waffen
-> (37k Parstahl)
+`(37k Parstahl)`
 - [x] Baue 8000 Tritanium ab
 - [x] Spende 8000 Tritanium 
 ---
 
 #### Berufsrisiko
-> (49k Parstahl)
+`(49k Parstahl)`
 - [x] Eskotiere den Senator nach Pune
 - [ ] Besiege den Attentäter  (Abfangjäger 16758 Stärke)
 ---
 
 #### Am besten kalt genießen
-> (53k Parstahl)
+`(53k Parstahl)`
 - [x] Stiehl Captain Tormund's Banner-Trophäe
 - [x] Führe Captain Tormund nach Kosz
 - [ ] Besiege Captain Tormind (Kampfschiff 16207)
@@ -267,7 +267,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 ### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
 
 #### Wissen ist Macht 
-> (31k Parastahl)
+`(31k Parastahl)`
 - [x] Platziere einen Datenrekorder auf Rigel Iaqik
 - [ ] Besiege den rigelianischen Captain (Forschungsschiff, 16382) 
 ---
@@ -275,7 +275,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 ### _**(Vemet - Detta)**_ oder _**(Aciben - Neya)**_
 
 #### Bündnisse schmieden
-> (R60+, F26-, K17-, Vella, Credits 30+)
+`(R60+, F26-, K17-, Vella, Credits 30+)`
 - [x] Montiere einen Suliban Transponder bei Davidul
 - [x] Überwache den Suliban-Nomaden Kundschafter
 - [x] Besiege das Lockvogel Dronenschiff (Abfangjäger 982 Stärke)
@@ -284,7 +284,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 ---
 
 #### Kriegszeiten 
-> (R60+, F26-, K17-, Arix, Credits 50+) [erfordert Bündnisse schmieden](#bündnisse-schmieden)
+`(R60+, F26-, K17-, Arix, Credits 50+)` [erfordert Bündnisse schmieden](#bündnisse-schmieden)
 - [x] Triff die menschliche Ärztin in Labac (Spende 7000 Dilithium)
 - [x] Bring die Ärztin zum Valdore Außenposten (außer Warp Reichweite ? Kadett Scotty hilft)
 - [x] Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
@@ -292,7 +292,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 ---
 
 #### Das Gesetzt verstummt 
-> (R70+, F32-, K21-, 4xArix, Credits 60+) [erfordert Bündnisse schmieden](#bündnisse-schmieden)
+`(R70+, F32-, K21-, 4xArix, Credits 60+)` [erfordert Bündnisse schmieden](#bündnisse-schmieden)
 - [x] Untersuche das Notsignal in Lycia
 - [x] Repariere das Schiff des Kundschafters mit 30000 Trilitium
 - [x] Besiege die USS Manhatten (Forschungsschiff, 17996)
@@ -303,7 +303,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 ### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
 
 #### Arbeitsmoral 
-> (14k Parstahl, 3x Kadet McCoy)
+`(14k Parstahl, 3x Kadet McCoy)`
 - [x] Finde den Wissenschaftler im Opla System
 - [x] Besiege 5 Feinde im Opla System
 - [x] Spende 10k Tri 
@@ -311,14 +311,14 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 ---
 
 #### Fern der Heimat
-> (28k Parstahl)
+`(28k Parstahl)`
 - [x] Finde die Verschollenen Kolonisten
 - [x] Besiege 4 Feinde in Vindemiatrix
 - [x] Bring die Händler nach Riegel zurück     
 ---
 
 #### Inflagranti 
-> (20k Parstahl)
+`(20k Parstahl)`
 - [x] Finde den Gefangenen im Kepler-018-System
 - [x] Besiege die Suliban Wache (Forschungsschiff 12905 Stärke)
 - [x] Bringe den Gefangenen zu deiner Basis zurück
