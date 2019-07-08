@@ -35,13 +35,14 @@
 ---
 
 #### Die Kehra 
-`(200x Ultra Rekruten)
+`(200x Ultra Rekruten)`
 - [ ] Baue die Kehra 
 ---
     
 #### Nachrüstung (5x 1 Pfad freischalten, 14x Joaquin, A60+)
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren
-- [ ] Baue die Botany Bay `Benötigt: (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium)`
+- [ ] Baue die Botany Bay 
+`Benötigt: (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium)`
 - [ ] ...
 ---
 
