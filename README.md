@@ -98,7 +98,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 - [x] Spende 10000 Tritanium 
 - [x] Bringe die Teile zu deiner Station zurück
 
-Quid Pro Quo 
+#### Quid Pro Quo
 `(6x Botany Bay, 20x Kristall G2 ungewöhnlich, 140x Vermessungsteile, 30x 15 Minuten Beschleunigung)`
 - [x] Untersuche den Ort des Diebstahls in Kepler-018
 - [x] Verfolge die Diebe nach Labac
