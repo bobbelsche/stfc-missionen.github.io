@@ -64,14 +64,12 @@
 - [ ] Lass den Sklavenhändler gehen (wählbar rechts) `(6x Botany Bay, 7000 Tritanium, 23x Reparatur)`
 - [x] Zerstöre die Sklavenhalteroperationsbasis auf Elmirana
 
-
 #### Gleicher Anteil
 `(6x Botany Bay, 12x Erz G2 ungewöhnlich, 700 Dilithium)`
 - [x] Triff den Informationshändler in Rigel
 - [x] Hacke den klingonischen Horchposzten in Labac
 - [x] Besiege die Klingonische Wache (Abfangjäger 18405 Stärke)
 - [x] Sende die Daten an den Händler in Rigel zurück
-
 
 #### Des Käufers Reue 
 - [x] Begib dich zum Schuttfeld in Amador
@@ -80,7 +78,6 @@
 - [ ] Nimm dir die Teile mit Gewalt (wählbar rechts) `(6x Botany Bay, 4000x Tritanium, 100x Vermessungsteile)`
 - [x] Spende 10000 Tritanium 
 - [x] Bringe die Teile zu deiner Station zurück
-
 
 Quid Pro Quo 
 `(6x Botany Bay, 20x Kristall G2 ungewöhnlich, 140x Vermessungsteile, 30x 15 Minuten Beschleunigung)`
@@ -103,7 +100,6 @@ Quid Pro Quo
 - [x] Besiege IRW Viribus (Kampfschiff 30071 Stärke)
 - [x] Besiege IRW Superbia (Kampfschiff 30371 Stärke)
 - [x] Kehre nach Krah’Hor zurück            
----
 
 #### Tag der Friedenstaube 
 - [x] Finde den Vermissten Kundschafter in Labac
@@ -113,7 +109,6 @@ Quid Pro Quo
 - [x] Besiege 8 Feinde in Amador
 - [x] Besiege USS Plato (Kampfschiff 17801 Stärke)
 - [Folgemission: Heilige Relikte](#heilige-relikte)
----
 
 #### Heilige Relikte
 `(40x Vermessungsteile, K60+, F13-, R35-, 10x Komal` [erfordert: Tag der Friedenstaube](#tag-der-friedenstaube)
@@ -123,7 +118,6 @@ Quid Pro Quo
 - [x] Besiege den Horcher (Forschungsschiff 17996)
 - [x] Kehre zu Komal auf der Vos’Keth-Station zurück
 - [Folgemission: Diebstahl einer Icone](#diebstahl-einer-icone)
----
 
 #### Diebstahl einer Icone
 `(vergessen)` [erfordert: Heilige Relikte](#heilige-relikte)
@@ -133,7 +127,6 @@ Quid Pro Quo
 - [x] Folge der Barke nach Kepler-018
 - [x] Besiege die Suliban Wache (Forschungsschiff 23149 Stärke)
 - [Folgemission: Das Schwert des Kahless](#das-schwert-des-kahless)
----
 
 #### Das Schwert des Kahless 
 `(3x Gorcon, 1x 8Std Beschleunigung, K80+, F19-, R51-, Credits 70)` [erfordert: Diebstahl einer Icone](#diebstahl-einer-icone)
@@ -143,7 +136,6 @@ Quid Pro Quo
 - [x] Finde die Quelle des Signals auf V'varia
 - [x] Kehre zur Station zurück
 - [Folgemission: Der Preis der Einheit](#der-preis-der-einheit)
----
 
 #### Der Preis der Einheit 
 `(?)` [erfordert: Das Schwert des Kahless](#das-schwert-des-kahless)
@@ -167,7 +159,6 @@ Quid Pro Quo
 - [x] Verfolge den echten Balor nach Astrida
 - [x] Besiege den echten Balor (Abfangjäger, 18405 Stärke)
 - [x] Bring die Daten zur Sternenbasis 82
----
 
 #### Corbomite-Manöver (?) 
 `(2x Nordstern, F60+, R9-, K39-, Credits 40, 2x Frachttresor)`
@@ -186,7 +177,6 @@ Quid Pro Quo
 - [x] Besiege den Klingonen B'Rel (Forschungsschiff, 17996 Stärke)
 - [x] Stop die klingonischen Kommandogruppen (Abfangjäger, 18405 Stärke)
 - [x] Heiße Aciben Prime im Romulanischen Reich willkommen
----
 
 #### Gleichgewicht des Schreckens 
 `(40x Vermmessungsteile G3, R60+, F26-, K17-, Credits 25)`
@@ -198,7 +188,6 @@ Quid Pro Quo
 - [x] Zerstöre die USS Lhotse (Kampfschiff 17801 Stärke)
 - [x] Triff Dich mit dem Centurion beim Außenposten 4.
 - [Folgemission: Gefallener Centurion](#gefallener-centurion)
----
 
 #### Gefallener Centurion   
 `(1x Nordstern, R60+, F26-, K17-, Credits 40, Frachttresor)` [erfordert: Gleichgewicht des Schreckens](#gleichgewicht-des-schreckens)
@@ -206,7 +195,6 @@ Quid Pro Quo
 - [x] Triff Dich mit Stiles im Sorenle System (Bezahle 20000 Tritanium)
 - [x] Vernichte den Gesetzlosen Abfangjäger (Abfangjäger, 18405 Stärke)
 - [Folgemission: Pflichtwesen](#pflichtwesen)
----
 
 #### Pflichtwesen 
 `(10xDomita, R60+, F26-, K17-, Credits 40)` [erfordert: Gefallener Centurion](#gefallener-centurion)
@@ -215,7 +203,6 @@ Quid Pro Quo
 - [x] Wehre die klingonische D4 ab (Abfangjäger 18405 Stärke)
 - [x] Fliehe ins Kaikara System
 - [Folgemission: Ihr Krieg ist nicht deiner](#ihr-krieg-ist-nicht-deiner)
----
 
 #### Ihr Krieg ist nicht deiner
 `(10xDomitia, 150x Vermmessungsteile G3, R80+, F38-, K26-, Credits 60)` [erfordert: Pflichtwesen](#pflichtwesen)
@@ -225,7 +212,6 @@ Quid Pro Quo
 - [x] Verfolge Stiles im getarnten Schiff
 - [x] Vernichte Stiles (Forschungsschiff, 17996 Stärke)
 - [Folgemission: Mantel und Degen](#mantel-und-degen)
----
 
 #### Mantel und Degen 
 `(2x Nordstern, 300k Parastahl, R160+, F81-, K54-, 2x Frachttresor)` [erfordert: Ihr Krieg ist nicht deiner](#ihr-krieg-ist-nicht-deiner)
@@ -237,7 +223,6 @@ Quid Pro Quo
 - [x] Brich durch die Feindlichen Linien
 - [x] Kehre zur Sternenbasis 82 zurück
 - [Folgemission: Geteilte Aufmerksamkeit](#geteilte-aufmerksamkeit)
----
 
 #### Geteilte Aufmerksamkeit 
 `(?)`
@@ -263,13 +248,11 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 `(37k Parstahl)`
 - [x] Baue 8000 Tritanium ab
 - [x] Spende 8000 Tritanium 
----
 
 #### Berufsrisiko
 `(49k Parstahl)`
 - [x] Eskotiere den Senator nach Pune
 - [ ] Besiege den Attentäter  (Abfangjäger 16758 Stärke)
----
 
 #### Am besten kalt genießen
 `(53k Parstahl)`
