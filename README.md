@@ -38,7 +38,8 @@
 `(200x Ultra Rekruten)`
 - [ ] Baue die Kehra 
 ---
-    
+
+
 #### Nachrüstung 
 ```
 Belohnung: (5x 1 Pfad freischalten, 14x Joaquin, A60+)
@@ -46,8 +47,9 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 ```
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum für 725x raffinierteG3 Kristalle, 72 Latinum für 180x raffiniertes G3 Gas
 - [ ] Baue die Botany Bay
-- [ ] blabla
+- [x] blabla
 ---
+
 
  #### Aufstieg der Unabhängigen
  >(vergessen zu notieren)
