@@ -66,9 +66,9 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
   
  `vergessen zu notieren`
 
-[Inhalt](#inhalt)
-
 ---
+
+[Inhalt](#inhalt)
 
 ## Level 20 Systeme
 
@@ -89,9 +89,9 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 `40000x Tritanium, 2200 OffizierEP`
 - [x] Besiege 15 Feinde auf Level 19 oder höher
 
-[Inhalt](#inhalt)
-
 ---
+
+[Inhalt](#inhalt)
 
 ## Level 19 Systeme
 
@@ -130,9 +130,9 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 - [x] Hole die Artefakte vom Raider Captain zurück (Kampfschiff 17801 Stärke)
 - [x] Bring die Artefakte zu deiner Station zurück
 
-[Inhalt](#inhalt)
-
 ---
+
+[Inhalt](#inhalt)
 
 ## Level 18 Systeme
 
@@ -295,10 +295,9 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 `(3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60)` [erfordert: Verschollen](#verschollen)
 - [ ] Besiege 10 Feinde in Hubr
 
-[Inhalt](#inhalt)
-
 ---
 
+[Inhalt](#inhalt)
 
 ## Level 17 Systeme
             
