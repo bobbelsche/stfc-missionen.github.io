@@ -142,13 +142,14 @@ Quid Pro Quo
 - [x] Kehre zur Station zurück
 - [Folgemission: Der Preis der Einheit](#der-preis-der-einheit)
 
-#### Der Preis der Einheit 
-`(?)` [erfordert: Das Schwert des Kahless](#das-schwert-des-kahless)
+#### Der Preis der Einheit
+[erfordert: Das Schwert des Kahless](#das-schwert-des-kahless)
 - [x] Triff dich mit dem Informanten in Antonehk
 - [x] Besiege 7 Feinde in Davidul
 - [x] Finde den Söldner auf Nojusor
-- [x] Verhöre oder bestich Venik
-  > Belohnung auswählbar: verhöre links 300k Parastahl, bestich rechts 25k Tritanium. Bestechung ausgewählt.      
+- [x] Verhöre oder bestich Venik 
+- [ ] Verhöre links `300k Parastahl` 
+- [x] Bestich rechts `25k Tritanium`
 - [x] Spende dem Söldner 37000 Dilithium
 - [x] Konfrontiere K'Thak auf Dhi'Ban
 - [ ] Besiege K'Thak (Abfangjäger 37725 Stärke)
@@ -229,10 +230,32 @@ Quid Pro Quo
 - [x] Kehre zur Sternenbasis 82 zurück
 - [Folgemission: Geteilte Aufmerksamkeit](#geteilte-aufmerksamkeit)
 
-#### Geteilte Aufmerksamkeit 
-`(?)`
-- [ ] Besiege 8 Feinde in V'varia
-- [ ] ...
+#### Geteilte Aufmerksamkeit
+[erfordert: Mantel und Degen](#mantel-und-degen)
+- [x] Besiege 8 Feinde in V'varia
+- [x] links  `(2x Nordstern, F60+, K39-, R9-, Credits 30, 2x Frachttresor)`
+- [ ] rechts `(2x Nordstern, F60+, K39-, R9-, 2100x OffizierEP , 2x Frachttresor)`
+- [x] Begieb dich zum Eisenhorn System 
+- [x] Besiege die Suliban Wache (Kampfschiff 17801 Stärke)
+- [x] Bringe die Gefangenen auf deine Station zurück
+- [Folgemission: Verschollen](#verschollen)
+
+#### Verschollen 
+[erfordert: Geteilte Aufmerksamkeit](#geteilte-aufmerksamkeit)
+`(10x Zahra, F70+, K48-, R11-, Credits 50, 2900x OffizierEP)` 
+- [x] Triff dich mit der Enterprise in Astrida
+- [x] Frage nach der USS Enterprise auf Vecemaq
+- [x] Bestich den Hafenmeister mit 40000 Tritanium
+- [x] Suche in Fastolf nach der Enterprise
+- [x] Meistere den Hinterhalt von Suliban (Kampfschiff 23149 Stärke)
+- [Folgemission: Der Enterprise Zwischenfall](#der-enterprise-zwischenfall)
+
+#### Der Enterprise Zwischenfall
+[erfordert: Verschollen](#verschollen)
+`(3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60)` 
+- [ ] Besiege 10 Feinde in Hubr
+- [ ] 
+
 ---
 
 ## Level 17 Systeme
