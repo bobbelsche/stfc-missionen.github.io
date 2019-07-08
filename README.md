@@ -61,7 +61,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 
 ---
 
- #### Aufstieg der Unabhängigen
+#### Aufstieg der Unabhängigen
   - [x] Verbessere Ops 18
   
  `vergessen zu notieren`
