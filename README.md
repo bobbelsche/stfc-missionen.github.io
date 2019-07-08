@@ -41,12 +41,49 @@
 
 ## Level 20 Systeme
 ## Level 19 Systeme
+
+### _**((Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
+
+#### Zerissene Ketten 
+- [x] Begieb dich zum letzten bekannten Standort der Sklave...
+- [x] Verfolge die Sklavenhändler nach Lycia
+- [x] Besiege 10 Feinde auf Level 15 oder höher
+- [x] Besiege den Orion Sklavenhändler (Abfangjäger 18405 Stärke)
+- [x] Vernichte den Sklavenhändler (wählbar links) `(6x Botany Bay, 48000 Parastahl, 9x Beschleunigung)`
+- [ ] Lass den Sklavenhändler gehen (wählbar rechts) `(6x Botany Bay, 7000 Tritanium, 23x Reparatur)`
+- [x] Zerstöre die Sklavenhalteroperationsbasis auf Elmirana
+        
+#### Gleicher Anteil
+`(6x Botany Bay, 12x Erz G2 ungewöhnlich, 700 Dilithium)`
+- [x] Triff den Informationshändler in Rigel
+- [x] Hacke den klingonischen Horchposzten in Labac
+- [x] Besiege die Klingonische Wache (Abfangjäger 18405 Stärke)
+- [x] Sende die Daten an den Händler in Rigel zurück
+
+#### Des Käufers Reue 
+- [x] Begib dich zum Schuttfeld in Amador
+- [x] Verfolge den Schrotthändler nach Nausikaa Prime
+- [x] Zahle für die Teile (wählbar links) `(6x Botany Bay, 18x Kristall G2 ungewöhnlich, 43000 Parastahl, 160x Vermessungsteile)`
+- [ ] Nimm dir die Teile mit Gewalt (wählbar rechts) `(6x Botany Bay, 4000x Tritanium, 100x Vermessungsteile)`
+- [x] Spende 10000 Tritanium 
+- [x] Bringe die Teile zu deiner Station zurück
+    
+Quid Pro Quo 
+`(6x Botany Bay, 20x Kristall G2 ungewöhnlich, 140x Vermessungsteile, 30x 15 Minuten Beschleunigung)`
+- [x] Untersuche den Ort des Diebstahls in Kepler-018
+- [x] Verfolge die Diebe nach Labac
+- [x] Besiege den nausikaanischen Raider (Abfangjäger 18405 Stärke)
+- [x] Finde die Basis der Raider in Amador
+- [x] Hole die Artefakte vom Raider Captain zurück (Kampfschiff 17801 Stärke)
+- [x] Bring die Artefakte zu deiner Station zurück 
+  
+        
 ## Level 18 Systeme
 
 ### _**(Krah’Hor - Vos'Keth-Station)**_
 
 #### Ein scharfes Auge
-> (35k Tritanium, 3x Nordstern, K80+, F19-, R51-, 3x Frachttresor)
+`(35k Tritanium, 3x Nordstern, K80+, F19-, R51-, 3x Frachttresor)`
 - [x] Orte das Ziel auf Lorillia
 - [x] Besiege 7 Feinde in Lorillia
 - [x] Besiege IRW Viribus (Kampfschiff 30071 Stärke)
@@ -55,7 +92,6 @@
 ---
 
 #### Tag der Friedenstaube 
-> (?)
 - [x] Finde den Vermissten Kundschafter in Labac
 - [x] Entscheide was du mit dem Plünderer anstellen willst (**Belohnung auswählbar**)
 - [x] Bestich den Plünderer mit 5000 Dilithium
@@ -66,7 +102,7 @@
 ---
 
 #### Heilige Relikte
-> (40x Vermessungsteile, K60+, F13-, R35-, 10x Komal) [erfordert: Tag der Friedenstaube](#tag-der-friedenstaube)
+`(40x Vermessungsteile, K60+, F13-, R35-, 10x Komal` [erfordert: Tag der Friedenstaube](#tag-der-friedenstaube)
 - [x] Triff dich mit Komal an der Vos’Keth-Station
 - [x] Sprich mit dem yridianischen Informationshändler
 - [x] Zahle 35000 Tritanium für die Informationen
