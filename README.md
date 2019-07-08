@@ -14,6 +14,7 @@
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
 
 `(100k Parstahl)`
+
 ---
 
 #### Nur die Zukunft dauert nicht ewig
@@ -21,13 +22,13 @@
 - [x] Vernichte 8 Feinde im Opla System
 
 `(300 gewöhnliches Raffiniertes Erz)`
----
+___
 
 #### Hattrick
 - [x] Baue Trockendock C
 
 `(100k Parstahl)`
----
+___
 
  #### Kristall
 - [x] Reise zum Nelve-System
@@ -36,13 +37,13 @@
 - [x] Bringe es zurück auf die Station
 
 `(35k Parstahl)`
----
+___
 
 #### Die Kehra 
 - [ ] Baue die Kehra
 
 `(200x Ultra Rekruten)`
----
+___
 
 #### Nachrüstung 
 ```
