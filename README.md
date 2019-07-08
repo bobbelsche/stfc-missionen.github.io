@@ -241,8 +241,7 @@ Quid Pro Quo
 - [Folgemission: Verschollen](#verschollen)
 
 #### Verschollen 
-[erfordert: Geteilte Aufmerksamkeit](#geteilte-aufmerksamkeit)
-`(10x Zahra, F70+, K48-, R11-, Credits 50, 2900x OffizierEP)` 
+`(10x Zahra, F70+, K48-, R11-, Credits 50, 2900x OffizierEP)` [erfordert: Geteilte Aufmerksamkeit](#geteilte-aufmerksamkeit)
 - [x] Triff dich mit der Enterprise in Astrida
 - [x] Frage nach der USS Enterprise auf Vecemaq
 - [x] Bestich den Hafenmeister mit 40000 Tritanium
@@ -251,8 +250,7 @@ Quid Pro Quo
 - [Folgemission: Der Enterprise Zwischenfall](#der-enterprise-zwischenfall)
 
 #### Der Enterprise Zwischenfall
-[erfordert: Verschollen](#verschollen)
-`(3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60)` 
+`(3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60)` [erfordert: Verschollen](#verschollen)
 - [ ] Besiege 10 Feinde in Hubr
 - [ ] 
 
