@@ -2,13 +2,13 @@
 
 # Inhalt
 
-1. [Automatische Missionen (Story)](#automatische-missionen)
+1. [Basis Missionen](#basis-missionen)
 5. [Level 20 Systeme](#level-20-systeme)
 4. [Level 19 Systeme](#level-19-systeme)
 3. [Level 18 Systeme](#level-18-systeme)
 2. [Level 17 Systeme](#level-17-systeme)
 
-## Automatische Missionen (Story)
+## Basis Missionen
 
 #### Glocon
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
