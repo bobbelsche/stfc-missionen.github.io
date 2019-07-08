@@ -36,7 +36,7 @@
 
 #### Die Kehra 
 `(200x Ultra Rekruten)`
-- [x] Baue die Kehra 
+- [ ] Baue die Kehra 
 ---
     
 #### Nachrüstung 
