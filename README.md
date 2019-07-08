@@ -14,7 +14,7 @@
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
 
 `100k Parstahl`
-
+.
 ---
 
 #### Nur die Zukunft dauert nicht ewig
