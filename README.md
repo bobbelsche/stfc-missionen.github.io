@@ -11,18 +11,21 @@
 ## Automatische Missionen (Story)
 
 #### Glocon
-- [ ] Besiege Glocon (Kampfschiff 22909 Stärke) 
+- [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
+
 `(100k Parstahl)`
 ___
 
 #### Nur die Zukunft dauert nicht ewig
 - [x] Patruliere das nahegelegene Handelssystem Opla
 - [x] Vernichte 8 Feinde im Opla System
+
 `(300 gewöhnliches Raffiniertes Erz)`
 ___
 
 #### Hattrick
 - [x] Baue Trockendock C
+
 `(100k Parstahl)`
 ___
 
@@ -31,11 +34,13 @@ ___
 - [x] Besiege 5 Feinde auf Level 16+
 - [x] Baue 25 Gas ab
 - [x] Bringe es zurück auf die Station
+
 `(35k Parstahl)`
 ___
 
 #### Die Kehra
 - [ ] Baue die Kehra
+
 `(200x Ultra Rekruten)`
 ___
 
@@ -50,9 +55,9 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 ___
 
  #### Aufstieg der Unabhängigen
- >(vergessen zu notieren)
- - [x] Verbessere Ops 18
- 
+  - [x] Verbessere Ops 18
+  
+ `vergessen zu notieren`
 ___
 
 ## Level 20 Systeme
