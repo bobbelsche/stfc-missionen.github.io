@@ -13,7 +13,7 @@
 #### Glocon
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
 
-`(100k Parstahl)`
+`100k Parstahl`
 
 ---
 
