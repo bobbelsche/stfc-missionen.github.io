@@ -50,11 +50,12 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 ---
 
  #### Aufstieg der Unabhängigen
- `(vergessen zu notieren)`
+ >(vergessen zu notieren)
  - [x] Verbessere Ops 18
 ---
 
 ## Level 20 Systeme
+
 ## Level 19 Systeme
 
 ### _**(Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
