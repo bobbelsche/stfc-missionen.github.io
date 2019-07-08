@@ -37,9 +37,8 @@
 #### Die Kehra 
 `(200x Ultra Rekruten)`
 - [ ] Baue die Kehra
-
+`(200x Ultra Rekruten)`
 ---
-
 
 #### Nachrüstung 
 ```
@@ -48,8 +47,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 ```
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum für 725x raffinierteG3 Kristalle, 72 Latinum für 180x raffiniertes G3 Gas
 - [ ] Baue die Botany Bay
-- [x] blabla
-
+- [ ] blabla
 ---
 
  #### Aufstieg der Unabhängigen
