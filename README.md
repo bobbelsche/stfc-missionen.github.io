@@ -53,7 +53,7 @@
 ## Level 20 Systeme
 ## Level 19 Systeme
 
-### _**((Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
+### _**(Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
 
 #### Zerissene Ketten 
 - [x] Begieb dich zum letzten bekannten Standort der Sklave...
