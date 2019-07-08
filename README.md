@@ -11,23 +11,23 @@
 ## Automatische Missionen (Story)
 
 #### Glocon
-> (100k Parstahl)    
+`(100k Parstahl)`
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
 ---
 
 #### Nur die Zukunft dauert nicht ewig
-> (300 gewöhnliches Raffiniertes Erz)
+`(300 gewöhnliches Raffiniertes Erz)`
 - [x] Patruliere das nahegelegene Handelssystem Opla
 - [x] Vernichte 8 Feinde im Opla System
 ---
 
 #### Hattrick
-> (100k Parstahl)
+`(100k Parstahl)`
 - [x] Baue Trockendock C
 ---
 
  #### Kristall
-> (35k Parstahl)
+`(35k Parstahl)`
 - [x] Reise zum Nelve-System
 - [x] Besiege 5 Feinde auf Level 16+
 - [x] Baue 25 Gas ab
@@ -35,7 +35,7 @@
 ---
 
  #### Aufstieg der Unabhängigen
- < (vergessen zu notieren)
+ `(vergessen zu notieren)`
  - [x] Verbessere Ops 18
 ---
 
@@ -52,13 +52,15 @@
 - [x] Vernichte den Sklavenhändler (wählbar links) `(6x Botany Bay, 48000 Parastahl, 9x Beschleunigung)`
 - [ ] Lass den Sklavenhändler gehen (wählbar rechts) `(6x Botany Bay, 7000 Tritanium, 23x Reparatur)`
 - [x] Zerstöre die Sklavenhalteroperationsbasis auf Elmirana
-        
+---
+
 #### Gleicher Anteil
 `(6x Botany Bay, 12x Erz G2 ungewöhnlich, 700 Dilithium)`
 - [x] Triff den Informationshändler in Rigel
 - [x] Hacke den klingonischen Horchposzten in Labac
 - [x] Besiege die Klingonische Wache (Abfangjäger 18405 Stärke)
 - [x] Sende die Daten an den Händler in Rigel zurück
+---
 
 #### Des Käufers Reue 
 - [x] Begib dich zum Schuttfeld in Amador
@@ -67,7 +69,8 @@
 - [ ] Nimm dir die Teile mit Gewalt (wählbar rechts) `(6x Botany Bay, 4000x Tritanium, 100x Vermessungsteile)`
 - [x] Spende 10000 Tritanium 
 - [x] Bringe die Teile zu deiner Station zurück
-    
+---
+
 Quid Pro Quo 
 `(6x Botany Bay, 20x Kristall G2 ungewöhnlich, 140x Vermessungsteile, 30x 15 Minuten Beschleunigung)`
 - [x] Untersuche den Ort des Diebstahls in Kepler-018
