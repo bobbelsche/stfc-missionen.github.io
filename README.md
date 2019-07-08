@@ -11,7 +11,7 @@
 ## Automatische Missionen (Story)
 
 #### Glocon
-- [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
+- [ ] Besiege Glocon (Kampfschiff 22909 Stärke) 
 `(100k Parstahl)`
 ___
 
