@@ -39,7 +39,9 @@
 - [ ] Baue die Kehra 
 ---
     
-#### Nachrüstung (5x 1 Pfad freischalten, 14x Joaquin, A60+)
+#### Nachrüstung 
+`(5x 1 Pfad freischalten, 14x Joaquin, A60+)`
+
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren
 
 `Benötigt: (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium)`
