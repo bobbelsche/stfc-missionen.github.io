@@ -8,9 +8,6 @@
 3. [Level 18 Systeme](#level-18-systeme)
 2. [Level 17 Systeme](#level-17-systeme)
 
-hallo
-==
-
 ## Automatische Missionen (Story)
 
 #### Glocon
