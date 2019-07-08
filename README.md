@@ -51,11 +51,13 @@
 
 #### Nachrüstung 
 - [ ] Baue die Botany Bay
-> Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum für 725x raffinierteG3 Kristalle, 72 Latinum für 180x raffiniertes G3 Gas
+
 ```
 Belohnung: (5x 1 Pfad freischalten, 14x Joaquin, A60+)
 Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium)
 ```
+
+> Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum für 725x raffinierteG3 Kristalle, 72 Latinum für 180x raffiniertes G3 Gas
 
 ---
 
@@ -63,6 +65,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
   - [x] Verbessere Ops 18
   
  `vergessen zu notieren`
+
 ---
 
 ## Level 20 Systeme
