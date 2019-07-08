@@ -295,7 +295,6 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Besiege das Lockvogel Dronenschiff (Abfangjäger 982 Stärke)
 - [x] Verteidige Kelia vor den Klingonen (Forschungsschiff 17996 Stärke)
 - [x] Kehre nach Davidul zurück
----
 
 #### Kriegszeiten 
 `(R60+, F26-, K17-, Arix, Credits 50+)` [erfordert Bündnisse schmieden](#bündnisse-schmieden)
@@ -303,7 +302,6 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Bring die Ärztin zum Valdore Außenposten (außer Warp Reichweite ? Kadett Scotty hilft)
 - [x] Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
 - [Folgemission: Das Gesetzt verstummt](#Das-Gesetzt-verstummt)
----
 
 #### Das Gesetzt verstummt 
 `(R70+, F32-, K21-, 4xArix, Credits 60+)` [erfordert Bündnisse schmieden](#bündnisse-schmieden)
@@ -322,14 +320,12 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Besiege 5 Feinde im Opla System
 - [x] Spende 10k Tri 
 - [x] Bring Doktor Jenson zu deiner Station zurück
----
 
 #### Fern der Heimat
 `(28k Parstahl)`
 - [x] Finde die Verschollenen Kolonisten
 - [x] Besiege 4 Feinde in Vindemiatrix
 - [x] Bring die Händler nach Riegel zurück     
----
 
 #### Inflagranti 
 `(20k Parstahl)`
