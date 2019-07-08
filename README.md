@@ -293,7 +293,8 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 
 #### Der Enterprise Zwischenfall
 `(3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60)` [erfordert: Verschollen](#verschollen)
-- [ ] Besiege 10 Feinde in Hubr
+- [x] Besiege 10 Feinde in Hubr
+- [ ] Besiege COmmander Chevath
 
 ---
 
