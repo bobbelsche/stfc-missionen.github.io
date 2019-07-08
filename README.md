@@ -1,6 +1,6 @@
-# stfc-missionen.github.io
+> stfc-missionen.github.io
 
-* Table of contents
+# Inhalt
 
 1. [Automatische Missionen (Story)](#automatische-missionen)
 5. [Level 20 Systeme](#level-20-systeme)
@@ -59,6 +59,7 @@ Belohnung: (5x 1 Pfad freischalten, 14x Joaquin, A60+)
 Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium)
 ```
 
+[Inhalt](#inhalt)
 ---
 
  #### Aufstieg der Unabhängigen
@@ -66,6 +67,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
   
  `vergessen zu notieren`
 
+[Inhalt](#inhalt)
 ---
 
 ## Level 20 Systeme
@@ -87,6 +89,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 `40000x Tritanium, 2200 OffizierEP`
 - [x] Besiege 15 Feinde auf Level 19 oder höher
 
+[Inhalt](#inhalt)
 ---
 
 ## Level 19 Systeme
@@ -126,7 +129,8 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 - [x] Hole die Artefakte vom Raider Captain zurück (Kampfschiff 17801 Stärke)
 - [x] Bring die Artefakte zu deiner Station zurück
 
-___
+[Inhalt](#inhalt)
+---
 
 ## Level 18 Systeme
 
@@ -188,7 +192,7 @@ ___
 - [x] Konfrontiere K'Thak auf Dhi'Ban
 - [ ] Besiege K'Thak (Abfangjäger 37725 Stärke)
 
-___
+---
 
 ### _**(Lorillia - Sternenbasis 82)**_
 
@@ -209,7 +213,7 @@ ___
 - [x] Untersuche die versteckte Basis oder die stumme Kolonie (**Belohnung auswählbar**)
 - [x] Untersuche Vayuooaf
 
-___
+---
 
 ### _**(Kaikara - Voros-Außenposten)**_
 
@@ -289,7 +293,8 @@ ___
 `(3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60)` [erfordert: Verschollen](#verschollen)
 - [ ] Besiege 10 Feinde in Hubr
 
-___
+[Inhalt](#inhalt)
+---
 
 
 ## Level 17 Systeme
@@ -303,7 +308,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Begieb Dich nach Delta Vega
 - [ ] Besiege den Nausakaanischen Plünderer (Abfangjäger 44970 Stärke)
 
-___
+---
 
 ### _**(Vemet - Jigokef)**_ oder _**(Aciben - Miioyap)**_ oder _**(Kaus Media - Vijofet)**_
 
@@ -323,7 +328,7 @@ ___
 - [x] Führe Captain Tormund nach Kosz
 - [ ] Besiege Captain Tormind (Kampfschiff 16207)
 
-___
+---
 
 ### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
 
@@ -332,7 +337,7 @@ ___
 - [x] Platziere einen Datenrekorder auf Rigel Iaqik
 - [ ] Besiege den rigelianischen Captain (Forschungsschiff, 16382)
 
-___
+---
 
 ### _**(Vemet - Detta)**_ oder _**(Aciben - Neya)**_
 
@@ -359,7 +364,7 @@ ___
 - [x] Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
 - [x] Besiege Samson (Abfangjäger 18405 Stärke)
 
-___
+---
 
 ### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
 
@@ -382,4 +387,6 @@ ___
 - [x] Besiege die Suliban Wache (Forschungsschiff 12905 Stärke)
 - [x] Bringe den Gefangenen zu deiner Basis zurück
 
-___
+---
+
+[Inhalt](#inhalt)
