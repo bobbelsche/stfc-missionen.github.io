@@ -21,14 +21,14 @@
 - [x] Patruliere das nahegelegene Handelssystem Opla
 - [x] Vernichte 8 Feinde im Opla System
 
-`(300 gewöhnliches Raffiniertes Erz)`
+`300 gewöhnliches Raffiniertes Erz`
 
 ---
 
 #### Hattrick
 - [x] Baue Trockendock C
 
-`(100k Parstahl)`
+`100k Parstahl`
 
 ---
 
@@ -38,14 +38,14 @@
 - [x] Baue 25 Gas ab
 - [x] Bringe es zurück auf die Station
 
-`(35k Parstahl)`
+`35k Parstahl`
 
 ---
 
 #### Die Kehra
 - [ ] Baue die Kehra
 
-`(200x Ultra Rekruten)`
+`200x Ultra Rekruten`
 
 ---
 
