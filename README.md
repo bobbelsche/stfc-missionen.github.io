@@ -14,20 +14,20 @@
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
 
 `(100k Parstahl)`
-___
+---
 
 #### Nur die Zukunft dauert nicht ewig
 - [x] Patruliere das nahegelegene Handelssystem Opla
 - [x] Vernichte 8 Feinde im Opla System
 
 `(300 gewöhnliches Raffiniertes Erz)`
-___
+---
 
 #### Hattrick
 - [x] Baue Trockendock C
 
 `(100k Parstahl)`
-___
+---
 
  #### Kristall
  - [x] Reise zum Nelve-System
@@ -36,13 +36,13 @@ ___
 - [x] Bringe es zurück auf die Station
 
 `(35k Parstahl)`
-___
+---
 
 #### Die Kehra
 - [ ] Baue die Kehra
 
 `(200x Ultra Rekruten)`
-___
+---
 
 #### Nachrüstung 
 ```
@@ -52,13 +52,13 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum für 725x raffinierteG3 Kristalle, 72 Latinum für 180x raffiniertes G3 Gas
 - [ ] Baue die Botany Bay
 
-___
+---
 
  #### Aufstieg der Unabhängigen
   - [x] Verbessere Ops 18
   
  `vergessen zu notieren`
-___
+---
 
 ## Level 20 Systeme
 
