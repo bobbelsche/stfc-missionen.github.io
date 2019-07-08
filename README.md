@@ -13,17 +13,20 @@
 #### Glocon
 `(100k Parstahl)`
 - [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
+
 ___
 
 #### Nur die Zukunft dauert nicht ewig
 `(300 gewöhnliches Raffiniertes Erz)`
 - [x] Patruliere das nahegelegene Handelssystem Opla
 - [x] Vernichte 8 Feinde im Opla System
+
 ___
 
 #### Hattrick
 `(100k Parstahl)`
 - [x] Baue Trockendock C
+
 ___
 
  #### Kristall
@@ -32,11 +35,13 @@ ___
 - [x] Besiege 5 Feinde auf Level 16+
 - [x] Baue 25 Gas ab
 - [x] Bringe es zurück auf die Station
+
 ___
 
 #### Die Kehra
 `(200x Ultra Rekruten)`
 - [ ] Baue die Kehra
+
 ___
 
 #### Nachrüstung 
@@ -46,12 +51,13 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 ```
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum für 725x raffinierteG3 Kristalle, 72 Latinum für 180x raffiniertes G3 Gas
 - [ ] Baue die Botany Bay
-- [ ] blabla
+
 ___
 
  #### Aufstieg der Unabhängigen
  >(vergessen zu notieren)
  - [x] Verbessere Ops 18
+ 
 ___
 
 ## Level 20 Systeme
@@ -91,7 +97,8 @@ Quid Pro Quo
 - [x] Besiege den nausikaanischen Raider (Abfangjäger 18405 Stärke)
 - [x] Finde die Basis der Raider in Amador
 - [x] Hole die Artefakte vom Raider Captain zurück (Kampfschiff 17801 Stärke)
-- [x] Bring die Artefakte zu deiner Station zurück 
+- [x] Bring die Artefakte zu deiner Station zurück
+
 ___
 
 ## Level 18 Systeme
@@ -153,6 +160,7 @@ ___
 - [x] Spende dem Söldner 37000 Dilithium
 - [x] Konfrontiere K'Thak auf Dhi'Ban
 - [ ] Besiege K'Thak (Abfangjäger 37725 Stärke)
+
 ___
 
 ### _**(Lorillia - Sternenbasis 82)**_
@@ -173,6 +181,7 @@ ___
 - [x] Besiege 8 Feinde in Sorenle
 - [x] Untersuche die versteckte Basis oder die stumme Kolonie (**Belohnung auswählbar**)
 - [x] Untersuche Vayuooaf
+
 ___
 
 ### _**(Kaikara - Voros-Außenposten)**_
@@ -252,7 +261,7 @@ ___
 #### Der Enterprise Zwischenfall
 `(3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60)` [erfordert: Verschollen](#verschollen)
 - [ ] Besiege 10 Feinde in Hubr
-- [ ] 
+
 ___
 
 
@@ -266,6 +275,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 `(37k Parstahl)`
 - [x] Begieb Dich nach Delta Vega
 - [ ] Besiege den Nausakaanischen Plünderer (Abfangjäger 44970 Stärke)
+
 ___
 
 ### _**(Vemet - Jigokef)**_ oder _**(Aciben - Miioyap)**_ oder _**(Kaus Media - Vijofet)**_
@@ -285,6 +295,7 @@ ___
 - [x] Stiehl Captain Tormund's Banner-Trophäe
 - [x] Führe Captain Tormund nach Kosz
 - [ ] Besiege Captain Tormind (Kampfschiff 16207)
+
 ___
 
 ### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
@@ -292,7 +303,8 @@ ___
 #### Wissen ist Macht 
 `(31k Parastahl)`
 - [x] Platziere einen Datenrekorder auf Rigel Iaqik
-- [ ] Besiege den rigelianischen Captain (Forschungsschiff, 16382) 
+- [ ] Besiege den rigelianischen Captain (Forschungsschiff, 16382)
+
 ___
 
 ### _**(Vemet - Detta)**_ oder _**(Aciben - Neya)**_
@@ -319,6 +331,7 @@ ___
 - [x] Besiege die USS Manhatten (Forschungsschiff, 17996)
 - [x] Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
 - [x] Besiege Samson (Abfangjäger 18405 Stärke)
+
 ___
 
 ### _**(Obilent - Gauovik)**_ oder _**(Labac - Niwukin)**_
@@ -341,4 +354,5 @@ ___
 - [x] Finde den Gefangenen im Kepler-018-System
 - [x] Besiege die Suliban Wache (Forschungsschiff 12905 Stärke)
 - [x] Bringe den Gefangenen zu deiner Basis zurück
+
 ___
