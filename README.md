@@ -59,7 +59,6 @@ Belohnung: (5x 1 Pfad freischalten, 14x Joaquin, A60+)
 Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium)
 ```
 
-[Inhalt](#inhalt)
 ---
 
  #### Aufstieg der Unabhängigen
@@ -68,6 +67,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
  `vergessen zu notieren`
 
 [Inhalt](#inhalt)
+
 ---
 
 ## Level 20 Systeme
@@ -90,6 +90,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 - [x] Besiege 15 Feinde auf Level 19 oder höher
 
 [Inhalt](#inhalt)
+
 ---
 
 ## Level 19 Systeme
@@ -130,6 +131,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 - [x] Bring die Artefakte zu deiner Station zurück
 
 [Inhalt](#inhalt)
+
 ---
 
 ## Level 18 Systeme
@@ -294,6 +296,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 - [ ] Besiege 10 Feinde in Hubr
 
 [Inhalt](#inhalt)
+
 ---
 
 
