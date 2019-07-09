@@ -326,13 +326,13 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 #### Berufsrisiko
 `(49k Parstahl)`
 - [x] Eskotiere den Senator nach Pune
-- [ ] Besiege den Attentäter  (Abfangjäger 16758 Stärke)
+- [x] Besiege den Attentäter  (Abfangjäger 16758 Stärke)
 
 #### Am besten kalt genießen
 `(53k Parstahl)`
 - [x] Stiehl Captain Tormund's Banner-Trophäe
 - [x] Führe Captain Tormund nach Kosz
-- [ ] Besiege Captain Tormind (Kampfschiff 16207)
+- [x] Besiege Captain Tormind (Kampfschiff 16207)
 
 ---
 
@@ -341,7 +341,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 #### Wissen ist Macht 
 `(31k Parastahl)`
 - [x] Platziere einen Datenrekorder auf Rigel Iaqik
-- [ ] Besiege den rigelianischen Captain (Forschungsschiff, 16382)
+- [x] Besiege den rigelianischen Captain (Forschungsschiff, 16382)
 
 ---
 
