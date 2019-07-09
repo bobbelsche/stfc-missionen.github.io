@@ -295,9 +295,20 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 - [Folgemission: Der Enterprise Zwischenfall](#der-enterprise-zwischenfall)
 
 #### Der Enterprise Zwischenfall
-`(3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60)` [erfordert: Verschollen](#verschollen)
+`3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60` [erfordert: Verschollen](#verschollen)
 - [x] Besiege 10 Feinde in Hubr
-- [ ] Besiege COmmander Chevath
+- [x] Besiege Commander Chevath (Kampfschiff 30071 Stärke) (Warpreichweite Kadett Scott)
+- [x] Hilf mit, den Warpkern der Enterprise mit 18000 Dilithium
+- [x] Kehre zu deiner Station zurück
+- [Folgemission: Dranbleiben](#dranbleiben)
+
+#### Dranbleiben
+`3x Kirk, 1x 8 Stunden Beschleunigung, F160+, K121-, R27-, 150x Vermessungsteile G3` [erfordert: Der Enterprise Zwischenfall](#der-enterprise-zwischenfall)
+- [x] Warne die Kolonie auf Xedecir vor dem Angriff der Romulaner
+- [x] Hilf den Kolonisten bei Ihrer Verteidigung
+- [x] Spende 340000 Parastahl
+- [x] Besiege den Suliban Captain (Forschungsschiff 23149 Stärke)
+- [ ] Besiege die romulanische Centurion (Abfangjäger 37725 Stärke)
 
 ---
 
