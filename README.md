@@ -297,7 +297,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 #### Der Enterprise Zwischenfall
 `3x Kirk, 1x 3 Stunden Beschleunigung, F80+, K58-, R13-, Credits 60` [erfordert: Verschollen](#verschollen)
 - [x] Besiege 10 Feinde in Hubr
-- [x] Besiege Commander Chevath (Kampfschiff 30071 Stärke) (Warpreichweite Kadett Scott)
+- [x] Besiege Commander Chevath (Kampfschiff 30071 Stärke) (_ :warning: Warpreichweite Kadett Scott _)
 - [x] Hilf mit, den Warpkern der Enterprise mit 18000 Dilithium
 - [x] Kehre zu deiner Station zurück
 - [Folgemission: Dranbleiben](#dranbleiben)
