@@ -80,6 +80,22 @@
 
 [Inhalt](#inhalt)
 
+## Level 21 Systeme
+
+## _**(Sorenle - Tueunuk)**_ oder _**(Fastolf - Poziwop)**_
+
+#### Unbezahlbar 
+`?`
+- [ ] 
+
+#### Kostbare Materialien
+`225k Parastahl, 21k Tritanium, 1x Barot, 1x T'Pring 1x Stonn`
+- [ ] 
+
+---
+
+[Inhalt](#inhalt)
+
 ## Level 20 Systeme
 
 ### _**(Opla - Zarri Goma)**_
