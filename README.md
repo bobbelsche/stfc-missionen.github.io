@@ -61,10 +61,9 @@
 ---
 
 #### Nachrüstung 
-```
-Belohnung: (5x 1 Pfad freischalten, 14x Joaquin, A60+)
-Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium)
-```
+`Belohnung: (5x 1 Pfad freischalten, 14x Joaquin, A60+)`
+
+> :warning: Benötigt: `725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium`
 
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum für 725x raffinierteG3 Kristalle, 72 Latinum für 180x raffiniertes G3 Gas
 
