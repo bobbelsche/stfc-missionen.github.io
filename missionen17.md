@@ -1,4 +1,4 @@
-[Inhalt](#readme)
+[Inhalt](#README.md)
 
 ## Level 17 Systeme
 
@@ -92,4 +92,4 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 
 ---
 
-[Inhalt](#readme)
+[Inhalt](#README.md)
