@@ -267,7 +267,7 @@ Benötigt:  (725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffini
 #### Mantel und Degen 
 `(2x Nordstern, 300k Parastahl, R160+, F81-, K54-, 2x Frachttresor)` [erfordert: Ihr Krieg ist nicht deiner](#ihr-krieg-ist-nicht-deiner)
 - [x] Finde die Position des klingonischen Flaggschiff heraus
-- [x] Spühre den Kanzler in Khitomer auf (Warpreichweite Kadett Scott)
+- [x] Spühre den Kanzler in Khitomer auf (:warning: Warpreichweite Kadett Scott)
 - [x] Besiege 10 Feinde auf Level 22 oder höher
 - [x] Bring die Technologie zum Voros-Außenposten zurück
 - [x] Besiege Corvallener Söldner (Forschungsschiff, 17996 Stärke)
