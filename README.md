@@ -358,7 +358,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 #### Kriegszeiten 
 `(R60+, F26-, K17-, Arix, Credits 50+)` [erfordert Bündnisse schmieden](#bündnisse-schmieden)
 - [x] Triff die menschliche Ärztin in Labac (Spende 7000 Dilithium)
-- [x] Bring die Ärztin zum Valdore Außenposten (außer Warp Reichweite ? Kadett Scotty hilft)
+- [x] Bring die Ärztin zum Valdore Außenposten (:warning: Warpreichweite Kadett Scotty hilft)
 - [x] Besiege die USS Olympus (Kampfschiff, 17801 Stärke)
 - [Folgemission: Das Gesetzt verstummt](#Das-Gesetzt-verstummt)
 
@@ -367,7 +367,7 @@ Werte wie R60+ Fraktionspunkte Romulaner, F(öderation), K(lingonen)
 - [x] Untersuche das Notsignal in Lycia
 - [x] Repariere das Schiff des Kundschafters mit 30000 Trilitium
 - [x] Besiege die USS Manhatten (Forschungsschiff, 17996)
-- [x] Kehre zum Valdore Außenposten zurück (außer Warp Reichweite? Kadett Scotty hilft)
+- [x] Kehre zum Valdore Außenposten zurück (:warning: Warpreichweite Kadett Scotty hilft)
 - [x] Besiege Samson (Abfangjäger 18405 Stärke)
 
 ---
