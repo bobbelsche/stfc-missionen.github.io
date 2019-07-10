@@ -196,7 +196,7 @@
 - [Folgemission: Diebstahl einer Icone](#diebstahl-einer-icone)
 
 #### Diebstahl einer Icone
-`vergessen` [erfordert: Heilige Relikte](#heilige-relikte)
+`3x Nordstern, rest vergessen` [erfordert: Heilige Relikte](#heilige-relikte)
 - [x] Bring Komak zum Arnok Tempel
 - [x] Besiege 8 Feinde auf Level 20 oder höher
 - [x] Folge dem Schiff nach Fastolf
