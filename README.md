@@ -13,11 +13,9 @@
 1. [Basis Missionen](#basis-missionen)
 6. [Level 21 Systeme](#level-21-systeme)
 5. [Level 20 Systeme](#level-20-systeme)
-4. [Level 19 Systeme](#level-19-systeme)
+4. [Level 19 Systeme](m19.md#level-19-systeme)
 3. [Level 18 Systeme](m18.md#level-18-systeme)
 2. [Level 17 Systeme](m17.md#level-17-systeme)
-
-
 
 ## Basis Missionen
 
