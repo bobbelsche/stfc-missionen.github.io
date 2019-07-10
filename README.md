@@ -12,7 +12,7 @@
 
 1. [Basis Missionen](#basis-missionen)
 6. [Level 21 Systeme](#level-21-systeme)
-5. [Level 20 Systeme](#level-20-systeme)
+5. [Level 20 Systeme](m20.md#level-20-systeme)
 4. [Level 19 Systeme](m19.md#level-19-systeme)
 3. [Level 18 Systeme](m18.md#level-18-systeme)
 2. [Level 17 Systeme](m17.md#level-17-systeme)
@@ -97,29 +97,6 @@
 #### Kostbare Materialien
 `225k Parastahl, 21k Tritanium, 1x Barot, 1x T'Pring 1x Stonn`
 - [ ]
-
----
-
-[Inhalt](#inhalt)
-
-## Level 20 Systeme
-
-### _**(Opla - Zarri Goma)**_
-
-#### Kettenbrecher
-`1x Jellyfish, 7000x Tritanium`
-- [x] Besiege den Orion Sklavenhändler Crose (Kampfschiff 16207 Stärke)
-- [x] Besiege den Orion Sklavenhändler Neskar (Abfangjäger 18405 Stärke)
-
-#### Außenposten Angriff
-`33k Parastahl, 1500 Tritanium`
-- [x] Untersuche den Notruf
-- [x] Spüre den Angreifer auf, indem du sein Signal verfolgst
-- [x] Besiege den Romulanischen Commander (Kampfschiff 12765 Stärke)
-
-#### Erobern und Kommandieren
-`40000x Tritanium, 2200 OffizierEP`
-- [x] Besiege 15 Feinde auf Level 19 oder höher
 
 ---
 
