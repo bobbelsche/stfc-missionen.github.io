@@ -6,6 +6,7 @@
 :blush: :question: :zap: :warning: :information_source: :x:
 
 > git reset --hard origin/master
+> etwas anderes
 
 # Inhalt
 
