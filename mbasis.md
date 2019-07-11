@@ -6,6 +6,7 @@
 `16.7k Dilithium, 140x Standard Rekruten`
 - [ ] Besiege 3 Feinde auf Level 22 oder höher
 `.`
+
 ---
 
 #### Verbessere F&E Abteilung auf Level 19
