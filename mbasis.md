@@ -2,9 +2,29 @@
 
 ## Basis Missionen
 
+#### Kampftraining 22 Rekrut
+`16.7k Dilithium, 140x Standard Rekruten`
+- [ ] Besiege 3 Feinde auf Level 22 oder höher
+---
+
+#### Verbessere F&E Abteilung auf Level 19
+`7k Tritanium, 2x 5 Minuten Reparatur`
+- [ ] Verbessere F&E Abteilung auf Level 19
+---
+
+#### Kampftraining 21 Veteran
+`27 Dilithium, 14x 1 Std Beschleunigung, 300x Ultra Rekruten, 8x Vartoq`
+- [x] Besiege den feindlichen Captain (Kampfschiff 36701 Stärke) 
+---
+
+#### Kampftraining 21 Soldat
+`16.2k Dilithium, 40k Offizier-EP, 275x Premium Rekruten`
+- [x] Besiege 10 Feinde auf Level 21 oder höher
+---
+
 #### Kampftraining 21 Rekrut
 `10.7k Dilithium, 120x Standard Rekruten`
-- [ ] Besiege 3 Feinde auf Level 21 oder höher
+- [x] Besiege 3 Feinde auf Level 21 oder höher
 ---
 
 #### Glocon
