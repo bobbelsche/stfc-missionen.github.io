@@ -5,6 +5,7 @@
 #### Kampftraining 22 Rekrut
 `16.7k Dilithium, 140x Standard Rekruten`
 - [ ] Besiege 3 Feinde auf Level 22 oder höher
+
 .
 ---
 
