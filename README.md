@@ -5,9 +5,6 @@
 > Emoji https://gist.github.com/rxaviers/7360908
 :blush: :question: :zap: :warning: :information_source: :x:
 
-[Testlink zu anderer md datei 17](missionen17.md)
-[Testlink zu anderer md datei und Mission Bündnisse schmieden](missionen17.md#bündnisse-schmieden)
-
 # Inhalt
 
 1. [Basis Missionen](mbasis.md#basis-missionen)
