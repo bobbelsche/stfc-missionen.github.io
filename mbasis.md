@@ -2,6 +2,12 @@
 
 ## Basis Missionen
 
+#### Verbessere Schiffswerft auf Level 19
+`12k Tritanium`
+- [ ] Verbessere Schiffswerft auf Level 19
+
+---
+
 #### Kampftraining 22 Rekrut
 `16.7k Dilithium, 140x Standard Rekruten`
 - [ ] Besiege 3 Feinde auf Level 22 oder höher
