@@ -2,6 +2,12 @@
 
 ## Basis Missionen
 
+#### Der kalte Krieg
+`250k Parstahl`
+- [ ] Verbessere die Ops auf Level 20
+
+---
+
 #### Verbessere Schiffswerft auf Level 19
 `12k Tritanium`
 - [ ] Verbessere Schiffswerft auf Level 19
@@ -16,7 +22,7 @@
 
 #### Verbessere F&E Abteilung auf Level 19
 `7k Tritanium, 2x 5 Minuten Reparatur`
-- [ ] Verbessere F&E Abteilung auf Level 19
+- [x] Verbessere F&E Abteilung auf Level 19
 
 ---
 
@@ -40,7 +46,7 @@
 
 #### Glocon
 `100k Parstahl`
-- [ ] Besiege Glocon (Kampfschiff 22909 Stärke)
+- [x] Besiege Glocon (Kampfschiff 22909 Stärke)
 
 ---
 
