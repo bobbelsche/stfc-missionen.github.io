@@ -2,28 +2,11 @@
 
 ## Basis Missionen
 
-
-
-- [erfordert: Diebstahl einer Icone](#diebstahl-einer-icone)
-- [Folgemission: Die tödlichen Jahre](#die-tödlichen-jahre)
-
-
-#### Die Quelle
-> USS Franklin 
-`2x Jaylah, 12k Parstahl, 4x 1 Std Beschleuniger`
-- [ ] Lies den yridianischen Händler auf Andvaris auf
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
----
-
 #### Darüber hinaus
 > USS Franklin 
 `100 Schwarm-Biominerale`
 - [x] Finde Bek Lan in Elona
-- [Folgemission: Die Quelle](#die-quelle)
+- [Folgemission: Die Quelle](m13.md#die-quelle)
 ---
 
 #### Der kalte Krieg
