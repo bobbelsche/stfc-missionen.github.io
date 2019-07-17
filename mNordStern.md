@@ -1,8 +1,10 @@
 ## Nordstern
 
-> Under Contruction 
-
 [Inhalt](README.md#inhalt)
+
+> Start der Missionen ist
+### _**(Kaus Australis - Yagerap)**_
+> Neutraler Raum [S:1154764176 X:-554 Y:-220]
 
 - [Tag der Ehre](m16.md#tag-der-ehre) `1x Nordstern`
 - [Ein scharfes Auge](m18.md#ein-scharfes-auge) `3x Nordstern`
