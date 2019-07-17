@@ -2,10 +2,10 @@
 
 [Inhalt](README.md#inhalt)
 
-Start der Missionen ist _**(Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
-[S:1017582787 X:-362 Y:123]
+Start der Missionen ist
 
 ### _**(Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
+> [S:1017582787 X:-362 Y:123]
 
 - [Gleicher Anteil](m19.md#gleicher-anteil)
 - [Quid Pro Quo](m19.md#quid-pro-quo)
@@ -14,13 +14,13 @@ Start der Missionen ist _**(Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
 
 > Es werden vorherige abgeschlossene Missionen benötigt. Die sind nicht detailiert aufgeführt.
 
-Astrida - Planet Jotun oder in Lycia
-======================
-[1]: Uncaged
-[2]: Misdirection
-[3]: One Man's Trash
-[4]: Reunions
-[5]: Lessons of the Past
+Astrida - Planet Jotun oder in Lycia 
+- [Uncaged]
+- [Misdirection]
+- [Misdirection]
+- [One Man's Trash]
+- [Reunions]
+- [Lessons of the Past]
 
 ---
 
