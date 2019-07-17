@@ -14,7 +14,8 @@ Start der Missionen ist
 
 > Es werden vorherige abgeschlossene Missionen benötigt. Die sind nicht detailiert aufgeführt.
 
-Astrida - Planet Jotun oder in Lycia 
+_**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
+
 - [Uncaged]
 - [Misdirection]
 - [Misdirection]
