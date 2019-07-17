@@ -17,8 +17,8 @@
 - [Vergeltungsmaßnahme](m20.md#vergeltungsmaßnahme) `3x Nordstern`
 
 > Folgende sind nicht sicher und noch nicht erspielt
-> <Kein_Stein (No Stone)=Voss(20)>, [Planet Kyte][? BP]
-> <Aufstand (Uprising)=Davidul(20)>, [Planet Nojusor][? BP]
+> Kein_Stein in Voss(20) Planet Kyte
+> Aufstand in Davidul(20)> Planet Nojusor
 ---
 
 [Inhalt](README.md#inhalt)
