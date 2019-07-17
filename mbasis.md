@@ -2,6 +2,21 @@
 
 ## Basis Missionen
 
+#### Außenbezirke
+> Augment
+`8x 3 Std Beschleunigung, 36x 5 Minuten Reparaut, A70+`
+- [ ] Untersuche das Rainsford System
+
+---
+
+#### Botany Bay Teil 1
+- [erfordert: Nachrüstung](mbasis.md#nachrüstung)
+> Augment
+`3x Joaquin`
+- [ ] Sammle 15 Einheiten Gewöhnliches Plutonium
+
+---
+
 #### Darüber hinaus
 > USS Franklin 
 `100 Schwarm-Biominerale`
@@ -86,11 +101,14 @@
 ---
 
 #### Nachrüstung
+> Botany Bay
 `5x 1 Pfad freischalten, 14x Joaquin, A60+`
 > :warning: Benötigt: `725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium`
 
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum ausgeben für 725x raffinierteG3 Kristalle und 72 Latinum für 180x raffiniertes G3 Gas
-- [ ] Baue die Botany Bay
+- [x] Baue die Botany Bay
+- [x] Bringe die Augments nach Rigel
+- [Folgemission: Botany Bay Teil 1](#botany-bay-teil-1)
 
 ---
 
