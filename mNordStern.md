@@ -1,5 +1,7 @@
 ## NordStern
 
+> Under Contruction 
+
 [Inhalt](README.md#inhalt)
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)

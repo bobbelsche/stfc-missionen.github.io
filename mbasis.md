@@ -18,7 +18,7 @@
 ---
 
 #### Darüber hinaus
-> USS Franklin 
+> Schwarm
 `100 Schwarm-Biominerale`
 - [x] Finde Bek Lan in Elona
 - [Folgemission: Die Quelle](m13.md#die-quelle)

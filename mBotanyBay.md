@@ -2,26 +2,28 @@
 
 [Inhalt](README.md#inhalt)
 
-Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
+Start der Missionen ist _**(Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
 
-### _**(System - Planet)**_
-> Neutraler Raum 
+> Es werden vorherige abgeschlossene Missionen benötigt. Die sind nicht detailiert aufgeführt.
 
-#### Bla 
-- [erfordert: Darüber hinaus](mbasis.md#darüber-hinaus)
-`2x Jaylah, 12k Parstahl, 4x 1 Std Beschleuniger`
-- [x] Lies den yridianischen Händler auf Andvaris auf
-- [Folgemission: Das Leben nach Krall](#das-leben-nach-krall)
-  
-#### Blabla
-- [erfordert: Die Quelle](mbasis.md#die-quelle)
-`12x ungewöhnlich raffiniertes Erz G2, 2500 Tritanium, 80x Kampfschiffteile`
-- [x] Triff Scotty in Lorilla
-- [x] Untersuche die Schwarmübernahme von Andvaris
-- [ ] Zerstöre 30 Feinde in Antvaris
-- [ ] Bla
-- [ ] Bla
-- [ ] Bla
+Astrida - Planet Jotun oder in Lycia
+======================
+[1]: Uncaged
+[2]: Misdirection
+[3]: One Man's Trash
+[4]: Reunions
+[5]: Lessons of the Past
+
+[S:1017582787 X:-362 Y:123]
+
+### _**(Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
+
+- [Gleicher Anteil](m19.md#gleicher-anteil)
+- [Quid Pro Quo](m19.md#quid-pro-quo)
+- [Des Käufers Reue](m19.md#des-käufers-reue)
+- [Zerissene Ketten](m19.md#zerissene-ketten)
+
+
 - [Folgemission: Das Leben nach Krall](#das-leben-nach-krall)
 
 ---
