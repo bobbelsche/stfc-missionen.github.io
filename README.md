@@ -5,7 +5,13 @@
 > Emoji https://gist.github.com/rxaviers/7360908
 :blush: :question: :zap: :warning: :information_source: :x:
 
-> git reset --hard origin/master
+Der Verlauf meiner fortlaufenden Missionenen. Ich habe erst mit OPS Level 17 angefangen zu dokumentieren. Es fehlen sehr viele Missionen die vorher waren.
+
+- [x] Zwischenschrit gewählt oder abgeschlossen
+- [ ] Hier komme ich momentan nicht weiter.
+
+Egal, vielleicht hilft es jemanden :smile:
+
 
 # Inhalt
 
