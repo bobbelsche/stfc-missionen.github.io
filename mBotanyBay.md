@@ -81,9 +81,12 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 - [Erfordert: Wir Sind Besser](mBotanyBay.md#wir-sind-besser)
 - [ ] Sammle 3 Proben der Dunklen Materie
 
+Erfordert: 3 der folgenden Missionen
+- [Auslagern](mBotanyBay.md#auslagern)
+- [On the Crapevine](mBotanyBay.md#on-the-crapevine)
+- [Willenssache](mBotanyBay.md#willenssache)
+- [Unter der Ferse](mBotanyBay.md#unter-der-ferse)
 ---
-
-
 
 
 ## Level 22 Systeme Augment
@@ -113,7 +116,7 @@ Benutze deinen Einfluss im Unabhängigen Raum, um die Aufmerksamkeit von Khan un
 - [x] Zahle 15000 Tritanium für die Dienste des Orioners
 - [x] Triff dich mit dem Informationshändler auf Yridia
 - [x] Verhindere, dass der Informationsdieb entkommt (Forschungsschiff 37061 Stärke)
-- [ ] Kehre nach Tera Lara zurück
+- [x] Kehre nach Tera Lara zurück
 
 ---
 
