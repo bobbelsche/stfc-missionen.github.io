@@ -2,6 +2,12 @@
 
 ## Basis Missionen
 
+#### Kampftraining 22 Soldat
+`25k Dilithium, 300x Premium Rekruten, 50k Offizier-EP`
+- [ ] Besiege 10 Feinde auf Level 22 oder höher
+
+---
+
 #### Der kalte Krieg
 `250k Parstahl`
 - [ ] Verbessere die Ops auf Level 20
@@ -16,7 +22,7 @@
 
 #### Kampftraining 22 Rekrut
 `16.7k Dilithium, 140x Standard Rekruten`
-- [ ] Besiege 3 Feinde auf Level 22 oder höher
+- [x] Besiege 3 Feinde auf Level 22 oder höher
 
 ---
 
