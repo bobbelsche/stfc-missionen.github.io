@@ -8,7 +8,7 @@
 > Schwarm, die Mission entsteht automatisch
 `100 Schwarm-Biominerale`
 - [x] Finde Bek Lan in Elona
-- [Folgemission: Die Quelle](m13.md#die-quelle)
+- [Folgemission: Die Quelle](mFranklin.md#die-quelle)
 
 ---
 
@@ -24,11 +24,11 @@
 - [x] Kontaktiere das Orion-Syndikat auf Orion Prime 
 - [x] Besiege Unterboss Vogga (Kampfschiff 11176 Stärke)
 - [x] Behandle Jaylahs Verletzungen in deiner Station
-- [Folgemission: Das Leben nach Krall](m13.md#das-leben-nach-krall)
+- [Folgemission: Das Leben nach Krall](mFranklin.md#das-leben-nach-krall)
   
 #### Das Leben nach Krall
 > Schwarm
-- [erfordert: Die Quelle](m13.md#die-quelle)
+- [erfordert: Die Quelle](mFranklin.md#die-quelle)
 `12x ungewöhnlich raffiniertes Erz G2, 2500 Tritanium, 80x Kampfschiffteile`
 - [x] Triff Scotty in Lorilla
 - [x] Untersuche die Schwarmübernahme von Andvaris
@@ -36,11 +36,11 @@
 - [x] Rette die Überlebenden des Angriffs auf den Außenposten von Andvaris I
 - [x] Untersuche die Kolonie auf Andvaris II
 - [ ] Vernichte die Führungsschwarmgruppe (Abfangjäger 14549 Stärke)
-- [Folgemission: Jenseits von Altamid](m13.md#jenseits-von-altamid)
+- [Folgemission: Jenseits von Altamid](mFranklin.md#jenseits-von-altamid)
 
 #### Jenseits von Altamid
 > Schwarm
-- [Erfordert: Das Leben nach Krall](m13.md#das-leben-nach-krall)
+- [Erfordert: Das Leben nach Krall](mFranklin.md#das-leben-nach-krall)
 - [x] Reise zu vom Schwarm befallenen Altamid
 - [x] Verfolge das Signal nach Antvaris
 - [x] Scanne Altamid auf Energiefluktiationen
@@ -52,11 +52,11 @@
 - [x] Triff dich mit dem Shuttle am Rande des Systems
 - [x] Entkomme von ALtamid mit den Scan Berichten
 - [x] Spende 110 Frequenzmodulatoren
-- [Folgemission: Das Nest ](m13.md#das-nest)
+- [Folgemission: Das Nest ](mFranklin.md#das-nest)
 
 #### Das Nest
 > Schwarm
-- [Erfordert: Jenseits von Altamid](m13.md#jenseits-von-altamid)
+- [Erfordert: Jenseits von Altamid](mFranklin.md#jenseits-von-altamid)
 - [x] Reagiere auf das Notsignal in Herias
 - [x] Zerstöre eine Schwarmgruppe um sie vom Planeten wegzulocken (Abfangjäger 21645 Stärke)
 
@@ -67,12 +67,12 @@
 - [x] Bring 250 Frequenzmodulatoren zu deiner Station _(Besiege Schwarmfeinde)_
 - [x] Zerstöre Zeniths Schiff (Abfangjäger 21645 Stärke)
 - [x] Versuche Zeniths Lebenszeichen zu verfolgen
-- [Folgemission: Stille Partner](m13.md#stille-partner)
-- [Folgemission: USS franklin Part 1](m13.md#uss-franklin-part-1)
+- [Folgemission: Stille Partner](mFranklin.md#stille-partner)
+- [Folgemission: USS franklin Part 1](mFranklin.md#uss-franklin-part-1)
 
 #### Stille Partner
 > Schwarm
-- [Erfordert: Das Nest ](m13.md#das-nest)
+- [Erfordert: Das Nest ](mFranklin.md#das-nest)
 - [x] Triff dich mit dem Suliban Kabalisten auf Kaikara Prime
 
 > Wirst Du der Suliban Kabale helfen?
@@ -82,23 +82,23 @@
 - [x] Besiege 30 Feinde in Andvaris
 - [x] Besiege 30 Feinde in Kohva
 - [x] Bring die verletzten Suliban zum Voros Außenposten
-- [Folgemission: Die Datenfalle](m13.md#die-datenfalle)
+- [Folgemission: Die Datenfalle](mFranklin.md#die-datenfalle)
 
 #### Die Datenfalle
 > Schwarm
 `7k Tritanium, 1300 Dilithium, 1x Cyberpathische Schnittstelle`
-- [Erfordert: Stille Partner](m13.md#stille-partner)
+- [Erfordert: Stille Partner](mFranklin.md#stille-partner)
 - [x] Triff Bek lan auf Yridia
 - [x] Untersuche den Ort des Schwarmangriffs
 - [x] Zerstöre das nausikaanische Kampfschiff (Kampfschiff 17801 Stärke)
 - [x] Zersöre Bek Lans Datenfalle (Forschungsschiff 17996 Stärke)
 - [x] Kehre zwecks reparaturen zur Station zurück
-- [Folgemission: Plage](m13.md#plage)
+- [Folgemission: Plage](mFranklin.md#plage)
 
 #### Plage
 > Schwarm
 `3x Jaylah, 12k gewöhnlich raffiniertes Gas G2, 120x Forschungsschiffsteile G2, 5k Tritanium, 1x Cyberpathische Schnittstelle`
-- [Erfordert: Die Datenfalle](m13.md#die-datenfalle)
+- [Erfordert: Die Datenfalle](mFranklin.md#die-datenfalle)
 - [x] Triff dich mit Laylah in Rigel 
 - [x] Verfolge das beschädigte Schwarmschiff
 - [x] Finde den Schwarm in Caldik
@@ -109,7 +109,7 @@
 
 > Benötigt: `300x Frequenzmodulatoren, 50x gewöhnlich raffinierte Gas G2, 35k Tritanium, 1400 Dilithium`
 
-- [Erfordert: Das Nest ](m13.md#das-nest)
+- [Erfordert: Das Nest ](mFranklin.md#das-nest)
 - [ ] Baue die USS Franklin
 
 
