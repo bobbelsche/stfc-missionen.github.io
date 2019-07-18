@@ -1,6 +1,6 @@
 ## Franklin und Schwarm
 
-> Die Franklin benötigt 90 Baupläne die durch Missionen und/oder durch den Einführungsevent erspielt werden können.
+> Die Franklin benötigt 90 Baupläne die durch Missionen und/oder durch den Einführungsevent erspielt werden können. 
 
 [Inhalt](README.md#inhalt)
 
@@ -106,6 +106,9 @@
 
 #### USS Franklin Part 1
 > Franklin, Schwarm
+
+> Benötigt: `300x Frequenzmodulatoren, 50x gewöhnlich raffinierte Gas G2, 35k Tritanium, 1400 Dilithium`
+
 - [Erfordert: Das Nest ](m13.md#das-nest)
 - [ ] Baue die USS Franklin
 
