@@ -109,7 +109,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Besuche das Orion Syndikat
 - [x] Zahle 15000 Tritanium für die Dienste des Orioners
 - [x] Triff dich mit dem Informationshändler auf Yridia
-- [ ] Verhindere, dass der Informationsdieb entkommt (Forschungsschiff 37061 Stärke)
+- [x] Verhindere, dass der Informationsdieb entkommt (Forschungsschiff 37061 Stärke)
+- [ ] Kehre nach Tera Lara zurück
 
 ---
 
