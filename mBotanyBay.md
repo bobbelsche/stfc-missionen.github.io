@@ -79,14 +79,27 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 `5x Pfad freischalten, 800x Ultra Rekruten, A120+`
 > Augment, Botany Bay
 - [Erfordert: Wir Sind Besser](mBotanyBay.md#wir-sind-besser)
-- [ ] Sammle 3 Proben der Dunklen Materie
+- [x] Sammle 3 Proben der Dunklen Materie
 
 Erfordert: 3 der folgenden Missionen
 - [Auslagern](mBotanyBay.md#auslagern)
 - [On the Crapevine](mBotanyBay.md#on-the-crapevine)
 - [Willenssache](mBotanyBay.md#willenssache)
 - [Unter der Ferse](mBotanyBay.md#unter-der-ferse)
+- [Folgemission: Der Würfel ist gefallen](mBotanyBay.md#der-würfel-ist-gefallen)
+
 ---
+
+#### Der Würfel ist gefallen
+`?`
+> Augment, Botany Bay
+- [Erfordert: Flüchtige Kombination](mBotanyBay.md#flüchtige-kombination)
+- [ ] Triff dich mit Khan in Kor Na Ron
+- [ ] Bla
+- [ ] Bla
+- [ ] Bla
+- [ ] Bla
+- [ ] Bla
 
 
 ## Level 22 Systeme Augment
