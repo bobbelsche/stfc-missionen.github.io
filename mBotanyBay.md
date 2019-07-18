@@ -105,7 +105,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### On the Crapevine
 `23k Dilithium, 33x 15 Minuten Reparatur, 1x Dunkle Materie, A30+`
-> Benutze deinen Einfluss im Unabhängigen Raum, um die Aufmerksamkeit von Khan und den Augments abzulenken
+
+Benutze deinen Einfluss im Unabhängigen Raum, um die Aufmerksamkeit von Khan und den Augments abzulenken
 - [x] Besuche das Orion Syndikat
 - [x] Zahle 15000 Tritanium für die Dienste des Orioners
 - [x] Triff dich mit dem Informationshändler auf Yridia
@@ -132,10 +133,11 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 
 
 #### Willenssache
-Ein Forschungsschiff sammelt proben von Dunkler Materie. Stiehl es für Khan. 
+Ein Forschungsschiff sammelt proben von Dunkler Materie. Stiehl es für Khan.
+
 - [x] Finde das Forschungsschiff in Rainsford
 
-> Beschaffe die Proben aus dem Forschungsschiff
+Beschaffe die Proben aus dem Forschungsschiff
 - [x] Links, Zahle 30000 Tritanium `904k Parstahl, 13x ungewöhnliches raffiniertes Erz G3, 1x Dunkle Materie, A40+`
 - [ ] Rechts, Nimm die Proben mit Gewalt `60k Tritanium, 6x ungewöhnliches raffiniertes Erz G3, 1x Dunkle Materie, A40+`
 - [x] Gib die Proben Joaquin in Tera Lara zurück
