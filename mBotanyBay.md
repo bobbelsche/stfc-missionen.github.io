@@ -125,14 +125,14 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Unter der Ferse 
 `1200x Ultra Rekruten, 1x Dunkle Materie, A70+`
-> Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterstützung von Khan gefangen genommen
+Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterstützung von Khan gefangen genommen
 - [x] Untersuche den Heimatplaneten der Gefangenen in Raddon
 - [x] Verfolge den Agenten nach Rainsford
 - [ ] Befrage den Kopfgeldjäger (Forschungsschiff 44329 Stärke)
 
 
 #### Willenssache
-> Ein Forschungsschiff sammelt proben von Dunkler Materie. Stiehl es für Khan. 
+Ein Forschungsschiff sammelt proben von Dunkler Materie. Stiehl es für Khan. 
 - [x] Finde das Forschungsschiff in Rainsford
 
 > Beschaffe die Proben aus dem Forschungsschiff
