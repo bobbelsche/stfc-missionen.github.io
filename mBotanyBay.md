@@ -30,8 +30,8 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 ## _**Augment**_
 
 #### Nachrüstung
-> Botany Bay
 `5x 1 Pfad freischalten, 14x Joaquin, A60+`
+> Botany Bay
 > :warning: Benötigt: `725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium`
 
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum ausgeben für 725x raffinierteG3 Kristalle und 72 Latinum für 180x raffiniertes G3 Gas
@@ -50,8 +50,8 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 ---
 
 #### Außenbezirke
-> Augment, Botany Bay, Mission entsteht automatisch
 `8x 3 Std Beschleunigung, 36x 5 Minuten Reparaut, A70+`
+> Augment, Botany Bay, Mission entsteht automatisch
 - [x] Untersuche das Rainsford System
 - [x] Stiehl einen Sternenbasis Generator von Lorilla
 - [x] Deaktiviere das Wachschiff der Sternenflotte (Forschungsschiff 23149 Stärke)
@@ -62,8 +62,8 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 ---
 
 #### Wir Sind Besser
-> Augment, Botany Bay
 - [Erfordert: Außenbezirke](mbasis.md#außenbezirke)
+> Augment, Botany Bay
 `53k Tritanium, 11k Dilituíum, A90+`
 - [x] Nimm Khan mit, um den Planeten Hanrex zu erkunden
 - [x] Besiege 8 Feinde auf Level 21 oder besser _(egal wo und welche)_
