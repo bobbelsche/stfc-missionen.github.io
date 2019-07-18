@@ -32,6 +32,7 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 #### Nachrüstung
 `5x 1 Pfad freischalten, 14x Joaquin, A60+`
 > Botany Bay
+
 > :warning: Benötigt: `725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium`
 
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum ausgeben für 725x raffinierteG3 Kristalle und 72 Latinum für 180x raffiniertes G3 Gas
@@ -42,9 +43,10 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 ---
 
 #### Botany Bay Teil 1
-- [erfordert: Nachrüstung](mbasis.md#nachrüstung)
 > Augment, Botany Bay
+
 `3x Joaquin`
+- [erfordert: Nachrüstung](mbasis.md#nachrüstung)
 - [ ] Sammle 15 Einheiten Gewöhnliches Plutonium
 
 ---
