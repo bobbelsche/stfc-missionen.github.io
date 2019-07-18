@@ -43,9 +43,8 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 ---
 
 #### Botany Bay Teil 1
-> Augment, Botany Bay
-
 `3x Joaquin`
+> Augment, Botany Bay
 - [erfordert: Nachrüstung](mbasis.md#nachrüstung)
 - [ ] Sammle 15 Einheiten Gewöhnliches Plutonium
 
