@@ -11,9 +11,9 @@
 
 | Normale                                         | Spezielle                                 |
 | ----------------------------------------------- | ----------------------------------------- |
-|1. [Basis Missionen](mbasis.md#basis-missionen)  | 1. [Botany Bay](mBotanyBay.md#botany-bay) |
+|1. [Basis Missionen](mbasis.md#basis-missionen)  | 1. [Botany Bay und Augment](mBotanyBay.md#botany-bay) |
 |2. [Level 23 Systeme](m23.md#level-23-systeme)   | 2. [Nordstern](mNordStern.md#nordstern)   |
-|3. [Level 22 Systeme](m22.md#level-22-systeme)   | 3. [USS Franklin](mFranklin.md#franklin)  |
+|3. [Level 22 Systeme](m22.md#level-22-systeme)   | 3. [Franklin und Schwarm](mFranklin.md#franklin-und-schwarm)  |
 |4. [Level 21 Systeme](m21.md#level-21-systeme)   | |
 |5. [Level 20 Systeme](m20.md#level-20-systeme)   | |
 |6. [Level 19 Systeme](m19.md#level-19-systeme)   | |

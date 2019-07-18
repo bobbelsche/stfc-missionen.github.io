@@ -2,28 +2,6 @@
 
 ## Basis Missionen
 
-#### Außenbezirke
-> Augment
-`8x 3 Std Beschleunigung, 36x 5 Minuten Reparaut, A70+`
-- [ ] Untersuche das Rainsford System
-
----
-
-#### Botany Bay Teil 1
-- [erfordert: Nachrüstung](mbasis.md#nachrüstung)
-> Augment
-`3x Joaquin`
-- [ ] Sammle 15 Einheiten Gewöhnliches Plutonium
-
----
-
-#### Darüber hinaus
-> Schwarm
-`100 Schwarm-Biominerale`
-- [x] Finde Bek Lan in Elona
-- [Folgemission: Die Quelle](m13.md#die-quelle)
----
-
 #### Der kalte Krieg
 `250k Parstahl`
 - [ ] Verbessere die Ops auf Level 20
@@ -97,18 +75,6 @@
 #### Die Kehra
 `200x Ultra Rekruten`
 - [ ] Baue die Kehra
-
----
-
-#### Nachrüstung
-> Botany Bay
-`5x 1 Pfad freischalten, 14x Joaquin, A60+`
-> :warning: Benötigt: `725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium`
-
-> Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum ausgeben für 725x raffinierteG3 Kristalle und 72 Latinum für 180x raffiniertes G3 Gas
-- [x] Baue die Botany Bay
-- [x] Bringe die Augments nach Rigel
-- [Folgemission: Botany Bay Teil 1](#botany-bay-teil-1)
 
 ---
 

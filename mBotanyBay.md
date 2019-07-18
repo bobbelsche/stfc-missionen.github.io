@@ -26,3 +26,50 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 ---
 
 [Inhalt](README.md#inhalt)
+
+## _**Augment**_
+
+#### Nachrüstung
+> Botany Bay
+`5x 1 Pfad freischalten, 14x Joaquin, A60+`
+> :warning: Benötigt: `725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium`
+
+> Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum ausgeben für 725x raffinierteG3 Kristalle und 72 Latinum für 180x raffiniertes G3 Gas
+- [x] Baue die Botany Bay
+- [x] Bringe die Augments nach Rigel
+- [Folgemission: Botany Bay Teil 1](#botany-bay-teil-1)
+
+---
+
+#### Botany Bay Teil 1
+- [erfordert: Nachrüstung](mbasis.md#nachrüstung)
+> Augment, Botany Bay
+`3x Joaquin`
+- [ ] Sammle 15 Einheiten Gewöhnliches Plutonium
+
+---
+
+#### Außenbezirke
+> Augment, Botany Bay, Mission entsteht automatisch
+`8x 3 Std Beschleunigung, 36x 5 Minuten Reparaut, A70+`
+- [x] Untersuche das Rainsford System
+- [x] Stiehl einen Sternenbasis Generator von Lorilla
+- [x] Deaktiviere das Wachschiff der Sternenflotte (Forschungsschiff 23149 Stärke)
+- [x] Hände die Verfolgerschiffe in Elona ab
+- [x] Bring Otto zurück zum Rainsford System
+- [Folgemission: Wir Sind Besser](mbasis.md#wir-sind-besser)
+
+---
+
+#### Wir Sind Besser
+> Augment, Botany Bay
+- [Erfordert: Außenbezirke](mbasis.md#außenbezirke)
+`53k Tritanium, 11k Dilituíum, A90+`
+- [x] Nimm Khan mit, um den Planeten Hanrex zu erkunden
+- [x] Besiege 8 Feinde auf Level 21 oder besser _(egal wo und welche)_
+- [x] Transportiere Khan auf die Oberfläche von Hanrex
+- [x] Bringe die Bodenproben zur Station
+
+---
+
+[Inhalt](README.md#inhalt)
