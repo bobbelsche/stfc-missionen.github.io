@@ -33,9 +33,10 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 `5x 1 Pfad freischalten, 14x Joaquin, A60+`
 > Botany Bay, automatische Mission.
 
-> :warning: Benötigt: `725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium`
+> Benötigt: `725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium`
 
 > Ab Level 20 kannst Du selber G3 Ressourcen raffinieren oder 290 Latinum ausgeben für 725x raffinierteG3 Kristalle und 72 Latinum für 180x raffiniertes G3 Gas
+
 - [x] Baue die Botany Bay
 - [x] Bringe die Augments nach Rigel
 - [Folgemission: Botany Bay Teil 1](mBotanyBay#botany-bay-teil-1)
@@ -96,6 +97,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Auslagern
 `12x ungewöhnliches raffiniertes Erz, Gas, Kristall G3, 1x Dunkle Materie, A30+`
+
 > Verwende Khans experimentellen Extraktor, um Daten abzubauen, während du dein Schiff verteidigst.
 - [x] Baue 300 beschädigte Daten ab
 - [x] Verteidige dein Minenschiff gegen den Piraten (Abfangjäger 30909 Stärke)
