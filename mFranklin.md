@@ -160,10 +160,11 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 - [Erforder: Konter Schwarm](mFranklin.md#konter-schwarm)
 - [x] Stelle dich der Schwarmattattake in Altamid
 - [x] Spende 600 Frequenzmodulatoren um die Kommunikationssignale des Schwarms zu stören
-- [ ] Besiege Zeniths Eindringling (Abfangjäger 65722 Stärke)
-
+- [x] Besiege Zeniths Eindringling (Abfangjäger 65722 Stärke) _mit Franklin Level 10!_
 
 ---
+
+## Station Missionen
 
 #### USS Franklin Part 1
 > Franklin, Schwarm
