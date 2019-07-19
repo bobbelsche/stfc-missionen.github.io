@@ -12,7 +12,7 @@
 
 ---
 
-### _**Elona - Emmoni**_
+### _**(Elona - Emmoni)**_
 > Neutraler Raum [S:81286 X:334 Y:241]
 
 #### Die Quelle
@@ -164,13 +164,13 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 
 ---
 
-## _**Naiwillen**_
+## _**(Naiwillen)**_
 > Neutraler Raum [S:955177926]
 > Nach dem vorläufiges Ende des Missionstrangs von Eindämmungsprotokoll geht es hier in Naiwillen weiter.
 
 
 
-## _**Station Missionen**_
+## _**(Station Missionen)**_
 
 #### USS Franklin Part 1
 > Franklin, Schwarm
