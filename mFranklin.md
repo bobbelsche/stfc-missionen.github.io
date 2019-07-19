@@ -6,7 +6,7 @@
 
 #### Darüber hinaus
 > Schwarm, die Mission entsteht automatisch
-`100 Schwarm-Biominerale`
+`100x Schwarm-Biominerale`
 - [x] Finde Bek Lan in Elona
 - [Folgemission: Die Quelle](mFranklin.md#die-quelle)
 
@@ -147,10 +147,23 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 - [x] Rekrutiere Unabhängigen Captains in Rigel
 - [x] Versorge Captain Smith mit 8000 Dilitium
 - [x] Starte den Angriff auf Zenith in beta Vordunn
-- [ ] Zerstöre die Schwarm Abfangjäger (Abfangjäger 34782 Stärke)
+- [x] Zerstöre die Schwarm Abfangjäger (Abfangjäger 34782 Stärke)
+- [x] Treibe Zenith in die Enge und deaktiviere sein Schiff (Abfangjäger 34782 Stärke)
+- [x] Eile nach Rigel
+- [Folgemission: Eindämmungsprotokoll](mFranklin.md#eindämmungsprotokoll)
 
 ---
 
+#### Eindämmungsprotokoll
+> Schwarm
+`5x Jaylah, 150x Ultra Rekruten, 150x Premium Rekruten, 100x Schwarm-Biominerale`
+- [Erforder: Konter Schwarm](mFranklin.md#konter-schwarm)
+- [x] Stelle dich der Schwarmattattake in Altamid
+- [x] Spende 600 Frequenzmodulatoren um die Kommunikationssignale des Schwarms zu stören
+- [ ] Besiege Zeniths Eindringling (Abfangjäger 65722 Stärke)
+
+
+---
 
 #### USS Franklin Part 1
 > Franklin, Schwarm
