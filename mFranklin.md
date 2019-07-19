@@ -26,6 +26,8 @@
 - [x] Behandle Jaylahs Verletzungen in deiner Station
 - [Folgemission: Das Leben nach Krall](mFranklin.md#das-leben-nach-krall)
   
+---
+
 #### Das Leben nach Krall
 > Schwarm
 - [erfordert: Die Quelle](mFranklin.md#die-quelle)
@@ -35,8 +37,10 @@
 - [x] Zerstöre 30 Feinde in Antvaris
 - [x] Rette die Überlebenden des Angriffs auf den Außenposten von Andvaris I
 - [x] Untersuche die Kolonie auf Andvaris II
-- [ ] Vernichte die Führungsschwarmgruppe (Abfangjäger 14549 Stärke)
+- [x] Vernichte die Führungsschwarmgruppe (Abfangjäger 14549 Stärke)
 - [Folgemission: Jenseits von Altamid](mFranklin.md#jenseits-von-altamid)
+
+---
 
 #### Jenseits von Altamid
 > Schwarm
@@ -54,6 +58,8 @@
 - [x] Spende 110 Frequenzmodulatoren
 - [Folgemission: Das Nest ](mFranklin.md#das-nest)
 
+---
+
 #### Das Nest
 > Schwarm
 - [Erfordert: Jenseits von Altamid](mFranklin.md#jenseits-von-altamid)
@@ -70,6 +76,8 @@
 - [Folgemission: Stille Partner](mFranklin.md#stille-partner)
 - [Folgemission: USS franklin Part 1](mFranklin.md#uss-franklin-part-1)
 
+---
+
 #### Stille Partner
 > Schwarm
 - [Erfordert: Das Nest ](mFranklin.md#das-nest)
@@ -84,6 +92,8 @@
 - [x] Bring die verletzten Suliban zum Voros Außenposten
 - [Folgemission: Die Datenfalle](mFranklin.md#die-datenfalle)
 
+---
+
 #### Die Datenfalle
 > Schwarm
 `7k Tritanium, 1300 Dilithium, 1x Cyberpathische Schnittstelle`
@@ -95,6 +105,8 @@
 - [x] Kehre zwecks reparaturen zur Station zurück
 - [Folgemission: Plage](mFranklin.md#plage)
 
+---
+
 #### Plage
 > Schwarm
 `3x Jaylah, 12k gewöhnlich raffiniertes Gas G2, 120x Forschungsschiffsteile G2, 5k Tritanium, 1x Cyberpathische Schnittstelle`
@@ -102,7 +114,43 @@
 - [x] Triff dich mit Laylah in Rigel 
 - [x] Verfolge das beschädigte Schwarmschiff
 - [x] Finde den Schwarm in Caldik
-- [ ] Bringe 400 Frequenzmodulatoren zu deiner Station
+- [x] Bringe 400 Frequenzmodulatoren zu deiner Station
+- [x] Deaktiviere das Führungsschiff innerhalb der Schwarmgruppe
+- [x] Spende 400 Frequenzmodulatoren
+- [x] Bringe die Schwarmtrümmer nach Rigel VII
+- [x] Spende die Cyberpathische Schnittstelle den Rigelaner
+- [Folgemission: Direktiven](mFranklin.md#direktiven)
+
+---
+
+#### Direktiven
+> Schwarm
+- [Erfordert: Plage](mFranklin.md#plage)
+- [x] Bring die Schwarmtrümmer zu Scotty in Herias
+- [x] Bringe Jaylah zu einem Treffen mit Kirk auf die Sternenbasis 82
+
+Entscheide, was bezüglich des Schwarms geschehen soll?
+- [x] Links, Hilf Jaylah, den Schwarm alleine zu bekämpfen `400x Premium Rekruten, 250x Ultra Rekruten, 800x Frequenzmodulatoren`
+- [ ] Rechts, Bitte die Föderation um Hilfe `7x ungewöhnliche raffinierte Gas, Erz, Kristalle G2, 800x Frequenzmodulatoren`
+- [x] Reagiere auf den Notruf in Caldik
+- [x] Besiege 50 Feinde in Caldik
+- [x] Besiege 50 Feinde in Omtose
+- [Folgemission: Konter Schwarm](mFranklin.md#konter-schwarm)
+
+---
+
+#### Konter Schwarm
+> Schwarm
+`15x ungewöhnliche raffinierte Gas G2, 8x Erz G2, 8x Kristalle G2`
+- [Erfordert: Direktiven](mFranklin.md#direktiven)
+- [x] Überrede die Heriasflüchtlinge, sich dem Angriff anzuschließen
+- [x] Rekrutiere Unabhängigen Captains in Rigel
+- [x] Versorge Captain Smith mit 8000 Dilitium
+- [x] Starte den Angriff auf Zenith in beta Vordunn
+- [ ] Zerstöre die Schwarm Abfangjäger (Abfangjäger 34782 Stärke)
+
+---
+
 
 #### USS Franklin Part 1
 > Franklin, Schwarm
@@ -110,8 +158,29 @@
 > Benötigt: `300x Frequenzmodulatoren, 50x gewöhnlich raffinierte Gas G2, 35k Tritanium, 1400 Dilithium`
 
 - [Erfordert: Das Nest ](mFranklin.md#das-nest)
-- [ ] Baue die USS Franklin
+- [x] Baue die USS Franklin
+- [Folgemission: USS Franklin Part 2](mFranklin.md#uss-franklin-part-2)
 
+---
+
+#### USS Franklin Part 2
+> Franklin, Schwarm
+
+`120x Schwarm Biominerale, 1x Warpsperre der Franklin, 5x ungewöhnliche raffinierte Gas, Erz, Kristalle G2`
+
+- [Erfordert: USS Franklin Part 1](mFranklin.md#uss-franklin-part-1)
+- [x] Verbessere die Schiffswerft auf Level 18
+- [Folgemission: USS Franklin Part 3](mFranklin.md#uss-franklin-part-3)
+  
+---
+
+#### USS Franklin Part 3
+> Franklin, Schwarm
+
+`120x Schwarm Biominerale, 1x Warpsperre der Franklin, 5x ungewöhnliche raffinierte Gas, Erz, Kristalle G2, `
+
+- [Erfordert: USS Franklin Part 2](mFranklin.md#uss-franklin-part-2)
+- [x] Verbessere das Astronautikstudio auf Level 20
 
 ---
 
