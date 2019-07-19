@@ -164,10 +164,19 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 
 ---
 
-## _**(Naiwillen)**_
-> Neutraler Raum [S:955177926]
+## _**(Naiwillen - Gorvax)**_
+> Neutraler Raum [S:955177926 X:-200 Y:-260]
 > Nach dem vorläufiges Ende des Missionstrangs von Eindämmungsprotokoll geht es hier in Naiwillen weiter.
 
+#### Raubtierhaft
+> Schwarm
+`400x Ultra Rekruten, 1x 1Tag Beschleunigung`
+- [Erfordert: Die Quelle](mFranklin.md#die-quelle)
+- [Erfordert: Eindämmungsprotokoll](mFranklin.md#eindämmungsprotokoll)
+- [Erfordert: F&E Abteilung 26]
+- [ ] ???
+
+---
 
 
 ## _**(Station Missionen)**_
