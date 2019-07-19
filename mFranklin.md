@@ -162,6 +162,8 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 - [x] Spende 600 Frequenzmodulatoren um die Kommunikationssignale des Schwarms zu stören
 - [x] Besiege Zeniths Eindringling (Abfangjäger 65722 Stärke) _mit Franklin Level 10!_
 
+<vorläufiges ende>
+
 ---
 
 ## Station Missionen
