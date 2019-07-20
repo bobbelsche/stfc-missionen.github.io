@@ -2,10 +2,11 @@
 
 [Inhalt](README.md#inhalt)
 
-1. [Start der Missionen](mBotanyBay.md#midnight-gixa_oder_amador-xezuk) 
+1. [Start der Missionen](mBotanyBay.md#start-der-missionen) 
+2. [Augment](mBotanyBay.md#augment)
+3. [Info](mBotanyBay.md#info)
 
-
-
+## Start der Missionen
 
 ### _**(Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_
 > [S:1017582787 X:-362 Y:123]
@@ -30,11 +31,11 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 
 [Inhalt](README.md#inhalt)
 
-## _**Augment**_
+## Augment
 
 #### Nachrüstung
 `5x 1 Pfad freischalten, 14x Joaquin, A60+`
-> Botany Bay, automatische Mission.
+> Botany Bay, automatische Stations Mission.
 
 > Benötigt: `725x gewöhnlich raffinierte Kristalle G3, 180x gewöhnlich raffinierte Gas G3, 800K Tritanium, 28K Dilithium`
 
@@ -166,3 +167,41 @@ Beschaffe die Proben aus dem Forschungsschiff
 ---
 
 [Inhalt](README.md#inhalt)
+
+## Info
+
+Ein paar Infos zur Augment Erweiterung und ihrem Gebiet
+
+**Plutonium**
+Plutonium ist eine spezielle Ressource, die dazu verwendet wird, die Warp- und Impulskomponenten des Botany Bay-Schiffes zu verbessern (zusätzlich zu den Vermessungsteilen und -materialien). Es gibt drei Arten von Plutonium: gewöhnlich (Level 20), ungewöhnlich (Level 24) und selten (Level 30) für Upgrades (je nach Ausbaustufen)
+Erhältlich ist Plutonium nur im Augment Fraktion-Shop oder bei Sonderverkäufen im regulären Shop.
+
+**Beschädigte und dekodierte Daten**
+An jedem neuen Mining-Knoten können bis zu 3 Schiffe andocken und entweder beschädigte oder dekodierte Daten abbauen. Wandelt diese Ressource für Gegenstände im Augment Fraktion-Shop in Augment-Punkte um. Da beschädigte Daten leichter zu finden sind, aber weniger effizient zu verwenden sind, benötigen Sie im Vergleich zu dekodierten Daten bei der Konvertierung von Augment-Punkten mehr davon.
+
+**Kopfgeldjäger**
+Im Augment Gebiet treffen Sie auf Kopfgeldjäger. Je freundlicher Sie mit der Augment-Fraktion sind, desto aggressiver werden die Kopfgeldjäger dir nachjagen.
+Tip1: Sende ein Shiff und kurz danach deine BB. Sobald das Schiff angegriffen wird setze die BB auf die Datenmine und warpe mit dem ersten Schiff raus.
+Tip2: Sende die BB und kurz danach ein Kampfschiff. Sobald die BB angegriffen wird zerstöre den Angreifer mit deinem Kampfschiff.
+
+**Verdienst Ansehen**
+Reputation für die Augment-Fraktion wird durch Missionsbelohnungen in der Hauptmissionskette der Augments und durch Planetenmissionen im Augment-Raum verdient.
+
+**Reputationsstufen**
+Die Reputation der Augment-Fraktion beginnt bei null und wird nicht abnehmen. Die Interaktion mit den bereits vorhandenen drei Fraktionen hat keinerlei Einfluss auf Ihren Ruf in Bezug auf die Augments.
+Dud erhälst vor allem durch das Erfüllen von mit Augment verbundenen Missionen Ansehen. Ab diesem Zeitpunkt hast Du die Möglichkeit, in Augment Raum gewonnene Ressourcen in Reputationspunkte umzuwandeln.
+
+
+Abhängig von deinem Level und Reputation sowie der BB ist es besser für Missionen Plutonium zu sammeln bevor du die BB upgradest, ansonsten bleiben die Missionen unbeendet.
+
+Schiffswerft Level 18
+
+Je höher das System desto höher ist die Abbaurate 
+
+Dekodierte Daten:
+Node 50k=10x, 30k=7x, 20k=5x, 8k=3k, 2k=1x
+KorruptebDaten
+Node 30k=4x, 10k=1.75x, 8k=1.5x, 2k=1x
+
+Bau und Upgrade Tabelle:
+https://star-trek-fleet-command.fandom.com/wiki/Botany_Bay
