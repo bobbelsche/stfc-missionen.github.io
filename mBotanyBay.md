@@ -84,13 +84,13 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 > Augment, Botany Bay
 - [Erfordert: Wir Sind Besser](mBotanyBay.md#wir-sind-besser)
 - [x] Sammle 3 Proben der Dunklen Materie
+- [Folgemission: Der Würfel ist gefallen](mBotanyBay.md#der-würfel-ist-gefallen)
 
 Erfordert: 3 der folgenden Missionen
 - [Auslagern](mBotanyBay.md#auslagern)
 - [On the Crapevine](mBotanyBay.md#on-the-crapevine)
 - [Willenssache](mBotanyBay.md#willenssache)
 - [Unter der Ferse](mBotanyBay.md#unter-der-ferse)
-- [Folgemission: Der Würfel ist gefallen](mBotanyBay.md#der-würfel-ist-gefallen)
 
 ---
 
