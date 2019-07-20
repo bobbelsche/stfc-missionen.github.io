@@ -2,7 +2,7 @@
 
 [Inhalt](README.md#inhalt)
 
-1. [Start der Missionen](mBotanyBay.md#_**(Midnight - Gixa)**_ oder _**(Amador - Xezuk)**_) 
+1. [Start der Missionen](mBotanyBay.md#(midnight-gixa_oder_amador-xezuk) 
 
 
 
