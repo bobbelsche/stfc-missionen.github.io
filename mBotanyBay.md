@@ -29,9 +29,9 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 
 ---
 
-[Oben](#botany-bay)
-
 ## Augment
+
+[Oben](#botany-bay)
 
 #### Nachrüstung
 `5x 1 Pfad freischalten, 14x Joaquin, A60+`
@@ -107,9 +107,9 @@ Erfordert: 3 der folgenden Missionen
 
 ---
 
-[Oben](#botany-bay)
-
 ## Level 22 Systeme Augment
+
+[Oben](#botany-bay)
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
@@ -138,9 +138,9 @@ Benutze deinen Einfluss im Unabhängigen Raum, um die Aufmerksamkeit von Khan un
 
 ---
 
-[Oben](#botany-bay)
-
 ## Level 24 Systeme Augment
+
+[Oben](#botany-bay)
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
@@ -167,9 +167,9 @@ Beschaffe die Proben aus dem Forschungsschiff
 
 ---
 
-[Oben](#botany-bay)
-
 ## Info
+
+[Oben](#botany-bay)
 
 Ein paar Infos zur Augment Erweiterung und ihrem Gebiet
 
