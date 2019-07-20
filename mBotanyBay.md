@@ -18,7 +18,7 @@
 
 > Es werden vorherige abgeschlossene Missionen benötigt. Die sind nicht detailiert aufgeführt.
 
-_**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
+### _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 
 - [Uncaged]
 - [Misdirection]
