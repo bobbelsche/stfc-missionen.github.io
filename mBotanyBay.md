@@ -29,7 +29,7 @@ _**(Astrida - Jotun)**_ oder in _**(Lycia - ?)**_
 
 ---
 
-[Inhalt](README.md#inhalt)
+[Oben](#botany-bay)
 
 ## Augment
 
@@ -105,10 +105,11 @@ Erfordert: 3 der folgenden Missionen
 - [ ] Bla
 - [ ] Bla
 
+---
+
+[Oben](#botany-bay)
 
 ## Level 22 Systeme Augment
-
-[Inhalt](README.md#inhalt)
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
@@ -137,9 +138,9 @@ Benutze deinen Einfluss im Unabhängigen Raum, um die Aufmerksamkeit von Khan un
 
 ---
 
-## Level 24 Systeme Augment
+[Oben](#botany-bay)
 
-[Inhalt](README.md#inhalt)
+## Level 24 Systeme Augment
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
@@ -166,7 +167,7 @@ Beschaffe die Proben aus dem Forschungsschiff
 
 ---
 
-[Inhalt](README.md#inhalt)
+[Oben](#botany-bay)
 
 ## Info
 
@@ -198,13 +199,17 @@ Abhängig von deinem Level und Reputation sowie der BB ist es besser für Missio
 **Abbau**
 Je höher das System desto höher ist die Abbaurate
 
-Dekodierte Daten:
-
-Node 50k=10x, 30k=7x, 20k=5x, 8k=3k, 2k=1x
-
-KorruptebDaten
-
-Node 30k=4x, 10k=1.75x, 8k=1.5x, 2k=1x
+| Korrupte Daten Node | Dekodierte Daten |
+| ------------------- | ---------------- |
+| 50k = 10x           | 30k = 4x         |
+| 30k = 7x            | 10k = 1,75x      |
+| 20k = 5x            | 8k = 1,5x        |
+| 8k = 3x             | 2k = 1x          |
+| 2k = 1x             |                  |
 
 Bau und Upgrade Tabelle:
 https://star-trek-fleet-command.fandom.com/wiki/Botany_Bay
+
+[Oben](#botany-bay)
+
+[Inhalt](README.md#inhalt)
