@@ -149,15 +149,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Tera Lara - Hanrex)**_
 > Augment Raum [S:1775451055 X:-303 Y:-295]
 
-#### Unter der Ferse 
-`1200x Ultra Rekruten, 1x Dunkle Materie, A70+`
-
-Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterstützung von Khan gefangen genommen
-- [x] Untersuche den Heimatplaneten der Gefangenen in Raddon
-- [x] Verfolge den Agenten nach Rainsford
-- [ ] Befrage den Kopfgeldjäger (Forschungsschiff 44329 Stärke)
-
-
 #### Willenssache
 Ein Forschungsschiff sammelt proben von Dunkler Materie. Stiehl es für Khan.
 - [x] Finde das Forschungsschiff in Rainsford
@@ -166,6 +157,14 @@ Beschaffe die Proben aus dem Forschungsschiff
 - [x] Links, Zahle 30000 Tritanium `904k Parstahl, 13x ungewöhnliches raffiniertes Erz G3, 1x Dunkle Materie, A40+`
 - [ ] Rechts, Nimm die Proben mit Gewalt `60k Tritanium, 6x ungewöhnliches raffiniertes Erz G3, 1x Dunkle Materie, A40+`
 - [x] Gib die Proben Joaquin in Tera Lara zurück
+
+#### Unter der Ferse 
+`1200x Ultra Rekruten, 1x Dunkle Materie, A70+`
+
+Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterstützung von Khan gefangen genommen
+- [x] Untersuche den Heimatplaneten der Gefangenen in Raddon
+- [x] Verfolge den Agenten nach Rainsford
+- [ ] Befrage den Kopfgeldjäger (Forschungsschiff 44329 Stärke)
 
 ---
 
