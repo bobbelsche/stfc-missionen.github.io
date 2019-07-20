@@ -98,7 +98,7 @@ Erfordert: 3 der folgenden Missionen
 `?`
 > Augment, Botany Bay
 - [Erfordert: Flüchtige Kombination](mBotanyBay.md#flüchtige-kombination)
-- [ ] Triff dich mit Khan in Kor Na Ron
+- [ ] Triff dich mit Khan in Kor Na Ron _(Kadet Scotty, Warp für Tallas zu hoch)_
 - [ ] Bla
 - [ ] Bla
 - [ ] Bla
