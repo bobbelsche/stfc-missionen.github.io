@@ -95,15 +95,16 @@ Erfordert: 3 der folgenden Missionen
 ---
 
 #### Der Würfel ist gefallen
-`?`
 > Augment, Botany Bay
 - [Erfordert: Flüchtige Kombination](mBotanyBay.md#flüchtige-kombination)
-- [ ] Triff dich mit Khan in Kor Na Ron _(Kadet Scotty, Warp für Tallas zu hoch)_
-- [ ] Bla
-- [ ] Bla
-- [ ] Bla
-- [ ] Bla
-- [ ] Bla
+- [x] Triff dich mit Khan in Kor Na Ron _(Kadet Scotty, Warp für Tallas zu hoch)_
+- [x] Gib Khan 3 Proben Dunkle Materie 
+- [x] Aktiviere den Reaktor in Gealan
+- [x] Triff dich mit dem Föderationsagenten
+
+Kümmere dich um den Föderationsagenten
+- [x] Links Vernichte den Föderationsagenten `821k Parstahl, 5x Beschleuniger, A200+` (Forschungsschiff 54559 Stärke)
+- [ ] Rechts Sag ihm, dass du seinen Vorschlag sorgfältig prüfen wirst `31k Dilithium, A200+`
 
 ---
 
