@@ -173,6 +173,7 @@ Beschaffe die Proben aus dem Forschungsschiff
 
 Ein paar Infos zur Augment Erweiterung und ihrem Gebiet
 
+**Benötigt**
 Schiffswerft Level 18
 
 **Plutonium**
