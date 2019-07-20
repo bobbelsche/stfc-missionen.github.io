@@ -172,6 +172,8 @@ Beschaffe die Proben aus dem Forschungsschiff
 
 Ein paar Infos zur Augment Erweiterung und ihrem Gebiet
 
+Schiffswerft Level 18
+
 **Plutonium**
 Plutonium ist eine spezielle Ressource, die dazu verwendet wird, die Warp- und Impulskomponenten des Botany Bay-Schiffes zu verbessern (zusätzlich zu den Vermessungsteilen und -materialien). Es gibt drei Arten von Plutonium: gewöhnlich (Level 20), ungewöhnlich (Level 24) und selten (Level 30) für Upgrades (je nach Ausbaustufen)
 Erhältlich ist Plutonium nur im Augment Fraktion-Shop oder bei Sonderverkäufen im regulären Shop.
@@ -191,16 +193,17 @@ Reputation für die Augment-Fraktion wird durch Missionsbelohnungen in der Haupt
 Die Reputation der Augment-Fraktion beginnt bei null und wird nicht abnehmen. Die Interaktion mit den bereits vorhandenen drei Fraktionen hat keinerlei Einfluss auf Ihren Ruf in Bezug auf die Augments.
 Dud erhälst vor allem durch das Erfüllen von mit Augment verbundenen Missionen Ansehen. Ab diesem Zeitpunkt hast Du die Möglichkeit, in Augment Raum gewonnene Ressourcen in Reputationspunkte umzuwandeln.
 
-
 Abhängig von deinem Level und Reputation sowie der BB ist es besser für Missionen Plutonium zu sammeln bevor du die BB upgradest, ansonsten bleiben die Missionen unbeendet.
 
-Schiffswerft Level 18
-
-Je höher das System desto höher ist die Abbaurate 
+**Abbau**
+Je höher das System desto höher ist die Abbaurate
 
 Dekodierte Daten:
+
 Node 50k=10x, 30k=7x, 20k=5x, 8k=3k, 2k=1x
+
 KorruptebDaten
+
 Node 30k=4x, 10k=1.75x, 8k=1.5x, 2k=1x
 
 Bau und Upgrade Tabelle:
