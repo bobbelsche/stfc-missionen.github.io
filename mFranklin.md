@@ -4,6 +4,14 @@
 
 [Inhalt](README.md#inhalt)
 
+- [Missionen](mFranklin.md#missionen)
+- [Station Missionen](mFranklin.md#station-missionen)
+- [Info](mFranklin.md#info)
+
+## Missionen
+
+[Oben](mFranklin.md)
+
 #### Darüber hinaus
 > Schwarm, die Mission entsteht automatisch
 `100x Schwarm-Biominerale`
@@ -183,7 +191,7 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 ---
 
 
-## _**(Station Missionen)**_
+## Station Missionen
 
 [Oben](mFranklin.md)
 
@@ -215,9 +223,12 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 `120x Schwarm Biominerale, 1x Warpsperre der Franklin, 5x ungewöhnliche raffinierte Gas, Erz, Kristalle G2, `
 
 - [Erfordert: USS Franklin Part 2](mFranklin.md#uss-franklin-part-2)
-- [x] Verbessere das Astronautikstudio auf Level 20
+- [ ] Verbessere das Astronautikstudio auf Level 20
 
 ---
+
+
+## Info
 
 [Oben](mFranklin.md)
 
