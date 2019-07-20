@@ -173,6 +173,8 @@ Beschaffe die Proben aus dem Forschungsschiff
 
 Ein paar Infos zur Augment Erweiterung und ihrem Gebiet
 
+: warn : Und kleiner Tipp, benutzt das Plutonium erst nach dem du die Missionen fertig hast zum Upgraden der BB Gibt eine da musst du 500 Plut sammeln. Danach kannst die BB upgraden.
+
 **Benötigt**
 Schiffswerft Level 18
 

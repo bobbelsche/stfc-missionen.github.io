@@ -2,6 +2,12 @@
 
 ## Basis Missionen
 
+#### Die Kehra
+`200x Ultra Rekruten`
+- [ ] Baue die Kehra
+
+---
+
 #### Kampftraining 22 Soldat
 `25k Dilithium, 300x Premium Rekruten, 50k Offizier-EP`
 - [ ] Besiege 10 Feinde auf Level 22 oder höher
@@ -75,12 +81,6 @@
 - [x] Besiege 5 Feinde auf Level 16+
 - [x] Baue 25 Gas ab
 - [x] Bringe es zurück auf die Station
-
----
-
-#### Die Kehra
-`200x Ultra Rekruten`
-- [ ] Baue die Kehra
 
 ---
 
