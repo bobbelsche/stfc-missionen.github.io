@@ -8,9 +8,15 @@
 
 ---
 
+#### Kampftraining 22 Veteran
+`42k Dilithium, 300x Ultra Rekruten, 8x Rukor, 16x 1 Stunde Beschleunigung`
+- [ ] Besiege 10 Feinde auf Level 22 oder höher
+
+---
+
 #### Kampftraining 22 Soldat
 `25k Dilithium, 300x Premium Rekruten, 50k Offizier-EP`
-- [ ] Besiege 10 Feinde auf Level 22 oder höher
+- [x] Besiege 10 Feinde auf Level 22 oder höher
 
 ---
 

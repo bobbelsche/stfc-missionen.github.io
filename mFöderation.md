@@ -19,7 +19,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Gefallene Idole
 `111k Parstahl`
-- [ ] Blabla
+- [x] Untersuche das seltsame Signal, das von Thaspa kommt
+- [ ] bla
+- [ ] bla
+- [ ] bla
 
 ---
 

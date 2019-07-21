@@ -27,7 +27,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Überschuss
 `80 Credits, 273k Parstahl, K800+, R589-, F221-, 1x Frachtkontainer`
-- [ ] Besiege 10 Feinde auf Level 21 oder höher
+- [x] Besiege 10 Feinde auf Level 21 oder höher
 
 #### Knöcheltief im Blut
 `50 Credits, 250 Klingonische Rekruten, K800+, R589-, F221-, 1x Frachtkontainer`
