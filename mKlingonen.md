@@ -41,7 +41,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ## Level 21 Systeme
 
 ---
-
 [Oben](#klingonen)
 
 
@@ -98,7 +97,6 @@ Wie wirst du auf das Sternenflottenschiff reagieren?
 - [x] Besiege den Suliban Bomber (Forschungsschiff 39874 Stärke)
 
 ---
-
 [Oben](#klingonen)
 
 [Inhalt](README.md#inhalt)
