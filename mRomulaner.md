@@ -54,10 +54,5 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Inhalt](README.md#inhalt)
 
 ---
-
-**---**
-
-*---*
-
 ---
 
