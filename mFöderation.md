@@ -11,12 +11,36 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ---
 
 ## Level 24 Systeme
-> [S:1881017308 X:573 Y:61]
+
+### _**(Bazamex - Trois Ouef)**_
+> Foderation Raum [S:1881017308 X:573 Y:61]
+
+#### Missverständnisse
+`98k Parstahl`
+
+Hilf Uhuras Freund aus einer gefährlichen Situation
+- [ ] bla
+
+
+#### Großindustrielle
+`147k Parstahl`
+
+Hilf einer jungen Abbaugesellschaft, indem du Daten über gewöhnliche Ressourcenablagerungen sammelst
+- [ ] bla
+
+
+#### Fußspuren
+`376k Parstahl`
+
+Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinweisen folgst
+- [ ] bla
+
+
+---
+[Oben](#föderation)
 
 
 ## Level 23 Systeme
-
-Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ### _**(Vulkan - Ket-Chaleb)**_
 > Foderation Raum [S:39 X:108 Y:-24]
@@ -29,6 +53,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [ ] bla
 
 ---
+[Oben](#föderation)
+
 
 ### _**(Vulkan - Delta-Vega)**_
 > Foderation Raum [S:39 X:510 Y:-238]
