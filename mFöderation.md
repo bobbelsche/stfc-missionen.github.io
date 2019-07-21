@@ -10,6 +10,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ---
 
+## Level 24 Systeme
+> [S:1881017308 X:573 Y:61]
+
+
 ## Level 23 Systeme
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
@@ -20,8 +24,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Gefallene Idole
 `111k Parstahl`
 - [x] Untersuche das seltsame Signal, das von Thaspa kommt
-- [ ] bla
-- [ ] bla
+- [x] Gehe zur letzte bekannten Position der USS Franklin
+- [ ] Besiege den nausakanischen Plünderer (Abfangfäger 44970 Stärke)
 - [ ] bla
 
 ---
@@ -49,7 +53,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Kein Freibeuter
 `130 Credits, 502k Parstahl, F2000+, K1800-, R400-, 1x Frachtkontainer`
-- [ ] Besiege den Freibeuter
+- [ ] Besiege den Freibeuter (Kampfschiff 36701 Stärke)
 - [ ] bla
 
 ---
