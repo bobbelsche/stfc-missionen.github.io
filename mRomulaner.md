@@ -36,23 +36,28 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [ ] Bring Javaid zur Deneva Kolonie
   
 ---
-
 [Oben](#romulaner)
-
 
 
 ## Level 21 Systeme
 
 ---
-
 [Oben](#romulaner)
 
 
 ## Level 20 Systeme
 
 ---
-
 [Oben](#romulaner)
 
 
 [Inhalt](README.md#inhalt)
+
+---
+
+**---**
+
+*---*
+
+---
+

@@ -50,7 +50,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [ ] bla
 
 ---
-
 [Oben](#föderation)
 
 
@@ -72,7 +71,6 @@ Die Sternenflotte braucht Hilfe, um einen gefährlichen Flüchtigen aufzuspüren
 - [x] Besiege Ajal (Abfangjäger 30909 Stärke)
 
 ---
-
 [Oben](#föderation)
 
 
@@ -115,7 +113,6 @@ Die Sternenflotte braucht Hilfe, um einen gefährlichen Flüchtigen aufzuspüren
 - [x] Besiege Ajal (Abfangjäger 30909 Stärke)
 
 ---
-
 [Oben](#föderation)
 
 
