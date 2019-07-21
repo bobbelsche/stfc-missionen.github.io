@@ -2,8 +2,8 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
-1. [Level 23 Systeme](mKlingonen.md.md#level-23-systeme)
-2. [Level 21 Systeme](mKlingonen.md.md#level-21-systeme)
+1. [Level 23 Systeme](mKlingonen.md#level-23-systeme)
+2. [Level 21 Systeme](mKlingonen.md#level-21-systeme)
 3. [Level 20 Systeme](mKlingonen.md#level-20-systeme)
 
 [Inhalt](README.md#inhalt)
@@ -41,6 +41,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ## Level 21 Systeme
 
 ---
+
 [Oben](#klingonen)
 
 
