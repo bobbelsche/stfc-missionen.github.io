@@ -1,6 +1,8 @@
 # Föderation
 
-1. [Level 23 Systeme](mFöderation.md#level-27-systeme)
+Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
+
+1. [Level 23 Systeme](mFöderation.md#level-23-systeme)
 2. [Level 21 Systeme](mFöderation.md#level-21-systeme)
 3. [Level 20 Systeme](mFöderation.md#level-20-systeme)
 
