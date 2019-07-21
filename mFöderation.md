@@ -1,0 +1,98 @@
+# Föderation
+
+1. [Level 23 Systeme](mFöderation.md#level-27-systeme)
+2. [Level 20 Systeme](mFöderation.md#level-20-systeme)
+
+[Inhalt](README.md#inhalt)
+
+---
+
+## Level 23 Systeme
+
+[Inhalt](README.md#inhalt)
+
+Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
+
+### _**(Vulkan - Ket-Chaleb)**_
+> Foderation Raum [S:39 X:108 Y:-24]
+
+#### Gefallene Idole
+`111k Parstahl`
+- [ ] Blabla
+
+---
+
+### _**(Vulkan - Delta-Vega)**_
+> Foderation Raum [S:39 X:510 Y:-238]
+
+#### Welterbestätte 
+`80 Credits, 41 Tritanium, F800+, K662-, R147-, 1x Frachtkontainer`
+- [x] Besiege 10 Feinde auf Level 21 oder höher
+
+#### Der Nadara Wirbel
+`80 Credits, 50 Forschungsschiffsteile G3, F800+, K662-, R147-, 1x Frachtkontainer`
+- [ ] Blabla
+
+#### Freund der Föderation
+`100 Credits, 20 ungewöhnliches raffiniertes Gas G3, F1000+, K864-, R192-, 1x Frachtkontainer`
+- [ ] Begieb dich zum beschädigten Außenposten der Föderation auf Maxom
+
+#### Erhalt
+`130 Credits, 15k Dilitium, F2000+, K1800-, R400-, 1x Frachtkontainer` 
+- [erfordert: Kein Freibeuter](#kein-freibeuter)
+- [ ] Liefere Artefakte nach Deneva
+- [ ] bla
+
+#### Kein Freibeuter
+`130 Credits, 502k Parstahl, F2000+, K1800-, R400-, 1x Frachtkontainer`
+- [ ] Besiege den Freibeuter
+- [ ] bla
+
+---
+
+[Oben](#föderation)
+
+## Level 20 Systeme
+
+### _**(Voss - Kyte)**_
+> Föderation Raum [S:830770182 X:350 Y:37]
+
+#### Zu weit gegangen
+`F160+, K121-, R27-, Credits 80, 300k Parastahl, 3x Keenser`
+- [x] Untersuche einen Angriff auf Denna
+- [x] Besiege den Gorn Plünderer (Abfangjäger 37725 Stärke)
+- [x] Besiege 7 Feinde im Kepler-018 System
+- [x] Gib der Kolonie 25000 Tritanium für die Reparaturarbeiten
+- [Folgemission: Alle Hebel in Bewegung](#alle-hebel-in-bewegung)
+- [Folgemission: Keine gute Tat bleibt ungestraft](#keine-gute-tat-bleibt-ungestraft)
+
+
+#### Keine gute Tat bleibt ungestraft
+`3x Keenser, F250+, K198-, R44-, Credits 100, 10k Offizier-EP`
+- [erfordert: Zu weit gegangen](#zu-weit-gegangen)
+- [x] Untersuche den Notruf in Labac
+- [x] Gib den gestrandeten Bergleuten 500000 Parstahl
+- [x] Besiege den Gorn Raider (Abfangjäger 30909 Stärke)
+- [x] Besiege den Gorn Anführer (Kampfschiff 39484 Stärke)
+- [x] Kehre zur Station zurück
+
+
+#### Alle Hebel in Bewegung
+`2x Nordstern, 8x 0718, F250+, K198-, R88-, 2x Frachttresor`
+- [erfordert: Zu weit gegangen](#zu-weit-gegangen)
+  
+Die Sternenflotte braucht Hilfe, um einen gefährlichen Flüchtigen aufzuspüren
+- [x] Gehe den Berichten über einen gesuchten Flüchtigen in Vinemiatrix nach.
+- [x] Finde den Flüchtigen auf Oltana
+- [x] Bestich den Hafenmeistger mit 20000 Dilitium
+- [x] Begib dich nach Kaikara
+- [x] Besiege Ajals Söldner (Kampfschiff 17801 Stärke)
+- [x] Begib dich nach Krah'Hor
+- [x] Besiege Ajal (Abfangjäger 30909 Stärke)
+
+---
+
+[Oben](#föderation)
+
+
+[Inhalt](README.md#inhalt)
