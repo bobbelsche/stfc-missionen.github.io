@@ -6,7 +6,7 @@
 ### _**(Kaus Australis - Yagerap)**_
 > Neutraler Raum [S:1154764176 X:-554 Y:-220]
 
-- [Tag der Ehre](m16.md#tag-der-ehre) `1x Nordstern`
+- [x][Tag der Ehre](m16.md#tag-der-ehre) `1x Nordstern`
 - [Ein scharfes Auge](m18.md#ein-scharfes-auge) `3x Nordstern`
 - [Mantel und Degen](m18.md#mantel-und-degen) `2x Nordstern`
 - [Geteilte Aufmerksamkeit](m18.md#geteilte-aufmerksamkeit) `2x Nordstern`
