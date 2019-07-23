@@ -13,8 +13,8 @@
 - [Diebstahl einer Icone](m18.md#diebstahl-einer-icone) `2x Nordstern`
 - [Corbomite Manöver](m18.md#corbomite-manöver) `2x Nordstern`
 - [Gefallener Centurion](m18.md#gefallener-centurion) `1x Nordstern`
-- [Alle Hebel in Bewegung](m20.md#alle-hebel-in-bewegung) `2x Nordstern`
-- [Vergeltungsmaßnahme](m20.md#vergeltungsmaßnahme) `3x Nordstern`
+- [Alle Hebel in Bewegung](mFöderation.md#alle-hebel-in-bewegung) `2x Nordstern`
+- [Vergeltungsmaßnahme](mKlingonen.md#vergeltungsmaßnahme) `3x Nordstern`
 
 > Folgende sind nicht sicher und noch nicht erspielt
 > Kein_Stein in Voss(20) Planet Kyte
