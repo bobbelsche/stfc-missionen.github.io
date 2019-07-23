@@ -17,7 +17,7 @@
 - [x] [Vergeltungsmaßnahme](mKlingonen.md#vergeltungsmaßnahme) `3x Nordstern`
 
 > Folgende sind nicht sicher und noch nicht erspielt
-- [ ] Kein_Stein in Voss(20) Planet Kyte
+- [ ] Kein Stein in Voss(20) Planet Kyte
 - [ ] Aufstand in Davidul(20)> Planet Nojusor
 ---
 
