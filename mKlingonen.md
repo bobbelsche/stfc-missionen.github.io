@@ -24,7 +24,14 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Spende 90000 Dilithium an einen Überlebenden 
 - [x] Platziere ein Abhörgerät auf Ajilon Prime
 - [x] Finde die USS Halloway im Angosia System
-- [ ] Besiege die USS Halloway (Forschungsschiff 44329 Stärke)
+- [x] Besiege die USS Halloway (Forschungsschiff 44329 Stärke)
+- [Folgemission: Begrenzungsgitter](#begrenzungsgitter)
+
+#### Begrenzungsgitter
+`?`
+- [Erfordert: Infiltration von Haus Antaak](#infiltration-von-haus-antaak)
+- [ ] Triff dich mit dem Separatisten in Priya
+- [ ] 
 
 ---
 
