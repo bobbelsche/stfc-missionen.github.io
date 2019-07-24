@@ -5,6 +5,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 1. [Level 25 Systeme](mKlingonen.md#level-25-systeme)
 2. [Level 24 Systeme](mKlingonen.md#level-24-systeme)
 3. [Level 23 Systeme](mKlingonen.md#level-23-systeme)
+4. [Level 22 Systeme](mKlingonen.md#level-22-systeme)
 4. [Level 21 Systeme](mKlingonen.md#level-21-systeme)
 5. [Level 20 Systeme](mKlingonen.md#level-20-systeme)
 
@@ -22,7 +23,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Spüre die Separatisten in Sorenle auf
 - [x] Spende 90000 Dilithium an einen Überlebenden 
 - [x] Platziere ein Abhörgerät auf Ajilon Prime
-- [ ] Finde die USS Halloway im Angosia System
+- [x] Finde die USS Halloway im Angosia System
+- [ ] Besiege die USS Halloway (Forschungsschiff 44329 Stärke)
 
 ---
 
@@ -57,13 +59,11 @@ Gleiche Missionen gibt es in der
 Hilf Uhuras Freund aus einer gefährlichen Situation
 - [ ] bla
 
-
 #### Großindustrielle
 `147k Parstahl`
 
 Hilf einer jungen Abbaugesellschaft, indem du Daten über gewöhnliche Ressourcenablagerungen sammelst
 - [ ] bla
-
 
 #### Fußspuren
 `376k Parstahl`
@@ -73,7 +73,6 @@ Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinw
 
 ---
 [Oben](#klingonen)
-
 
 
 ## Level 23 Systeme
@@ -99,6 +98,35 @@ Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinw
 `50 Credits, 250 Klingonische Rekruten, K800+, R589-, F221-, 1x Frachtkontainer`
 - [erfordert: Mit offenen Augen](#mit-offenen-augen)
 - [x] Bring Kuron nach Deneva
+
+---
+[Oben](#klingonen)
+
+
+## Level 22 Systeme
+
+### _**(Woxoxit - Aob)**_
+> Klingonischer Raum [S:1101989561 X:-292 Y:129]
+
+#### Roter Jack 
+- [x] Bring Oleanna nach Riegel IV
+- [x] Besiege 13 Feinde im Rigel System
+- [x] Folge der Spur des roten Jack nach Risa
+- [x] Bestich den Syndicat Mobster mit `350k Tritanium`
+- [x] Verfolge den roten Jack nach Draken
+
+> Das Bestechungsgeld des roten Jack annehmen oder Oleanna helfen, ihn vor Gericht zu bringen?
+- [ ] Links, Hilf dem roten Jack `12k Dilitium`
+- [x] Rechts, Lehne das Angebot ab `300x Premium Rekruten, 34k Tritanium`
+- [ ] Deaktiviere den Abfangjäger des roten Jack (Abfangjäger 54559 Stärke)  
+
+#### Krähen aufscheuchen
+`150k Parastahl`
+- [ ] Besiege 15 Feinde auf Level 24 oder höher
+
+#### Machtvakuum
+`6k Tritanium`
+- [ ] Besiege 12 Feinde auf Level 23 oder höher in diesem System
 
 ---
 [Oben](#klingonen)
