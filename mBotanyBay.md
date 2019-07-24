@@ -165,7 +165,8 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 - [x] Untersuche den Heimatplaneten der Gefangenen in Raddon
 - [x] Verfolge den Agenten nach Rainsford
 - [x] Befrage den Kopfgeldjäger (Forschungsschiff 44329 Stärke)
-- [ ] Finde die Gefangenen in Muraski-312
+- [x] Finde die Gefangenen in Muraski-312
+- [ ] Hole die Gefangenen von Geheimagenten Mason zurück (Forschungsschiff 54559 Stärke)
 
 ---
 
