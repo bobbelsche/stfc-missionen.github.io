@@ -73,8 +73,6 @@ Gleiche Missionen gibt es im
 - [ ] bla
 
 ---
-
-
 [Oben](#romulaner)
 
 
