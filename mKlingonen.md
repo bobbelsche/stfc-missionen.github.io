@@ -33,7 +33,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Cluster öffnen
 `120x Forschungsschiffsteile G3, 3x 8 Stunden Beschleuniger, Credits 150, K3100+, R2579-, F967-`
-- [ ] bla
+- [x] Finde die versteckte Forschungseinrichtung auf Oltana
+- [x] Besiege 3 Feinde im Fastolf System
+- [x] Liefere die Cluster Torpedos an General Tavrak
 
 #### Eine heikle Angelegenheit
 `Credits 150, 5000x Schiff-EP, 35k Offizier-EP, K3100+, R2579-, F967-`
