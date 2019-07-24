@@ -2,13 +2,74 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
-1. [Level 23 Systeme](mKlingonen.md#level-23-systeme)
-2. [Level 21 Systeme](mKlingonen.md#level-21-systeme)
-3. [Level 20 Systeme](mKlingonen.md#level-20-systeme)
+1. [Level 25 Systeme](mKlingonen.md#level-25-systeme)
+2. [Level 24 Systeme](mKlingonen.md#level-24-systeme)
+3. [Level 23 Systeme](mKlingonen.md#level-23-systeme)
+4. [Level 21 Systeme](mKlingonen.md#level-21-systeme)
+5. [Level 20 Systeme](mKlingonen.md#level-20-systeme)
 
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 25 Systeme
+
+### _**(Maranga - Maranga IV)**_
+> Klingonischer Raum [S:1744652289 X:-546 Y:85]
+
+#### Infiltration von Haus Antaak
+`800k Parstahl, 3x 8 Stunden Beschleuniger, Credits 190, K2000+, R1600-, F600-`
+- [ ] bla
+
+---
+
+### _**(Yadow - Riquzei)**_
+> Klingonischer Raum [S:1780286771 X:417 Y:6]
+
+#### Cluster öffnen
+`120x Forschungsschiffsteile G3, 3x 8 Stunden Beschleuniger, Credits 150, K3100+, R2579-, F967-`
+- [ ] bla
+
+#### Eine heikle Angelegenheit
+`Credits 150, 5000x Schiff-EP, 35k Offizier-EP, K3100+, R2579-, F967-`
+- [ ] bla
+
+---
+[Oben](#klingonen)
+
+
+## Level 24 Systeme
+
+### _**(Vosak - Rilton)**_
+> Klingonischer Raum [S:1731519518 X:-493 Y:275]
+
+Gleiche Missionen gibt es in der 
+[Föderation](mFöderation.md#level-24-systeme)
+
+#### Missverständnisse
+`98k Parstahl`
+
+Hilf Uhuras Freund aus einer gefährlichen Situation
+- [ ] bla
+
+
+#### Großindustrielle
+`147k Parstahl`
+
+Hilf einer jungen Abbaugesellschaft, indem du Daten über gewöhnliche Ressourcenablagerungen sammelst
+- [ ] bla
+
+
+#### Fußspuren
+`376k Parstahl`
+
+Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinweisen folgst
+- [ ] bla
+
+---
+[Oben](#klingonen)
+
+
 
 ## Level 23 Systeme
 

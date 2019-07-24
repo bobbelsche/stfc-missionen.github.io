@@ -30,8 +30,25 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Auf frischer Tat ertappt
 `?`
-- [ ] Reise ins Vosak System
+- [x] Reise ins Vosak System
+- [ ] Besiege den Agenten der Föderation (Kampfschiff 101520 Stärke)
 - [ ] bla
+- [ ] bla
+
+---
+
+### _**(Sufiday - Sufiday Prime)**_
+> Romulanischer Raum [S:892844237 X:142 Y:-414]
+
+#### Befreier
+`611k Parstahl, 7x 3 Stunden Beschleuniger, Credits 180, R8000+, F5184-, K3456-`
+- [ ] Finde den Aktivisten im Draken System
+- [ ] bla
+- [ ] bla
+
+#### Ich beobachte dich aus der Ferne
+`46x 5 Minuten Reparatur, 110x Kampfschiffteile G3, Credits 200, R8000+, F5184-, K3456-`
+- [ ] Untersuche den Kommunikationsaußenposten in Kepler-018
 - [ ] bla
 - [ ] bla
 
@@ -40,13 +57,19 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Qualor - Qualor II)**_
 > Romulanischer Raum [S:1417222872 X:152 Y:229]
 
-#### Offene Rebbelion Open Rebellion 
+Gleiche Missionen gibt es im 
+[Neutraler Raum](m25.md#level-25-systeme)
+
+#### Offene Rebellion (Open Rebellion)
+`150x Premium Rekruten, 80k Tritanium, 30x 5 Minuten Reparatur`
 - [ ] bla
 
 #### Die klingonischen Separatisten
+`?`
 - [ ] bla
 
-#### In Bewegung In MOtion
+#### In Bewegung (In Motion)
+`?`
 - [ ] bla
 
 ---
