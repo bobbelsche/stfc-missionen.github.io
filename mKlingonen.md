@@ -19,7 +19,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `120 Credits, 89k Tritanium, K2000+, R1600-, F600-, 1x Frachtkontainer`
 - [x] Patrouilliere den Planeten Syl
 - [x] Patrouilliere den Planeten Fek'Ihr
-- [ ] Besiege Mokgar (Abfangjäger 30909 Stärke)
+- [x] Besiege Mokgar (Abfangjäger 30909 Stärke)
 
 #### Mit offenen Augen
 `100 Credits, 12k Dilitium, K1000+, R768-, F288-, 1x Frachtkontainer`
@@ -32,7 +32,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Knöcheltief im Blut
 `50 Credits, 250 Klingonische Rekruten, K800+, R589-, F221-, 1x Frachtkontainer`
 - [erfordert: Mit offenen Augen](#mit-offenen-augen)
-- [ ] Bring Kuron nach Deneva
+- [x] Bring Kuron nach Deneva
 
 ---
 [Oben](#klingonen)

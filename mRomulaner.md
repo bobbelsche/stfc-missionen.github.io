@@ -15,25 +15,25 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Draken - Valdore Außenposten)**_
 > Romulanischer Raum [S:2095413858 X:637 Y:-268]
 
+#### Einsamer Wolf
+`100 Credits, 41k Tritanium, R1000+, F576-, K384-, 1x Frachtkontainer`
+- [x] Besiege das Klingonische Schiff (Abfangjäger 37725 Stärke)
+
 #### Pfadfinden
 `70x Abfangjägerteile G3, 50 Credits, R800+, F442-, K294-, 1x Frachtkontainer`
-- [ ] Patrouilliere den Raum um Draken I
-- [ ] bla
-- [ ] bla
-- [ ] bla
+- [x] Patrouilliere den Raum um Draken I
+- [x] Patrouilliere den Raum um Draken III
+- [x] Patrouilliere den Raum um Draken V und seine Monde
+- [x] Kehre zu Draken IV zurück
 
 #### Aufräumen
 `273k Parstahl, 80 Credits, R800+, F442-, K294-, 1x Frachtkontainer`
 - [x] Besiege 10 feindliche Schiffe auf Level 20 oder höher
 
-#### Einsamer Wolf
-`100 Credits, 41k Tritanium, R1000+, F576-, K384-, 1x Frachtkontainer`
-- [ ] Besiege das Klingonische Schiff (Abfangjäger 37725 Stärke)
-
 #### Schwach und machtlos
 `2x Javaid, 80 Credits, R800+, F442-, K294-, 1x Frachtkontainer`
 - [erfordert: Einsamer Wolf](#einsamer-wolf)
-- [ ] Bring Javaid zur Deneva Kolonie
+- [x] Bring Javaid zur Deneva Kolonie
   
 ---
 [Oben](#romulaner)
