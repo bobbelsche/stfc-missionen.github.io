@@ -9,7 +9,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ---
 
-
 ## Level 25 Systeme
 
 ### _**(Zova Rhen - Rhen)**_
@@ -17,9 +16,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Mühelos
 `5x Javaid, 25k Dilithium, 190 Credits, R2000+, F1200-, K800-`
-- [ ] Triff dich mit Major T'Nara in Kaikara
-- [ ] bla
-- [ ] bla
+- [x] Triff dich mit Major T'Nara in Kaikara
+- [x] Erkunde das Argosia System
+- [ ] Besiege 8 Feinde in Angosia
 - [ ] bla
 - [ ] bla
 

@@ -2,6 +2,12 @@
 
 ## Station Missionen
 
+#### Kampftraining 23 Rekrut
+`26,5k Dilithium, 140x Standard Rekruten`
+- [x] Besiege 3 Feinde auf Level 23 oder höher
+
+---
+
 #### Die Kehra
 `200x Ultra Rekruten`
 - [ ] Baue die Kehra
@@ -10,7 +16,7 @@
 
 #### Kampftraining 22 Veteran
 `42k Dilithium, 300x Ultra Rekruten, 8x Rukor, 16x 1 Stunde Beschleunigung`
-- [ ] Besiege 10 Feinde auf Level 22 oder höher
+- [x] Besiege den feindlichen Captain (Kampfschiff 39484 Stärke)
 
 ---
 

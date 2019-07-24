@@ -19,7 +19,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Infiltration von Haus Antaak
 `800k Parstahl, 3x 8 Stunden Beschleuniger, Credits 190, K2000+, R1600-, F600-`
-- [ ] bla
+- [x] Spüre die Separatisten in Sorenle auf
+- [x] Spende 90000 Dilithium an einen Überlebenden 
+- [x] Platziere ein Abhörgerät auf Ajilon Prime
+- [ ] Finde die USS Halloway im Angosia System
 
 ---
 
@@ -32,7 +35,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Eine heikle Angelegenheit
 `Credits 150, 5000x Schiff-EP, 35k Offizier-EP, K3100+, R2579-, F967-`
-- [ ] bla
+- [x] Überbringe General Tavrak auf Khitomer eine Nachricht
+- [x] Liefere die Ladung Gaghan den Romulaner
+- [ ] Kehre zu Tavrak zurück (Warpreichweite 37) 
 
 ---
 [Oben](#klingonen)

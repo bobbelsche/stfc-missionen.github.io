@@ -2,14 +2,29 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
-1. [Level 24 Systeme](mFöderation.md#level-24-systeme)
-2. [Level 23 Systeme](mFöderation.md#level-23-systeme)
-3. [Level 21 Systeme](mFöderation.md#level-21-systeme)
-4. [Level 20 Systeme](mFöderation.md#level-20-systeme)
+1. [Level 25 Systeme](mFöderation.md#level-25-systeme)
+2. [Level 24 Systeme](mFöderation.md#level-24-systeme)
+3. [Level 23 Systeme](mFöderation.md#level-23-systeme)
+4. [Level 21 Systeme](mFöderation.md#level-21-systeme)
+5. [Level 20 Systeme](mFöderation.md#level-20-systeme)
 
 [Inhalt](README.md#inhalt)
 
 ---
+
+
+## Level 25 Systeme
+
+### _**(Angosia - Angosia Prime)**_
+> Foderation Raum [S:739609161 X:-29 Y:-195]
+
+#### Invasion
+`125x Forschungsschiffteile, 42x 5 Minuten Reparatur, Credit 170, F2000+, K1800-, R400-`
+- [ ] bla
+
+---
+[Oben](#föderation)
+
 
 ## Level 24 Systeme
 
