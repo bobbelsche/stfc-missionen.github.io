@@ -164,7 +164,8 @@ Beschaffe die Proben aus dem Forschungsschiff
 Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterstützung von Khan gefangen genommen
 - [x] Untersuche den Heimatplaneten der Gefangenen in Raddon
 - [x] Verfolge den Agenten nach Rainsford
-- [ ] Befrage den Kopfgeldjäger (Forschungsschiff 44329 Stärke)
+- [x] Befrage den Kopfgeldjäger (Forschungsschiff 44329 Stärke)
+- [ ] Finde die Gefangenen in Muraski-312
 
 ---
 
