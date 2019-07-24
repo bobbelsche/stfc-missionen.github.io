@@ -56,20 +56,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Qualor - Qualor II)**_
 > Romulanischer Raum [S:1417222872 X:152 Y:229]
 
-Gleiche Missionen gibt es im 
-[Neutraler Raum](m25.md#level-25-systeme)
-
-#### Offene Rebellion (Open Rebellion)
-`150x Premium Rekruten, 80k Tritanium, 30x 5 Minuten Reparatur`
-- [ ] bla
-
-#### Die klingonischen Separatisten
-`?`
-- [ ] bla
-
-#### In Bewegung (In Motion)
-`?`
-- [ ] bla
+Gleiche Missionen gibt es bei 
+- [Romulaner, Qualor - Qualor II] `[S:1417222872 X:152 Y:229]`
+- [Neutral, Narendra - Narendra III] `[S:255461687 X:225 Y:462]`
+- [Neutral, Ajilon - Ajilon Prime] `[S:1691770428 X:84 Y:282]`
 
 ---
 [Oben](#romulaner)
