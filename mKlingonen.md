@@ -28,10 +28,15 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [Folgemission: Begrenzungsgitter](#begrenzungsgitter)
 
 #### Begrenzungsgitter
-`?`
 - [Erfordert: Infiltration von Haus Antaak](#infiltration-von-haus-antaak)
-- [ ] Triff dich mit dem Separatisten in Priya
-- [ ] 
+- [x] Triff dich mit dem Separatisten in Priya
+- [x] Besiege 8 Feinde in Prya
+
+Sabotiere die Separatistenflotte oder lass den Angriff weitergehen
+- [ ] Links, Greif den Ingenieur an `140k Tritanium, 20x 15 Minuten Reparatur, Credits 170, K2000+, R1600-, F600-`
+- [x] Rechts, Erlaube dem Ingenieur fortzufahren `8x 3 Stunden Beschleunigen, Credits 170, K2000+, R1600-, F600-`
+- [x] Setze den Angriff in Voss fort
+- [ ] Besiege die USS Beaumont (Forschungsschiff 74100 Stärke)
 
 ---
 
