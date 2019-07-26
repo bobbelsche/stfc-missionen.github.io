@@ -66,6 +66,8 @@ Sabotiere die Separatistenflotte oder lass den Angriff weitergehen
 
 Gleiche Missionen gibt es in der 
 [Föderation](mFöderation.md#level-24-systeme)
+[Klingonen ](mKlingonen.md#level-24-systeme)
+[Romulaner ](mRomulaner.md#level-24-systeme)
 
 #### Missverständnisse
 `98k Parstahl`

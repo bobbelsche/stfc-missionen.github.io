@@ -2,12 +2,32 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
+1. [Level 27 Systeme](mRomulaner.md#level-27-systeme)
 1. [Level 25 Systeme](mRomulaner.md#level-25-systeme)
+2. [Level 24 Systeme](mRomulaner.md#level-24-systeme)
 2. [Level 23 Systeme](mRomulaner.md#level-23-systeme)
 
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 27 Systeme
+
+### _**(Vendus A - Zoseh)**_
+> Romulanischer Raum [S:1342058302 X:245 Y:306]
+
+#### Überläufer 
+`Credits 150, 250x ROM Rekruten, R3100+, F1934-, K1581-`
+- [ ] bla
+
+
+#### Separator
+`Credits 150, 44k Dilitium, R3100+, F1934-, K1581-`
+- [ ] bla
+
+---
+[Oben](#romulaner)
+
 
 ## Level 25 Systeme
 
@@ -63,6 +83,39 @@ Selbe Missionen gibt es bei:
 
 ---
 [Oben](#romulaner)
+
+
+## Level 24 Systeme
+
+### _**(Wauoxic - Wopen)**_
+> Romulanischer Raum [S:168803971 X:411 Y:384]
+
+Gleiche Missionen gibt es in der 
+[Föderation](mFöderation.md#level-24-systeme)
+[Klingonen ](mKlingonen.md#level-24-systeme)
+[Romulaner ](mRomulaner.md#level-24-systeme)
+
+#### Missverständnisse
+`98k Parstahl`
+
+Hilf Uhuras Freund aus einer gefährlichen Situation
+- [ ] bla
+
+#### Großindustrielle
+`147k Parstahl`
+
+Hilf einer jungen Abbaugesellschaft, indem du Daten über gewöhnliche Ressourcenablagerungen sammelst
+- [ ] bla
+
+#### Fußspuren
+`376k Parstahl`
+
+Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinweisen folgst
+- [ ] bla
+
+---
+[Oben](#romulaner)
+
 
 
 ## Level 23 Systeme

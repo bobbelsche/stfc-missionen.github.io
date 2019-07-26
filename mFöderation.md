@@ -31,6 +31,11 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Bazamex - Trois Ouef)**_
 > Foderation Raum [S:1881017308 X:573 Y:61]
 
+Gleiche Missionen gibt es in der 
+[Föderation](mFöderation.md#level-24-systeme)
+[Klingonen ](mKlingonen.md#level-24-systeme)
+[Romulaner ](mRomulaner.md#level-24-systeme)
+
 #### Missverständnisse
 `98k Parstahl`
 
