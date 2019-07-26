@@ -2,6 +2,7 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
+1. [Level 27 Systeme](mKlingonen.md#level-27-systeme)
 1. [Level 25 Systeme](mKlingonen.md#level-25-systeme)
 2. [Level 24 Systeme](mKlingonen.md#level-24-systeme)
 3. [Level 23 Systeme](mKlingonen.md#level-23-systeme)
@@ -12,6 +13,21 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 27 Systeme
+
+### _**(Enthra - Aecad)**_
+> Klingonischer Raum [S:1984126753 X:245 Y:306]
+
+#### Komplizenschaft
+`64x 5 Minuten Reparatur, 110x Abfabgjägerteile G3, Credits 200, K8000+, R7168-, F2688-`
+- [ ] bla
+
+#### Biogefahr
+`?`
+- [ ] bla
+
+
 
 ## Level 25 Systeme
 
