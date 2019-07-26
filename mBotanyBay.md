@@ -103,8 +103,8 @@ Erfordert: 3 der folgenden Missionen
 - [x] Triff dich mit dem Föderationsagenten
 
 Kümmere dich um den Föderationsagenten
-- [x] Links Vernichte den Föderationsagenten `821k Parstahl, 5x Beschleuniger, A200+` (Forschungsschiff 54559 Stärke)
-- [ ] Rechts Sag ihm, dass du seinen Vorschlag sorgfältig prüfen wirst `31k Dilithium, A200+`
+- [x] Links, Vernichte den Föderationsagenten `821k Parstahl, 5x Beschleuniger, A200+` (Forschungsschiff 54559 Stärke)
+- [ ] Rechts, Sag ihm, dass du seinen Vorschlag sorgfältig prüfen wirst `31k Dilithium, A200+`
 - [ ] bla
 
 ---
