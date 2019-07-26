@@ -2,6 +2,7 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
+1. [Level 27 Systeme](mFöderation.md#level-27-systeme)
 1. [Level 25 Systeme](mFöderation.md#level-25-systeme)
 2. [Level 24 Systeme](mFöderation.md#level-24-systeme)
 3. [Level 23 Systeme](mFöderation.md#level-23-systeme)
@@ -11,6 +12,18 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 27 Systeme
+
+### _**(Doska - Sternenbasis 76)**_
+> Foderation Raum [S:1036671379 X:-419 Y:196]
+
+#### InvasionHeimatlicher Boden
+`1m Parstahl, 146k Tritanium, Credits 200, F8000+, K8064-, R1792-`
+- [ ] bla
+
+---
+[Oben](#föderation)
 
 
 ## Level 25 Systeme
