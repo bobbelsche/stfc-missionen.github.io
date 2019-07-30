@@ -6,7 +6,7 @@ Werte wie A60+ Fraktionspunkte A(ugment) R(omulaner), F(öderation), K(lingonen)
 
 1. [Info](mBotanyBay.md#info)
 2. [Start der Missionen](mBotanyBay.md#start-der-missionen) 
-3. [Augment](mBotanyBay.md#augment)
+3. [Automatische Missionen](mBotanyBay.md#automatische-missionen)
 4. [Level 22 Systeme Augment](mBotanyBay.md#level-22-systeme-augment)
 5. [Level 24 Systeme Augment](mBotanyBay.md#level-24-systeme-augment)
 6. [Level 27 Systeme Augment](mBotanyBay.md#level-27-systeme-augment)
@@ -34,7 +34,7 @@ Werte wie A60+ Fraktionspunkte A(ugment) R(omulaner), F(öderation), K(lingonen)
 
 ---
 
-## Augment
+## Automatische Missionen
 
 [Oben](#botany-bay)
 
