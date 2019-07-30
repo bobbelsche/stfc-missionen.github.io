@@ -2,9 +2,14 @@
 
 [Inhalt](README.md#inhalt)
 
-1. [Start der Missionen](mBotanyBay.md#start-der-missionen) 
-2. [Augment](mBotanyBay.md#augment)
-3. [Info](mBotanyBay.md#info)
+Werte wie A60+ Fraktionspunkte A(ugment) R(omulaner), F(öderation), K(lingonen)
+
+1. [Info](mBotanyBay.md#info)
+2. [Start der Missionen](mBotanyBay.md#start-der-missionen) 
+3. [Augment](mBotanyBay.md#augment)
+4. [Level 22 Systeme Augment](mBotanyBay.md#level-22-systeme-augment)
+5. [Level 24 Systeme Augment](mBotanyBay.md#level-24-systeme-augment)
+6. [Level 27 Systeme Augment](mBotanyBay.md#level-27-systeme-augment)
 
 ## Start der Missionen
 
@@ -49,7 +54,7 @@
 
 #### Botany Bay Teil 1
 `3x Joaquin`
-> Augment, Botany Bay
+> Augment, Botany Bay, automatische Stations Mission.
 - [erfordert: Nachrüstung](mBotanyBay.md#nachrüstung)
 - [ ] Sammle 15 Einheiten Gewöhnliches Plutonium _(kann man ab Level 20 im Fraktions Shop kaufen)_
 
@@ -113,8 +118,6 @@ Kümmere dich um den Föderationsagenten
 
 [Oben](#botany-bay)
 
-Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
-
 ### _**(Raddan - Raddan)**_ oder _**(Lydan - Lydan)**_
 > Augment Raum [S:1353263455 X:11 Y:237] oder [S:1680347590 X:-428 Y:-212]
 
@@ -170,6 +173,26 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 
 ---
 
+
+## Level 27 Systeme Augment
+
+[Oben](#botany-bay)
+
+### _**(Kor Na Ron - Kor Na Ron)**_
+> Augment Raum [S:694278480 X:130 Y:212]
+
+#### Nachhaltigkeit
+`2x selten raffiniertes Kristal, Gas, Erz G3, 1x Dunkle Materie, A200+`
+- [ ] bla
+
+#### Eine zuverlässige Quelle
+`?`
+- [ ] bla
+
+
+---
+
+
 ## Info
 
 [Oben](#botany-bay)
@@ -177,6 +200,8 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 Ein paar Infos zur Augment Erweiterung und ihrem Gebiet
 
 :warning: Und kleiner Tipp, benutzt das Plutonium erst nach dem du die Missionen fertig hast zum Upgraden der BB Gibt eine da musst du 500 Plut sammeln. Danach kannst die BB upgraden.
+
+:warning: Und kleiner Tipp, sobald man alle Baupläne zusammen hat, soll es angeblich im Shop eine Kiste geben mit 1M Trilithium für die BB... einfach mehrere Tage nacheinander den Shop untersuchen.
 
 **Benötigt**
 Schiffswerft Level 18
