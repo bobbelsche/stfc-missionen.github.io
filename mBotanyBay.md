@@ -233,10 +233,10 @@ Je höher das System desto höher ist die Abbaurate
 | Korrupte Daten Node | Dekodierte Daten |
 | ------------------- | ---------------- |
 | 50k = 10x           | 30k = 4x         |
-| 30k = 7x            | 10k = 1,75x      |
-| 20k = 5x            | 8k = 1,5x        |
-| 8k = 3x             | 2k = 1x          |
-| 2k = 1x             |                  |
+| 30k =  7x           | 10k = 1,75x      |
+| 20k =  5x           |  8k = 1,5x       |
+|  8k =  3x           |  2k = 1x         |
+|  2k =  1x           |                  |
 
 Bau und Upgrade Tabelle:
 https://star-trek-fleet-command.fandom.com/wiki/Botany_Bay
