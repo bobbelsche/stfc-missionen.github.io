@@ -38,8 +38,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `5x Javaid, 25k Dilithium, 190 Credits, R2000+, F1200-, K800-`
 - [x] Triff dich mit Major T'Nara in Kaikara
 - [x] Erkunde das Argosia System
-- [ ] Besiege 8 Feinde in Angosia
-- [ ] bla
+- [x] Besiege 8 Feinde in Angosia
+- [ ] Besiege die USS Browning (kampfschiff 73260 Stärke)
 - [ ] bla
 
 ---

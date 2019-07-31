@@ -154,7 +154,7 @@ Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinw
 
 #### Krähen aufscheuchen
 `150k Parastahl`
-- [ ] Besiege 15 Feinde auf Level 24 oder höher
+- [x] Besiege 15 Feinde auf Level 24 oder höher
 
 #### Machtvakuum
 `6k Tritanium`

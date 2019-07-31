@@ -108,11 +108,21 @@ Erfordert: 3 der folgenden Missionen
 - [x] Triff dich mit dem Föderationsagenten
 
 Kümmere dich um den Föderationsagenten
-- [x] Links, Vernichte den Föderationsagenten `821k Parstahl, 5x Beschleuniger, A200+` (Forschungsschiff 54559 Stärke)
+- [x] Links, Vernichte den Föderationsagenten `821k Parstahl, 5x Beschleuniger, A200+`
 - [ ] Rechts, Sag ihm, dass du seinen Vorschlag sorgfältig prüfen wirst `31k Dilithium, A200+`
-- [ ] bla
+- [x] Vernichte den Föderationsagenten (Forschungsschiff 54559 Stärke)
+- [x] Sprich mit Khan auf Kor Na Ron
+- [Folgemission: Das Gespenst von Terazon X31](mBotanyBay.md#das-gespenst-von-terazon-x31)
 
 ---
+
+#### Das Gespenst von Terazon X31
+`12x Ungewöhnlich raffiniertes Gas, Kristalle G3, 400x Ultra Rekruten, A250+`
+- [Erfordert: Der Würfel ist gefallen](mBotanyBay.md#der-würfel-ist-gefallen)
+- [ ] Scanne das Lydan System auf Eindringlinge 
+
+---
+
 
 ## Level 22 Systeme Augment
 
@@ -169,7 +179,8 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 - [x] Verfolge den Agenten nach Rainsford
 - [x] Befrage den Kopfgeldjäger (Forschungsschiff 44329 Stärke)
 - [x] Finde die Gefangenen in Muraski-312
-- [ ] Hole die Gefangenen von Geheimagenten Mason zurück (Forschungsschiff 54559 Stärke)
+- [x] Hole die Gefangenen von Geheimagenten Mason zurück (Forschungsschiff 54559 Stärke)
+- [x] Bring die Gefangenen nach Lydan zurück
 
 ---
 
