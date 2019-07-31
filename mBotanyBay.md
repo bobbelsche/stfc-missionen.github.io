@@ -122,9 +122,15 @@ Kümmere dich um den Föderationsagenten
 - [x] Scanne das Lydan System auf Eindringlinge 
 - [x] Bezahle den gebürtigen Lydanianer 30000 Trilithium
 - [x] Entdecke den EIndringling in Terazon-X31
-- [ ] Konfrontiere den abtrünigen Suliban (Forschungsschiff 54599 Stärke)
+- [x] Konfrontiere den abtrünigen Suliban (Forschungsschiff 54599 Stärke)
+- [Folgemission: Keine Ruhe für die Gottlosen](mBotanyBay.md#keine-ruhe-für-die-gottlosen)
 
 ---
+
+#### Keine Ruhe für die Gottlosen
+`1x Selten raffiniertes Gas, Kristalle, Erz G3, A300+`
+- [Erfordert: Das Gespenst von Terazon X31](mBotanyBay.md#das-gespenst-von-terazon-x31)
+- [ ] Sammle 500 Augment Credits
 
 
 ## Level 22 Systeme Augment
