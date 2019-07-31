@@ -122,7 +122,7 @@ Kümmere dich um den Föderationsagenten
 - [x] Scanne das Lydan System auf Eindringlinge 
 - [x] Bezahle den gebürtigen Lydanianer 30000 Trilithium
 - [x] Entdecke den EIndringling in Terazon-X31
-- [ ] Konfrontiere den abtrünigen Suliban
+- [ ] Konfrontiere den abtrünigen Suliban (Forschungsschiff 54599 Stärke)
 
 ---
 
