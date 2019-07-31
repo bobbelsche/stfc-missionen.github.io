@@ -158,7 +158,7 @@ Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinw
 
 #### Machtvakuum
 `6k Tritanium`
-- [ ] Besiege 12 Feinde auf Level 23 oder höher in diesem System
+- [x] Besiege 12 Feinde auf Level 23 oder höher in diesem System
 
 ---
 [Oben](#klingonen)
