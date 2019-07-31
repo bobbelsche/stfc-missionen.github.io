@@ -62,8 +62,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Befreier
 `611k Parstahl, 7x 3 Stunden Beschleuniger, Credits 180, R8000+, F5184-, K3456-`
 - [x] Finde den Aktivisten im Draken System
-- [ ] Besiege den remanischen Befreier (Forschungsschiff 54559 Stärke)
-- [ ] bla
+- [x] Besiege den remanischen Befreier (Forschungsschiff 54559 Stärke)
+- [x] Überbringe Sufiday Neuigkeiten vom zerschlagenen Aufstand
 
 #### Ich beobachte dich aus der Ferne
 `46x 5 Minuten Reparatur, 110x Kampfschiffteile G3, Credits 200, R8000+, F5184-, K3456-`
