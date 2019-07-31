@@ -119,7 +119,10 @@ Kümmere dich um den Föderationsagenten
 #### Das Gespenst von Terazon X31
 `12x Ungewöhnlich raffiniertes Gas, Kristalle G3, 400x Ultra Rekruten, A250+`
 - [Erfordert: Der Würfel ist gefallen](mBotanyBay.md#der-würfel-ist-gefallen)
-- [ ] Scanne das Lydan System auf Eindringlinge 
+- [x] Scanne das Lydan System auf Eindringlinge 
+- [x] Bezahle den gebürtigen Lydanianer 30000 Trilithium
+- [x] Entdecke den EIndringling in Terazon-X31
+- [ ] Konfrontiere den abtrünigen Suliban
 
 ---
 
