@@ -2,6 +2,12 @@
 
 ## Station Missionen
 
+#### Kampftraining 24 Veteran
+`104k Dilithium, 20x 1 Stunde Beschleunigen, 400x Ultra Rekruten, 10x Komal`
+- [x] Besiege den feindlichen Captain (Kampfschiff 55452 Stärke)
+
+---
+
 #### Kampftraining 24 Soldat
 `62k Dilithium, 72k Offizier-EP, 325x Premium Rekruten`
 - [ ] Besiege 10 Feinde auf Level 24 oder höher
@@ -15,7 +21,7 @@
 ---
 
 #### Kampftraining 23 Veteran
-`66k Dilithium, 3x 1 Stunde Beschkeunigen, 350x Ultra Rekruten, 10x Komal`
+`66k Dilithium, 3x 1 Stunde Beschleunigen, 350x Ultra Rekruten, 10x Komal`
 - [x] Besiege den feindlichen Captain (Kampfschiff 44970 Stärke)
 
 ---
