@@ -105,8 +105,10 @@ Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinw
 
 #### Freund der Föderation
 `100 Credits, 20 ungewöhnliches raffiniertes Gas G3, F1000+, K864-, R192-, 1x Frachtkontainer`
-- [ ] Begieb dich zum beschädigten Außenposten der Föderation auf Maxom
-- [ ] bla
+- [x] Begieb dich zum beschädigten Außenposten der Föderation auf Maxom
+- [x] Spende 25000 Dilithium für die Reparatur
+- [x] Folge der Signatur zu Markas Position und nimm ihn gefangen.
+- [x] Besiege Marka (Kampfschiff 36701 Stärke)
 
 #### Erhalt
 `130 Credits, 15k Dilitium, F2000+, K1800-, R400-, 1x Frachtkontainer` 
