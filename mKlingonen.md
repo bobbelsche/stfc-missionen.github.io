@@ -2,17 +2,48 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
-1. [Level 27 Systeme](mKlingonen.md#level-27-systeme)
-1. [Level 25 Systeme](mKlingonen.md#level-25-systeme)
-2. [Level 24 Systeme](mKlingonen.md#level-24-systeme)
-3. [Level 23 Systeme](mKlingonen.md#level-23-systeme)
-4. [Level 22 Systeme](mKlingonen.md#level-22-systeme)
-4. [Level 21 Systeme](mKlingonen.md#level-21-systeme)
-5. [Level 20 Systeme](mKlingonen.md#level-20-systeme)
+1. [Level 29 Systeme](mKlingonen.md#level-29-systeme)
+2. [Level 27 Systeme](mKlingonen.md#level-27-systeme)
+3. [Level 25 Systeme](mKlingonen.md#level-25-systeme)
+4. [Level 24 Systeme](mKlingonen.md#level-24-systeme)
+5. [Level 23 Systeme](mKlingonen.md#level-23-systeme)
+6. [Level 22 Systeme](mKlingonen.md#level-22-systeme)
+7. [Level 21 Systeme](mKlingonen.md#level-21-systeme)
+8. [Level 20 Systeme](mKlingonen.md#level-20-systeme)
 
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 29 Systeme
+
+### _**(Morska - KineQ)**_
+> Klingonischer Raum [S:1057703933 X:-225 Y:-534]
+
+#### Gewaltige Bohrung
+`250k Parstahl, 1x Schlüssel`
+- [ ] bla
+
+### _**(Morska - Byand'on)**_
+> Klingonischer Raum [S:1057703933 X:277 Y:433]
+
+#### Weg von der Harmonie
+`2,8m Parstahl, Credits 230, K10000+, R9280-, F3480-, 1x Schlüssel`
+- [ ] bla
+
+#### Verlorene Farben
+`16x ungewöhnliche raffinierte Kristalle, Credits 230, K10000+,  R9280-, F3480-, 1x Schlüssel`
+- [ ] bla
+
+#### Türme
+`1200x Ultra Rekruten, Credits 250, K12000+,  R11500-, F4320-, 1x Schlüssel`
+- [ ] bla
+
+
+
+---
+[Oben](#klingonen)
+
 
 ## Level 27 Systeme
 
@@ -21,12 +52,16 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Komplizenschaft
 `64x 5 Minuten Reparatur, 110x Abfabgjägerteile G3, Credits 200, K8000+, R7168-, F2688-`
-- [ ] bla
+- [x] Nimm einen Liefervertrag auf KineQ an
+- [ ] Setze die Fracht bei Sternenbasis 74 ab
 
 #### Biogefahr
 `?`
+- [ ] Nimm den gefährlichen Container an Bord
 - [ ] bla
 
+---
+[Oben](#klingonen)
 
 
 ## Level 25 Systeme
