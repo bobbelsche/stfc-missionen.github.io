@@ -2,9 +2,15 @@
 
 ## Station Missionen
 
+#### Kampftraining 25 Rekrut
+`64k Dilithium, 160x Standard Rekruten`
+- [ ] Besiege 3 Feinde auf Level 25 oder höher
+
+---
+
 #### Kampftraining 24 Veteran
 `104k Dilithium, 20x 1 Stunde Beschleunigen, 400x Ultra Rekruten, 10x Komal`
-- [x] Besiege den feindlichen Captain (Kampfschiff 55452 Stärke)
+- [x] Besiege den feindlichen Captain (Abfangjäger 55452 Stärke)
 
 ---
 
