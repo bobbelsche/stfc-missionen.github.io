@@ -185,7 +185,9 @@ Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinw
 > Das Bestechungsgeld des roten Jack annehmen oder Oleanna helfen, ihn vor Gericht zu bringen?
 - [ ] Links, Hilf dem roten Jack `12k Dilitium`
 - [x] Rechts, Lehne das Angebot ab `300x Premium Rekruten, 34k Tritanium`
-- [ ] Deaktiviere den Abfangjäger des roten Jack (Abfangjäger 54559 Stärke)  
+- [x] Deaktiviere den Abfangjäger des roten Jack (Abfangjäger 54559 Stärke)  
+- [x] Bring den Roten Jack zur Sicherheitsanlage auf Youok
+
 
 #### Krähen aufscheuchen
 `150k Parastahl`
