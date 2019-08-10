@@ -53,7 +53,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Komplizenschaft
 `64x 5 Minuten Reparatur, 110x Abfabgjägerteile G3, Credits 200, K8000+, R7168-, F2688-`
 - [x] Nimm einen Liefervertrag auf KineQ an
-- [ ] Setze die Fracht bei Sternenbasis 74 ab
+- [x] Setze die Fracht bei Sternenbasis 74 ab
+- [ ] Deaktiviere das verfolgende Sternenflottenschiff (Forschungsschiff 54559 Stärke)
 
 #### Biogefahr
 `?`
