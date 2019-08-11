@@ -130,7 +130,15 @@ Kümmere dich um den Föderationsagenten
 #### Keine Ruhe für die Gottlosen
 `1x Selten raffiniertes Gas, Kristalle, Erz G3, A300+`
 - [Erfordert: Das Gespenst von Terazon X31](mBotanyBay.md#das-gespenst-von-terazon-x31)
-- [ ] Sammle 500 Augment Credits
+- [x] Sammle 500 Augment Credits
+
+
+#### Rückgewinnung
+`4x Pfad freischalten, 37k Tritanium, 600x Premien Rekruten, A500+`
+- [Erfordert: Keine Ruhe für die Gottlosen](mBotanyBay.md#keine-ruhe-für-die-gottlosen)
+- [ ] Sammle 3 Proben der Dunklen Materie
+
+
 
 
 ## Level 22 Systeme Augment
