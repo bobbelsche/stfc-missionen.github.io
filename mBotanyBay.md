@@ -211,10 +211,13 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 
 #### Nachhaltigkeit
 `2x selten raffiniertes Kristal, Gas, Erz G3, 1x Dunkle Materie, A200+`
-- [ ] bla
+- [x] Triff Doktor De Santa in Riegel
+- [x] Baue 300 beschädigte Daten ab
+- [ ] Besiege den abtrünigen Augment (Abfangjäger 133020 Stärke)
 
 #### Eine zuverlässige Quelle
 `?`
+- [ ] Untersuche das seltsame Signal in Radan
 - [ ] bla
 
 
