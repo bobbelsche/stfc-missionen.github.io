@@ -2,6 +2,20 @@
 
 ## Station Missionen
 
+
+#### Das Vermächtnis der Narada
+`50x Abfangjägerteile G3, 10k Offizier-EP`
+- [ ] Besuche die Überresten von Vulkan
+
+---
+
+
+#### Verbessere die F&E-Abteilung auf Level 20
+`17,2k Tritanium, 2x 10 Minuten Reparatur`
+- [ ] Verbessere die F&E-Abteilung auf Level 20
+
+---
+
 #### Kampftraining 25 Rekrut
 `64k Dilithium, 160x Standard Rekruten`
 - [ ] Besiege 3 Feinde auf Level 25 oder höher

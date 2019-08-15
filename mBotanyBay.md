@@ -139,6 +139,11 @@ Kümmere dich um den Föderationsagenten
 - [ ] Sammle 3 Proben der Dunklen Materie
 
 
+#### Botany Bay Teil 2
+`3x Joaquin, 11x 1 Stdunde Beschleunigen`
+> Augment, Botany Bay, automatische Stations Mission.
+- [erfordert: Nachrüstung](mBotanyBay.md#nachrüstung)
+- [ ] Sammle 75 Einheiten Gewöhnliches Plutonium _(kann man ab Level 20 im Fraktions Shop kaufen)_
 
 
 ## Level 22 Systeme Augment
