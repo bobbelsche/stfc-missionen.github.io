@@ -2,6 +2,12 @@
 
 ## Station Missionen
 
+#### Kampftraining 24 Soldat
+`96k Dilithium, 85k Offizier-EP, 325x Premium Rekruten`
+- [ ] Besiege 10 Feinde auf Level 25 oder höher
+
+---
+
 #### Verbessere Schiffswerft auf Level 20
 `15k Tritanium`
 - [ ] Verbessere Schiffswerft auf Level 20
