@@ -2,10 +2,29 @@
 
 ## Station Missionen
 
+#### Verbessere Schiffswerft auf Level 20
+`15k Tritanium`
+- [ ] Verbessere Schiffswerft auf Level 20
+
+---
+
+#### Partei ergreifen
+`?`
+- [ ] Verbessere die OPS auf Level 22
+- [ ] bla
+- [ ] bla
+
+---
+
+#### Verlorene Horizonte
+`75k Parstahl, 75x Abfangjägerteile G3, 100 gewöhnliches raffiniertes Erz,`
+- [x] Schließe 4 Missionen in 'Grrr vergessen ab'
+
+---
 
 #### Das Vermächtnis der Narada
 `50x Abfangjägerteile G3, 10k Offizier-EP`
-- [ ] Besuche die Überresten von Vulkan
+- [x] Besuche die Überresten von Vulkan
 
 ---
 
@@ -78,13 +97,13 @@
 
 #### Der kalte Krieg
 `250k Parstahl`
-- [ ] Verbessere die Ops auf Level 20
+- [x] Verbessere die Ops auf Level 20
 
 ---
 
 #### Verbessere Schiffswerft auf Level 19
 `12k Tritanium`
-- [ ] Verbessere Schiffswerft auf Level 19
+- [x] Verbessere Schiffswerft auf Level 19
 
 ---
 

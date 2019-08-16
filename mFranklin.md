@@ -223,7 +223,17 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 `120x Schwarm Biominerale, 1x Warpsperre der Franklin, 5x ungewöhnliche raffinierte Gas, Erz, Kristalle G2, `
 
 - [Erfordert: USS Franklin Part 2](mFranklin.md#uss-franklin-part-2)
-- [ ] Verbessere das Astronautikstudio auf Level 20
+- [x] Verbessere das Astronautikstudio auf Level 20
+
+---
+
+#### USS Franklin Part 4
+> Franklin, Schwarm
+
+`175x Schwarm Biominerale, 1x Warp-Relais der Franklin, 8x ungewöhnliche raffinierte Gas, Erz, Kristalle G2, `
+
+- [Erfordert: USS Franklin Part 3](mFranklin.md#uss-franklin-part-3)
+- [ ] Verbessere die F&E-Abteilung auf Level 22
 
 ---
 
