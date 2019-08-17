@@ -18,7 +18,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Doska - Sternenbasis 76)**_
 > Foderation Raum [S:1036671379 X:-419 Y:196]
 
-#### InvasionHeimatlicher Boden
+#### Invasion Heimatlicher Boden
 `1m Parstahl, 146k Tritanium, Credits 200, F8000+, K8064-, R1792-`
 - [ ] bla
 

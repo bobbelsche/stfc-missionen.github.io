@@ -56,7 +56,7 @@ Werte wie A60+ Fraktionspunkte A(ugment) R(omulaner), F(öderation), K(lingonen)
 `3x Joaquin`
 > Augment, Botany Bay, automatische Stations Mission.
 - [erfordert: Nachrüstung](mBotanyBay.md#nachrüstung)
-- [ ] Sammle 15 Einheiten Gewöhnliches Plutonium _(kann man ab Level 20 im Fraktions Shop kaufen)_
+- [x] Sammle 15 Einheiten Gewöhnliches Plutonium _(kann man ab Level 20 im Fraktions Shop kaufen)_
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Station Missionen
 
-#### Kampftraining 24 Soldat
+#### Kampftraining 25 Soldat
 `96k Dilithium, 85k Offizier-EP, 325x Premium Rekruten`
 - [ ] Besiege 10 Feinde auf Level 25 oder höher
 
@@ -43,7 +43,7 @@
 
 #### Kampftraining 25 Rekrut
 `64k Dilithium, 160x Standard Rekruten`
-- [ ] Besiege 3 Feinde auf Level 25 oder höher
+- [x] Besiege 3 Feinde auf Level 25 oder höher
 
 ---
 
@@ -55,7 +55,7 @@
 
 #### Kampftraining 24 Soldat
 `62k Dilithium, 72k Offizier-EP, 325x Premium Rekruten`
-- [ ] Besiege 10 Feinde auf Level 24 oder höher
+- [x] Besiege 10 Feinde auf Level 24 oder höher
 
 ---
 
