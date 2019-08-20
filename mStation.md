@@ -2,6 +2,18 @@
 
 ## Station Missionen
 
+#### Die Vahklas
+`400x Ultra Rekruten`
+- [ ] Baue die Vahklas
+
+---
+
+#### Verbessere das Trockendock A auf Level 20
+`18,5k Tritanium, 2x 10 Minuten Reparatur`
+- [ ] Verbessere das Trockendock A auf Level 20
+
+---
+
 #### Kampftraining 25 Soldat
 `96k Dilithium, 85k Offizier-EP, 325x Premium Rekruten`
 - [ ] Besiege 10 Feinde auf Level 25 oder höher
