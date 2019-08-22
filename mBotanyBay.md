@@ -235,8 +235,13 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 
 #### Eine zuverlässige Quelle
 `?`
-- [ ] Untersuche das seltsame Signal in Radan
-- [ ] bla
+- [x] Untersuche das seltsame Signal in Radan
+- [x] Rette das romulanische Schiff vor Piraten (Abfangjäger 30909)
+- [ ] Links, Hilf dem Tal-Shiar Agenten `9x ungewöhnliches raffiniertes Erz, 10x Beschleuniger, 1x Dunkle Materie, A200+`
+- [x] Rechts, Lüge den Tal-Shiar Agenten an `180k Tritanium, 1x Dunkle Materie, A200+, 4x Kahn`
+- [x] Führe falsche Messungen des Lydan-Systems durch
+- [x] Melde dem Agenten in Kaikara die falschen Informationen
+- [ ] Besiege den romulanischen Spion (Kampfschiff 129975)
 
 
 ---
