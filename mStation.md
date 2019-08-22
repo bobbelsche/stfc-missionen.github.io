@@ -2,6 +2,17 @@
 
 ## Station Missionen
 
+#### Kampftraining 25 Veteran
+`160k Dilithium, 8x 3 Stunde Beschleunigen, 450x Ultra Rekruten, 12x Komal`
+- [ ] Besiege den feindlichen Captain (Forschungsschiff 74100 Stärke)
+
+---
+
+#### Verbessere die OPS auf Level 21
+`50k Tritanium, 2x 10 Minuten Reparatur`
+- [ ] Verbessere die OPS auf Level 21
+
+
 #### Die Vahklas
 `400x Ultra Rekruten`
 - [ ] Baue die Vahklas
@@ -16,7 +27,7 @@
 
 #### Kampftraining 25 Soldat
 `96k Dilithium, 85k Offizier-EP, 325x Premium Rekruten`
-- [ ] Besiege 10 Feinde auf Level 25 oder höher
+- [x] Besiege 10 Feinde auf Level 25 oder höher
 
 ---
 

@@ -150,7 +150,13 @@ Kümmere dich um den Föderationsagenten
 `5x Joaquin, 4x 3 Stunde Beschleunigen`
 > Augment, Botany Bay, automatische Stations Mission.
 - [erfordert: Botany Bay Teil 2](mBotanyBay.md#botany-bay-teil-2)
-- [ ] Sammle 375 Einheiten Gewöhnliches Plutonium _(kann man ab Level 20 im Fraktions Shop kaufen)_
+- [x] Sammle 375 Einheiten Gewöhnliches Plutonium _(kann man ab Level 20 im Fraktions Shop kaufen)_
+
+#### Botany Bay Teil 4
+`7x Joaquin, 6x 3 Stunde Beschleunigen`
+> Augment, Botany Bay, automatische Stations Mission.
+- [erfordert: Botany Bay Teil 3](mBotanyBay.md#botany-bay-teil-3)
+- [ ] Sammle 15 Einheiten vereinzeltes Plutonium
 
 
 ## Level 22 Systeme Augment
