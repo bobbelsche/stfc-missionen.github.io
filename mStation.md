@@ -2,6 +2,11 @@
 
 ## Station Missionen
 
+#### Verbessere Schiffswerft auf Level 21
+`30k Tritanium`
+- [ ] Verbessere Schiffswerft auf Level 21
+
+
 #### Kampftraining 25 Veteran
 `160k Dilithium, 8x 3 Stunde Beschleunigen, 450x Ultra Rekruten, 12x Komal`
 - [ ] Besiege den feindlichen Captain (Forschungsschiff 74100 Stärke)
