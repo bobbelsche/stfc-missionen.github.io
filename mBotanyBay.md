@@ -136,7 +136,7 @@ Kümmere dich um den Föderationsagenten
 #### Rückgewinnung
 `4x Pfad freischalten, 37k Tritanium, 600x Premien Rekruten, A500+`
 - [Erfordert: Keine Ruhe für die Gottlosen](mBotanyBay.md#keine-ruhe-für-die-gottlosen)
-- [ ] Sammle 3 Proben der Dunklen Materie
+- [x] Sammle 3 Proben der Dunklen Materie
 
 
 #### Botany Bay Teil 2
@@ -231,7 +231,9 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 `2x selten raffiniertes Kristal, Gas, Erz G3, 1x Dunkle Materie, A200+`
 - [x] Triff Doktor De Santa in Riegel
 - [x] Baue 300 beschädigte Daten ab
-- [ ] Besiege den abtrünigen Augment (Abfangjäger 133020 Stärke)
+- [x] Besiege den abtrünigen Augment (Abfangjäger 133020 Stärke) 
+      __Nordstern mit 135k Captain Kirk, Pille, Uhura__
+- [ ] bla
 
 #### Eine zuverlässige Quelle
 `?`
