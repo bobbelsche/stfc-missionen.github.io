@@ -2,9 +2,15 @@
 
 ## Station Missionen
 
+#### Verbessere die OPS auf Level 22
+`100k Tritanium, 2x 10 Minuten Reparatur`
+- [ ] Verbessere die OPS auf Level 22
+
+---
+
 #### Verbessere Schiffswerft auf Level 21
 `30k Tritanium`
-- [ ] Verbessere Schiffswerft auf Level 21
+- [x] Verbessere Schiffswerft auf Level 21
 
 
 #### Kampftraining 25 Veteran
@@ -15,8 +21,9 @@
 
 #### Verbessere die OPS auf Level 21
 `50k Tritanium, 2x 10 Minuten Reparatur`
-- [ ] Verbessere die OPS auf Level 21
+- [x] Verbessere die OPS auf Level 21
 
+---
 
 #### Die Vahklas
 `400x Ultra Rekruten`
@@ -26,7 +33,7 @@
 
 #### Verbessere das Trockendock A auf Level 20
 `18,5k Tritanium, 2x 10 Minuten Reparatur`
-- [ ] Verbessere das Trockendock A auf Level 20
+- [x] Verbessere das Trockendock A auf Level 20
 
 ---
 
@@ -38,7 +45,7 @@
 
 #### Verbessere Schiffswerft auf Level 20
 `15k Tritanium`
-- [ ] Verbessere Schiffswerft auf Level 20
+- [x] Verbessere Schiffswerft auf Level 20
 
 ---
 
@@ -65,7 +72,7 @@
 
 #### Verbessere die F&E-Abteilung auf Level 20
 `17,2k Tritanium, 2x 10 Minuten Reparatur`
-- [ ] Verbessere die F&E-Abteilung auf Level 20
+- [x] Verbessere die F&E-Abteilung auf Level 20
 
 ---
 
@@ -113,7 +120,7 @@
 
 #### Die Kehra
 `200x Ultra Rekruten`
-- [ ] Baue die Kehra
+- [x] Baue die Kehra
 
 ---
 
