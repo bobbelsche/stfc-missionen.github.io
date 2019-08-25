@@ -118,8 +118,8 @@ Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinw
 
 #### Kein Freibeuter
 `130 Credits, 502k Parstahl, F2000+, K1800-, R400-, 1x Frachtkontainer`
-- [ ] Besiege den Freibeuter (Kampfschiff 36701 Stärke)
-- [ ] bla
+- [x] Besiege den Freibeuter (Kampfschiff 36701 Stärke)
+- [ ] Bring die Trümer nach Delta Vega zurück
 
 ---
 [Oben](#föderation)
