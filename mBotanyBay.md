@@ -152,11 +152,21 @@ Kümmere dich um den Föderationsagenten
 - [erfordert: Botany Bay Teil 2](mBotanyBay.md#botany-bay-teil-2)
 - [x] Sammle 375 Einheiten Gewöhnliches Plutonium _(kann man ab Level 20 im Fraktions Shop kaufen)_
 
+
 #### Botany Bay Teil 4
 `7x Joaquin, 6x 3 Stunde Beschleunigen`
 > Augment, Botany Bay, automatische Stations Mission.
 - [erfordert: Botany Bay Teil 3](mBotanyBay.md#botany-bay-teil-3)
 - [ ] Sammle 15 Einheiten vereinzeltes Plutonium
+
+#### Schwindendes Licht
+`4x Pfad freischalten, 37k Tritanium, 600x Premien Rekruten, A500+`
+- [Erfordert: Rückgewinnung](mBotanyBay.md#rückgewinning)
+- [ ] Bring Kahn zur Anomalie in Ifea-3
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
 
 
 ## Level 22 Systeme Augment
@@ -242,7 +252,7 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 - [x] Rechts, Lüge den Tal-Shiar Agenten an `180k Tritanium, 1x Dunkle Materie, A200+, 4x Kahn`
 - [x] Führe falsche Messungen des Lydan-Systems durch
 - [x] Melde dem Agenten in Kaikara die falschen Informationen
-- [ ] Besiege den romulanischen Spion (Kampfschiff 129975)
+- [x] Besiege den romulanischen Spion (Kampfschiff 129975) _Nordstern mit 135k Captain Kirk, Pille, Uhura_
 
 
 ---
