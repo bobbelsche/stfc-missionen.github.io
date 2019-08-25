@@ -231,9 +231,8 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 `2x selten raffiniertes Kristal, Gas, Erz G3, 1x Dunkle Materie, A200+`
 - [x] Triff Doktor De Santa in Riegel
 - [x] Baue 300 beschädigte Daten ab
-- [x] Besiege den abtrünigen Augment (Abfangjäger 133020 Stärke) 
-      __Nordstern mit 135k Captain Kirk, Pille, Uhura__
-- [ ] bla
+- [x] Besiege den abtrünigen Augment (Abfangjäger 133020 Stärke) _Nordstern mit 135k Captain Kirk, Pille, Uhura_
+- [x] Melde Dich bei Kahn in Lydan
 
 #### Eine zuverlässige Quelle
 `?`
