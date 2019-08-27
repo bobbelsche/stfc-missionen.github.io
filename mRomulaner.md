@@ -50,9 +50,13 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Auf frischer Tat ertappt
 `?`
 - [x] Reise ins Vosak System
-- [ ] Besiege den Agenten der Föderation (Kampfschiff 101520 Stärke)
-- [ ] bla
-- [ ] bla
+- [x] Besiege den Agenten der Föderation (Kampfschiff 101520 Stärke)
+
+> Entscheide was du mit dem Spiom der Föderation machst
+
+- [x] Links, Bring den Agenten auf deine Station `445k Parstahl`
+- [ ] Rechts, Birg den Vorrat `445k Parstahl`
+- [x] Bring den Spion auf deine Station
 
 ---
 
