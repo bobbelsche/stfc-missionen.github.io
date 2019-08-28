@@ -162,8 +162,8 @@ Kümmere dich um den Föderationsagenten
 #### Schwindendes Licht
 `4x Pfad freischalten, 37k Tritanium, 600x Premien Rekruten, A500+`
 - [Erfordert: Rückgewinnung](mBotanyBay.md#rückgewinning)
-- [ ] Bring Kahn zur Anomalie in Ifea-3
-- [ ] bla
+- [x] Bring Kahn zur Anomalie in Ifea-3
+- [ ] Zerstöre das Vaaran-Forschungsschiff (Forschungsschiff 102720 Stärke)
 - [ ] bla
 - [ ] bla
 - [ ] bla
