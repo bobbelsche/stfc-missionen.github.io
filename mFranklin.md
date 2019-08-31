@@ -233,10 +233,19 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 `175x Schwarm Biominerale, 1x Warp-Relais der Franklin, 8x ungewöhnliche raffinierte Gas, Erz, Kristalle G3, `
 
 - [Erfordert: USS Franklin Part 3](mFranklin.md#uss-franklin-part-3)
-- [ ] Verbessere die F&E-Abteilung auf Level 22
+- [x] Verbessere die F&E-Abteilung auf Level 22
 
 ---
 
+#### USS Franklin Part 5
+> Franklin, Schwarm
+
+`200x Schwarm Biominerale, 1x Warp-Regulator der Franklin, 9k Dilithium`
+
+- [Erfordert: USS Franklin Part 4](mFranklin.md#uss-franklin-part-4)
+- [ ] Verbessere das Antriebslabor auf Level 24
+
+---
 
 ## Info
 
