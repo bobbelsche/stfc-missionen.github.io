@@ -163,8 +163,8 @@ Kümmere dich um den Föderationsagenten
 `4x Pfad freischalten, 37k Tritanium, 600x Premien Rekruten, A500+`
 - [Erfordert: Rückgewinnung](mBotanyBay.md#rückgewinning)
 - [x] Bring Kahn zur Anomalie in Ifea-3
-- [ ] Zerstöre das Vaaran-Forschungsschiff (Forschungsschiff 102720 Stärke)
-- [ ] bla
+- [x] Zerstöre das Vaaran-Forschungsschiff (Forschungsschiff 102720 Stärke)
+- [ ] Entdecke die Vaaran-Montage
 - [ ] bla
 - [ ] bla
 

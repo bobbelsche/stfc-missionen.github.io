@@ -2,6 +2,12 @@
 
 ## Station Missionen
 
+#### Verbessere die OPS auf Level 24
+`350k Tritanium, 2x 10 Minuten Reparatur`
+- [x] Verbessere die OPS auf Level 24
+
+---
+
 #### Verbessere Schiffswerft auf Level 22
 `50k Tritanium`
 - [ ] Verbessere Schiffswerft auf Level 22
@@ -61,7 +67,7 @@
 - [ ] Wähle Föderations Raum `150k Parstahl, Credit 100, F100+, K100-, R100-`
 - [x] Wähle Romulanischen Raum `150k Parstahl, Credit 100, R100+, F100-, K100-`
 - [ ] Wähle Klingonischen Raum `150k Parstahl, Credit 100, K100+, F100-, R100-`
-- [ ] bla
+- [ ] Versetze die Station
 
 ---
 

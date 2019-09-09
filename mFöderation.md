@@ -33,6 +33,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Invasion
 `125x Forschungsschiffteile, 42x 5 Minuten Reparatur, Credit 170, F2000+, K1800-, R400-`
+- [x] Hilf bei der Verteidigung des Ajilon-Systems mit ()
+- [x] Besiege 5 Feinde in Ajilon
+- [x] Besiege die Separatisten Vorhut (Abfangjäger 75312 Stärke)
+- [ ] Evakuiere die Zivilisten von Ajilon Prime
 - [ ] bla
 
 ---
