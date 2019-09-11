@@ -2,31 +2,12 @@
 
 ## Station Missionen
 
-#### Rubinlauf
-> Missionsherkunft unbekannt
-
-`1k Parstahl`
-- [x] Bringe Alenas nach Risa
-- [ ] Besiege Beavats Vollstrecker
-
----
-
-
-#### Ich habe gegen das Gesetzt gekämpft
-> Missionsherkunft unbekannt
-
-`5,5k Parstahl, 1kx Tritanium, 1x Orion-Manifest`
-- [x] Orte das Friedensschiff der Föderation
-- [ ] Schalte das Schiff der Föderation aus
-- [ ] bla
-
----
 
 #### Gekreutzte Klingen
 > Missionsherkunft unbekannt
 
 `1x Jellyfish`
-- [ ] Besiege den Takret Commander Polsik
+- [x] Besiege den Takret Commander Polsik
 
 ---
 
@@ -35,37 +16,6 @@
 
 `3x Jellyfish, 1x Energieverteiler`
 - [ ] Besiege den Deneva Schleicher
-
----
-
-#### Unikat
-> Missionsherkunft unbekannt
-
-`9k Parstahl, 10x Tritanium, 1x Orion-Manifest`
-- [x] Finde Govac bei laqik im Luca System
-- [x] Suche in den Flottenüberresten nach Datenpaketen
-- [ ] Verteidige Grovacs Daten gegen Kreele
-
----
-
-#### Ein schlechter Deal
-> Missionsherkunft unbekannt
-
-`5k Parstahl, 1k Tritanium, 20x Standart Rekruten, 1x Orion-Manifest`
-- [x] Triff dich am Übergabeort mit dem Käufer
-- [ ] Besiege Kreels Hinterhalt
-- [ ] bla
-
----
-
-#### Bombardierung
-> Missionsherkunft unbekannt
-
-`6k Parstahl, 1x Orion-Manifest`
-- [x] Hole den Sprengsatz auf Oxos im Fostaa-System ab
-- [x] Bombadiere Yidosa aus der Umlaufbahn
-- [ ] Besiege die rigelanische Verteidigungsflotte
-- [ ] bla
 
 ---
 
