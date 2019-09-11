@@ -164,8 +164,8 @@ Kümmere dich um den Föderationsagenten
 - [Erfordert: Rückgewinnung](mBotanyBay.md#rückgewinning)
 - [x] Bring Kahn zur Anomalie in Ifea-3
 - [x] Zerstöre das Vaaran-Forschungsschiff (Forschungsschiff 102720 Stärke)
-- [ ] Entdecke die Vaaran-Montage
-- [ ] bla
+- [x] Entdecke die Vaaran-Montage
+- [ ] Besiege 8 Feinde auf Level 27 oder höher
 - [ ] bla
 
 
