@@ -2,6 +2,16 @@
 
 ## Station Missionen
 
+#### Baue die Kumari
+`400x Ultra Rekruten`
+- [ ] Baue die Kumari
+
+### Verbessere den Dilithium Generator A auf Level 23
+`50k Tritanium, 2x 10 Minuten Reparatur`
+- [ ] Verbessere den Dilithium Generator A auf Level 23
+
+---
+
 #### Aufstandische
 `1x Jellyfish, 9k Parstahl, 1x Orion-Manifest`
 - [x] Vernichte Hemtaks Anhänger
@@ -43,7 +53,7 @@
 
 #### Verbessere Schiffswerft auf Level 22
 `50k Tritanium`
-- [ ] Verbessere Schiffswerft auf Level 22
+- [x] Verbessere Schiffswerft auf Level 22
 
 ---
 
@@ -72,7 +82,7 @@
 
 #### Die Vahklas
 `400x Ultra Rekruten`
-- [ ] Baue die Vahklas
+- [x] Baue die Vahklas
 
 ---
 
