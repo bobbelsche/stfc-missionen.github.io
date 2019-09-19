@@ -33,10 +33,10 @@ Werte wie A60+ Fraktionspunkte A(ugment) R(omulaner), F(öderation), K(lingonen)
 - [Lessons of the Past]
 
 ---
+[Oben](#botany-bay)
+
 
 ## Automatische Missionen
-
-[Oben](#botany-bay)
 
 #### Nachrüstung
 `5x 1 Pfad freischalten, 14x Joaquin, A60+`
@@ -177,11 +177,10 @@ Kümmere dich um den Föderationsagenten
 - [ ] Sammle 75 Einheiten Ungewöhnliches Plutonium _(kann man ab Level 24 im Fraktions Shop kaufen)_
 
 ---
+[Oben](#botany-bay)
 
 
 ## Level 22 Systeme Augment
-
-[Oben](#botany-bay)
 
 ### _**(Raddan - Raddan)**_ oder _**(Lydan - Lydan)**_
 > Augment Raum [S:1353263455 X:11 Y:237] oder [S:1680347590 X:-428 Y:-212]
@@ -207,10 +206,10 @@ Benutze deinen Einfluss im Unabhängigen Raum, um die Aufmerksamkeit von Khan un
 - [x] Kehre nach Tera Lara zurück
 
 ---
+[Oben](#botany-bay)
+
 
 ## Level 24 Systeme Augment
-
-[Oben](#botany-bay)
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
@@ -238,11 +237,10 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 - [x] Bring die Gefangenen nach Lydan zurück
 
 ---
+[Oben](#botany-bay)
 
 
 ## Level 27 Systeme Augment
-
-[Oben](#botany-bay)
 
 ### _**(Kor Na Ron - Kor Na Ron)**_
 > Augment Raum [S:694278480 X:130 Y:212]
@@ -266,11 +264,10 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 
 
 ---
+[Oben](#botany-bay)
 
 
 ## Info
-
-[Oben](#botany-bay)
 
 Ein paar Infos zur Augment Erweiterung und ihrem Gebiet
 

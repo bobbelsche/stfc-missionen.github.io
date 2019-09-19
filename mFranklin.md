@@ -171,12 +171,10 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 - [x] Besiege Zeniths Eindringling (Abfangjäger 65722 Stärke) _mit Franklin Level 10!_
 
 ---
-[Oben](#franklin und schwarm)
+[Oben](#franklin-und-schwarm)
 
 
 ## Missions Strang Naiwillen
-
-[Oben](#franklin und schwarm)
 
 ### _**(Naiwillen - Gorvax)**_
 > Neutraler Raum [S:955177926 X:-200 Y:-260]
@@ -191,7 +189,7 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 - [ ] ???
 
 ---
-[Oben](#franklin und schwarm)
+[Oben](#franklin-und-schwarm)
 
 
 ## Station Missionen
@@ -247,11 +245,11 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 - [ ] Verbessere das Antriebslabor auf Level 24
 
 ---
-[Oben](#franklin und schwarm)
+[Oben](#franklin-und-schwarm)
 
 
 ## Info
 
-[Oben](#franklin und schwarm)
+[Oben](#franklin-und-schwarm)
 
 [Inhalt](README.md#inhalt)
