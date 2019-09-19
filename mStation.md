@@ -2,6 +2,22 @@
 
 ## Station Missionen
 
+#### Aufstandische
+`1x Jellyfish, 9k Parstahl, 1x Orion-Manifest`
+- [x] Vernichte Hemtaks Anhänger
+- [x] Schalte Hemtaks letzte Verbündete aus
+- [x] Triff dich mit Orion Boss in Arvent
+
+---
+
+#### Verhörraum
+> Missionsherkunft unbekannt
+
+`2x Jellyfish`
+- [x] Durchsuche Commander Harthins Schiff
+- [x] Rette den Fähnrich vor Commander Polsik
+
+---
 
 #### Gekreutzte Klingen
 > Missionsherkunft unbekannt
@@ -15,7 +31,7 @@
 > Missionsherkunft unbekannt
 
 `3x Jellyfish, 1x Energieverteiler`
-- [ ] Besiege den Deneva Schleicher
+- [x] Besiege den Deneva Schleicher
 
 ---
 

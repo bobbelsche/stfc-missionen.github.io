@@ -2,6 +2,7 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
+1. [Level 34 Systeme](mFöderation.md#level-34-systeme)
 1. [Level 27 Systeme](mFöderation.md#level-27-systeme)
 1. [Level 25 Systeme](mFöderation.md#level-25-systeme)
 2. [Level 24 Systeme](mFöderation.md#level-24-systeme)
@@ -12,6 +13,28 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 34 Systeme
+
+### _**(Andoria - Andoria Prime)**_
+> Foderation Raum [S:31 X:456 Y:102]
+
+#### Unter dem Eis
+`?`
+- [ ] bla
+
+#### Ushaan
+`1200 Ultra Rekruten, 500 Cred, 1x Energieverteiler, F100000+, K136800-, R30400-`
+- [ ] bla
+
+#### Wachturm
+`2.1M Tritanium, 434k Dilithium, 350 Cred, F42000+, K51400-, R11400-`
+- [ ] bla
+
+
+---
+[Oben](#föderation)
+
 
 ## Level 27 Systeme
 
