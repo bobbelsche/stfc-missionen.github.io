@@ -195,7 +195,6 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 ## Station Missionen
 
 #### USS Franklin Part 1
-> Franklin, Schwarm
 
 > Benötigt: `300x Frequenzmodulatoren, 50x gewöhnlich raffinierte Gas G2, 35k Tritanium, 1400 Dilithium`
 
@@ -206,7 +205,6 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 ---
 
 #### USS Franklin Part 2
-> Franklin, Schwarm
 
 `120x Schwarm Biominerale, 1x Warpsperre der Franklin, 5x ungewöhnliche raffinierte Gas, Erz, Kristalle G2`
 
@@ -217,7 +215,6 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 ---
 
 #### USS Franklin Part 3
-> Franklin, Schwarm
 
 `120x Schwarm Biominerale, 1x Warpsperre der Franklin, 5x ungewöhnliche raffinierte Gas, Erz, Kristalle G3, `
 
@@ -227,7 +224,6 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 ---
 
 #### USS Franklin Part 4
-> Franklin, Schwarm
 
 `175x Schwarm Biominerale, 1x Warp-Relais der Franklin, 8x ungewöhnliche raffinierte Gas, Erz, Kristalle G3, `
 
@@ -237,7 +233,7 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 ---
 
 #### USS Franklin Part 5
-> Franklin, Schwarm
+> Verbessere deine Station, damit Scotty seine Arbeit auf der Franklin fortsetzen kann
 
 `200x Schwarm Biominerale, 1x Warp-Regulator der Franklin, 9k Dilithium`
 

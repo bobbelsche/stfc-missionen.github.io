@@ -2,13 +2,33 @@
 
 ## Station Missionen
 
+#### Kampftraining 26 Soldat
+`150k Dilithium, 100k Offizier-EP, 400x Premium Rekruten`
+- [x] Besiege 10 Feinde auf Level 26 oder höher
+
+---
+
+#### Kampftraining 26 Rekrut
+`100k Dilithium, 180x Standard Rekruten`
+- [x] Besiege 3 Feinde auf Level 26 oder höher
+
+---
+
+#### Verbessere Schiffswerft auf Level 24
+`150k Tritanium`
+- [x] Verbessere Schiffswerft auf Level 24
+
+---
+
 #### Baue die Kumari
 `400x Ultra Rekruten`
 - [ ] Baue die Kumari
 
+---
+
 ### Verbessere den Dilithium Generator A auf Level 23
 `50k Tritanium, 2x 10 Minuten Reparatur`
-- [ ] Verbessere den Dilithium Generator A auf Level 23
+- [x] Verbessere den Dilithium Generator A auf Level 23
 
 ---
 

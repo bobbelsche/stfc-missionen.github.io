@@ -155,7 +155,6 @@ Kümmere dich um den Föderationsagenten
 
 #### Botany Bay Teil 4
 `7x Joaquin, 6x 3 Stunde Beschleunigen`
-> Augment, Botany Bay, automatische Stations Mission.
 - [erfordert: Botany Bay Teil 3](mBotanyBay.md#botany-bay-teil-3)
 - [ ] Sammle 15 Einheiten vereinzeltes Plutonium
 
@@ -166,15 +165,20 @@ Kümmere dich um den Föderationsagenten
 - [x] Bring Kahn zur Anomalie in Ifea-3
 - [x] Zerstöre das Vaaran-Forschungsschiff (Forschungsschiff 102720 Stärke)
 - [x] Entdecke die Vaaran-Montage
-- [ ] Besiege 8 Feinde auf Level 27 oder höher
-- [ ] bla
+- [x] Besiege 8 Feinde auf Level 27 oder höher
+- [ ] Beende den Angriff auf Kahns Außenposten
 
 
 #### Botany Bay Teil 5
 `10x Joaquin, 8x 3 Stunde Beschleunigen`
-> Augment, Botany Bay, automatische Stations Mission.
 - [erfordert: Botany Bay Teil 4](mBotanyBay.md#botany-bay-teil-4)
 - [ ] Sammle 75 Einheiten Ungewöhnliches Plutonium _(kann man ab Level 24 im Fraktions Shop kaufen)_
+
+
+#### Botany Bay Teil 6
+`16x Joaquin, 10x 3 Stunde Beschleunigen`
+- [erfordert: Botany Bay Teil 5](mBotanyBay.md#botany-bay-teil-5)
+- [ ] Sammle 375 Einheiten Vereinzeltes Plutonium _(kann man ab Level 24 im Fraktions Shop kaufen)_
 
 ---
 [Oben](#botany-bay)
