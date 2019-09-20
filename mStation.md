@@ -2,9 +2,15 @@
 
 ## Station Missionen
 
+#### Baue die Horizon
+`800x Ultra Rekruten`
+- [ ] Baue die Horizon
+
+---
+
 #### Kampftraining 26 Soldat
 `150k Dilithium, 100k Offizier-EP, 400x Premium Rekruten`
-- [x] Besiege 10 Feinde auf Level 26 oder höher
+- [ ] Besiege 10 Feinde auf Level 26 oder höher
 
 ---
 
@@ -22,7 +28,7 @@
 
 #### Baue die Kumari
 `400x Ultra Rekruten`
-- [ ] Baue die Kumari
+- [x] Baue die Kumari
 
 ---
 
