@@ -2,6 +2,12 @@
 
 ## Station Missionen
 
+#### Kampftraining 26 Veteran
+`250k Dilithium, 10x 3 Stunde Beschleunigen, 500x Ultra Rekruten, 5x Klaa`
+- [ ] Besiege den feindlichen Captain (Forschungsschiff 102720 Stärke)
+
+---
+
 #### Baue die Horizon
 `800x Ultra Rekruten`
 - [ ] Baue die Horizon
@@ -10,7 +16,7 @@
 
 #### Kampftraining 26 Soldat
 `150k Dilithium, 100k Offizier-EP, 400x Premium Rekruten`
-- [ ] Besiege 10 Feinde auf Level 26 oder höher
+- [x] Besiege 10 Feinde auf Level 26 oder höher
 
 ---
 
@@ -96,7 +102,7 @@
 
 #### Kampftraining 25 Veteran
 `160k Dilithium, 8x 3 Stunde Beschleunigen, 450x Ultra Rekruten, 12x Komal`
-- [ ] Besiege den feindlichen Captain (Forschungsschiff 74100 Stärke)
+- [x] Besiege den feindlichen Captain (Forschungsschiff 74100 Stärke)
 
 ---
 
