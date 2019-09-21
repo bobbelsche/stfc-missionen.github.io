@@ -8,6 +8,12 @@
 
 ---
 
+### Verbessere die OPS auf Level 25
+`700k Tritanium, 2x 15 Minuten Reparatur`
+- [ ] Verbessere die OPS auf Level 25
+
+---
+
 #### Baue die Horizon
 `800x Ultra Rekruten`
 - [ ] Baue die Horizon
