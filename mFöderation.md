@@ -51,6 +51,26 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ## Level 25 Systeme
 
+### _**(Gemet - )**_
+> Foderation Raum [S:1710685740 X:-543 Y:-147]
+
+#### Unterstützung
+`22k Dilithium, 22x ungewöhnliches raffiniertes Gas G3, Credits 150, F3100+, K2902-, R645-`
+- [ ] Baue 250000 Tritanium ab
+
+
+#### Lebende Fracht
+`?`
+- [ ] Gehe zum Rand der neutralen Zone
+
+
+#### Inversionen
+`9k Tritanium, F1+, K1+ R+`
+- [ ] Finde das andorianische Schiff im Doska System
+
+---
+
+
 ### _**(Angosia - Angosia Prime)**_
 > Foderation Raum [S:739609161 X:-29 Y:-195]
 

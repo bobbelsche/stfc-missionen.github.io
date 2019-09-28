@@ -86,7 +86,7 @@ Selbe Missionen gibt es bei:
 - [x] Antworte auf den Notruf in Hann
 - [x] Schalte Bortas's Systeme aus (Kampfschiff 73260 Stärke)
 - [x] Zerstöre das Separatistenschiff (Abfangjäger 104274 Stärke)
-- [ ] Bringe Captain Raak vor Gericht auf Sternenbasis 74 
+- [x] Bringe Captain Raak vor Gericht auf Sternenbasis 74 
 
 #### Die klingonischen Separatisten
 - [x] Besiege das klingonische Separatistenschiff (Abfangjäger 75312 Stärke)
