@@ -58,7 +58,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Biogefahr
 `?`
-- [ ] Nimm den gefährlichen Container an Bord
+- [ ] Nimm den gefährlichen Container an Bord (Warpreichweite 48)
 - [ ] bla
 
 ---

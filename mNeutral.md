@@ -22,7 +22,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ---
 
-
 ## Level 30 Systeme
 
 ### _**(Tejat - Flula)**_
@@ -97,8 +96,20 @@ Selbe Missionen gibt es bei:
 - [x] Mitte Romulaner, Verachte die klingonische Führung für ihre internen Machtkämpfe `4x Vemet, Credits 200, 2x ungewöhnlich raffiniertes Erz G3, R2000+, F1200-, K800-`
 - [ ] Rechts Föderation, Gelobe, den Raum der Föderation zu schützen. `???`
 - [x] Deaktiviere das klingonische Militärschiff (Kampfschiff 73260 Stärke)
-- [ ] Zerstöre das Separatistenschiff (Abfangjäger 75312 Stärke)
+- [x] Zerstöre das Separatistenschiff (Abfangjäger 75312 Stärke)
 
+#### Die Schlacht um Narenda
+`120k Tritanium, 20k Dilitium, 6x 15 Minuten Reparatur, 25x 5 Minuten Reparatur`
+- [erfordert: Die klingonischen Separatisten](#die-klingonischen-separatisten)
+- [x] Stehe Koloth im Antonehk-System bei
+- [x] Untersuche das Signal des Schurkenschiffs in der Nähe
+- [x] Zerstöre das Corvallener Spähschiff (Forschungsschiff 44329 Stärke)
+- [x] Schließ dich dem Kampf im K'amia-System an
+- [x] Zerstöre das Corvallener Spähschiff (Forschungsschiff 74100 Stärke)
+- [x] Erlange die Corvallener Übertragungsprotokolle 
+- [ ] Rette den verwundeten Klingonen vor dem Corvallene-Kampfschiff (Kampfschiff 73260 Stärke)
+- [ ] bla
+  
 
 #### In Bewegung (In Motion)
 - [x] Finde das Separatisten Lager im P'Jem System

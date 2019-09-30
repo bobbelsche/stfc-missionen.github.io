@@ -60,16 +60,20 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 
 #### Lebende Fracht
-`?`
-- [ ] Gehe zum Rand der neutralen Zone
+- [x] Gehe zum Rand der neutralen Zone
 
+> Wie kommst Du an der Grenzpatroulle vorbei?
+- [x] Links, Zeige deine gefälschten Transportpapiere vor `225 Premium Rekruten, Credits 150, F3100+, K2902-, R645-, 1x Frachtcontainer`
+- [ ] Bestich die Grenzkontrolle, `10x 3 Stunden Beschleunigen, Credits 150, F3100+, K2902-, R645-, 1x Frachtcontainer`
+- [ ] Schmugle die Spionin an Board und bringe sie sicher nach P'Jem
 
 #### Inversionen
 `9k Tritanium, F1+, K1+ R+`
-- [ ] Finde das andorianische Schiff im Doska System
+- [x] Finde das andorianische Schiff im Doska System
+- [x] Besiege Haneva Pran im Kampf (Forschungsschiff 74100 Stärke)
+- [x] Bringe den Gefangenen nach Andoria-Prime zurück
 
 ---
-
 
 ### _**(Angosia - Angosia Prime)**_
 > Foderation Raum [S:739609161 X:-29 Y:-195]
