@@ -81,16 +81,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [ ] Zerstöre den arkonianischen Kreuzer (Forschungsschiff 102720 Stärke)
 
 ---
-
-### _**(Qualor - Qualor II)**_
-> Romulanischer Raum [S:1417222872 X:152 Y:229]
-
-Selbe Missionen gibt es bei:
-- [x] Neutral, Ajilon - Ajilon Prime `[S:1691770428 X:84 Y:282]`
-- [ ] Romulaner, Qualor - Qualor II `[S:1417222872 X:152 Y:229]`
-- [ ] Neutral, Narendra - Narendra III `[S:255461687 X:225 Y:462]`
-
----
 [Oben](#romulaner)
 
 

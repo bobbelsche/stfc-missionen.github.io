@@ -126,6 +126,14 @@ Was sollen wir mit dem Separatisten Lager machen?
 
 ## Level 24 Systeme
 
+### _**(Qualor - Qualor II)**_
+> [S:1417222872 X:152 Y:229]
+
+Selbe Missionen gibt es bei:
+- [x] Neutral, Ajilon - Ajilon Prime `[S:1691770428 X:84 Y:282]`
+- [ ] Romulaner, Qualor - Qualor II `[S:1417222872 X:152 Y:229]`
+- [ ] Neutral, Narendra - Narendra III `[S:255461687 X:225 Y:462]`
+
 ---
 [Oben](#neutral)
 
