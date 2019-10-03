@@ -18,11 +18,16 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Überläufer 
 `Credits 150, 250x ROM Rekruten, R3100+, F1934-, K1581-`
+- [x] Hole den Container vom Planeten Denner ab.
+- [ ] Besiege den arkonianischen Abfangjäger (Abfangjäger 75312 Stärke)
 - [ ] bla
 
 
 #### Separator
 `Credits 150, 44k Dilitium, R3100+, F1934-, K1581-`
+- [x] Besuche den Direktor der Manaran Abbaugesellschaft
+- [x] Zerstöre ein Manaran Vermessungsschiff (Forschungsschiff 44329 Stärke)
+- [ ] Besiege die Manaran Sicherheitskräfte (Forschungsschiff 54559 Stärke)
 - [ ] bla
 
 ---
@@ -96,26 +101,17 @@ Selbe Missionen gibt es bei:
 
 Gleiche Missionen gibt es in der 
 [Föderation](mFöderation.md#level-24-systeme)
-[Klingonen ](mKlingonen.md#level-24-systeme)
+[Klingonen gewählt](mKlingonen.md#level-24-systeme)
 [Romulaner ](mRomulaner.md#level-24-systeme)
 
 #### Missverständnisse
 `98k Parstahl`
 
-Hilf Uhuras Freund aus einer gefährlichen Situation
-- [ ] bla
-
 #### Großindustrielle
 `147k Parstahl`
 
-Hilf einer jungen Abbaugesellschaft, indem du Daten über gewöhnliche Ressourcenablagerungen sammelst
-- [ ] bla
-
 #### Fußspuren
 `376k Parstahl`
-
-Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinweisen folgst
-- [ ] bla
 
 ---
 [Oben](#romulaner)

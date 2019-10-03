@@ -118,25 +118,33 @@ Sabotiere die Separatistenflotte oder lass den Angriff weitergehen
 
 Gleiche Missionen gibt es in der 
 [Föderation](mFöderation.md#level-24-systeme)
-[Klingonen ](mKlingonen.md#level-24-systeme)
+[Klingonen gewählt](mKlingonen.md#level-24-systeme)
 [Romulaner ](mRomulaner.md#level-24-systeme)
 
 #### Missverständnisse
 `98k Parstahl`
 
 Hilf Uhuras Freund aus einer gefährlichen Situation
+- [ ] Finde die Freundin von Uhura im Orion System
+- [ ] bla
 - [ ] bla
 
 #### Großindustrielle
 `147k Parstahl`
 
 Hilf einer jungen Abbaugesellschaft, indem du Daten über gewöhnliche Ressourcenablagerungen sammelst
+- [x] Bau 2000 Tritanium ab.
+- [ ] Bau 2000 Parstahl ab.
 - [ ] bla
 
 #### Fußspuren
 `376k Parstahl`
 
 Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinweisen folgst
+- [x] Suche das Signal im Deneva System
+- [x] Folge dem Signal nach Rigel
+- [x] Finde die Quelle der Transmission auf Zaurak
+- [ ] Besiege Vigik (Forschungsschiff 39874 Stärke)
 - [ ] bla
 
 ---

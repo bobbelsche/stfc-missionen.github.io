@@ -2,6 +2,12 @@
 
 ## Station Missionen
 
+### Verbessere die F&E auf Level 25
+`50.5k Tritanium, 2x 15 Minuten Reparatur`
+- [ ] Verbessere die F&E auf Level 25
+
+---
+
 #### Kampftraining 26 Veteran
 `250k Dilithium, 10x 3 Stunde Beschleunigen, 500x Ultra Rekruten, 5x Klaa`
 - [ ] Besiege den feindlichen Captain (Forschungsschiff 102720 Stärke)
@@ -10,7 +16,7 @@
 
 ### Verbessere die OPS auf Level 25
 `700k Tritanium, 2x 15 Minuten Reparatur`
-- [ ] Verbessere die OPS auf Level 25
+- [x] Verbessere die OPS auf Level 25
 
 ---
 

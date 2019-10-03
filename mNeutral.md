@@ -34,7 +34,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Kampfarena
 `104x Parstahl, 6k Tritanium, 1x 15 Minuten Reparatur`
-- [ ] bla
+- [ ] Besiege 15 Feinde auf Level 30 oder höher
 
 ---
 [Oben](#neutral)
