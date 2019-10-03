@@ -97,29 +97,17 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 Gleiche Missionen gibt es in der 
 [Föderation](mFöderation.md#level-24-systeme)
-[Klingonen ](mKlingonen.md#level-24-systeme)
+[Klingonen gewählt](mKlingonen.md#level-24-systeme)
 [Romulaner ](mRomulaner.md#level-24-systeme)
 
 #### Missverständnisse
 `98k Parstahl`
 
-Hilf Uhuras Freund aus einer gefährlichen Situation
-- [ ] bla
-
-
 #### Großindustrielle
 `147k Parstahl`
 
-Hilf einer jungen Abbaugesellschaft, indem du Daten über gewöhnliche Ressourcenablagerungen sammelst
-- [ ] bla
-
-
 #### Fußspuren
 `376k Parstahl`
-
-Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinweisen folgst
-- [ ] bla
-
 
 ---
 [Oben](#föderation)
