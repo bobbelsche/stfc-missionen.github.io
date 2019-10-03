@@ -156,7 +156,7 @@ Kümmere dich um den Föderationsagenten
 #### Botany Bay Teil 4
 `7x Joaquin, 6x 3 Stunde Beschleunigen`
 - [erfordert: Botany Bay Teil 3](mBotanyBay.md#botany-bay-teil-3)
-- [ ] Sammle 15 Einheiten vereinzeltes Plutonium
+- [x] Sammle 15 Einheiten vereinzeltes Plutonium
 
 
 #### Schwindendes Licht
