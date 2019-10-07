@@ -2,9 +2,39 @@
 
 ## Station Missionen
 
+#### Kampftraining 28 Rekrut
+`215k Dilithium, 200x Standard Rekruten`
+- [ ] Besiege 3 Feinde auf Level 28 oder höher
+
+---
+
+#### Kampftraining 27 Veteran
+`360k Dilithium, 12x 3 Stunde Beschleunigen, 550x Ultra Rekruten, 6x Vixis`
+- [x] Besiege den feindlichen Captain (Forschungsschiff 129975 Stärke)
+
+---
+
+#### Kampftraining 27 Soldat
+`215k Dilithium, 425x Premium Rekruten, 115k Offizier-EP`
+- [x] Besiege 3 Feinde auf Level 27 oder höher
+
+---
+
+#### Verbessere Schiffswerft auf Level 25
+`250k Tritanium`
+- [ ] Verbessere Schiffswerft auf Level 25
+
+---
+
+#### Kampftraining 27 Rekrut
+`144k Dilithium, 180x Standard Rekruten`
+- [ ] Besiege 3 Feinde auf Level 27 oder höher
+
+---
+
 ### Verbessere die F&E auf Level 25
 `50.5k Tritanium, 2x 15 Minuten Reparatur`
-- [ ] Verbessere die F&E auf Level 25
+- [x] Verbessere die F&E auf Level 25
 
 ---
 
