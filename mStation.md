@@ -2,6 +2,12 @@
 
 ## Station Missionen
 
+#### Verbessere OPS auf Level 27
+`1,2m Tritanium`
+- [ ] Verbessere OPS auf Level 27
+
+---
+
 #### Kampftraining 28 Veteran
 `540k Dilithium, 14x 3 Stunde Beschleunigen, 600x Ultra Rekruten, 7x Klaa`
 - [ ] Besiege den feindlichen Captain (Forschungsschiff 129975 Stärke)
