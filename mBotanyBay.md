@@ -184,7 +184,7 @@ Kümmere dich um den Föderationsagenten
 #### Botany Bay Teil 7
 `18x Joaquin, 5x 8 Stunden Beschleunigen`
 - [erfordert: Botany Bay Teil 6](mBotanyBay.md#botany-bay-teil-6)
-- [ ] Sammle 30 Einheiten Seltenes Plutonium _(kann man ab Level 26 im Fraktions Shop kaufen)_
+- [ ] Sammle 30 Einheiten Seltenes Plutonium _(kann man ab Level 28 im Fraktions Shop kaufen)_
 
 
 ---

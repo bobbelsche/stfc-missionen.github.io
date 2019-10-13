@@ -251,6 +251,16 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 - [ ] Verbessere das Astronautikstudio auf Level 26
 
 ---
+
+#### USS Franklin Part 7
+> Verbessere deine Station, damit Scotty seine Arbeit auf der Franklin fortsetzen kann
+
+`225x Schwarm Biominerale, 1x Warp-Eindämmung der Franklin, 36k Dilithium`
+
+- [Erfordert: USS Franklin Part 6](mFranklin.md#uss-franklin-part-6)
+- [ ] Verbessere das F&E auf Level 27
+
+---
 [Oben](#franklin-und-schwarm)
 
 
