@@ -193,7 +193,7 @@ Kümmere dich um den Föderationsagenten
 - [x] Sammle 700 AUgment Credits
 
 
-#### Auge des Sturms
+#### Die kommende Dunkelheit
 `?`
 - [Erfordert: Auge des Sturms](mBotanyBay.md#auge-des-sturms)
 - [ ] Triff mit Khans Truppen in Olassa
