@@ -166,7 +166,7 @@ Kümmere dich um den Föderationsagenten
 - [x] Zerstöre das Vaaran-Forschungsschiff (Forschungsschiff 102720 Stärke)
 - [x] Entdecke die Vaaran-Montage
 - [x] Besiege 8 Feinde auf Level 27 oder höher
-- [ ] Beende den Angriff auf Kahns Außenposten
+- [x] Beende den Angriff auf Kahns Außenposten
 
 
 #### Botany Bay Teil 5
@@ -186,6 +186,23 @@ Kümmere dich um den Föderationsagenten
 - [erfordert: Botany Bay Teil 6](mBotanyBay.md#botany-bay-teil-6)
 - [ ] Sammle 30 Einheiten Seltenes Plutonium _(kann man ab Level 28 im Fraktions Shop kaufen)_
 
+
+#### Auge des Sturms
+`800x Utra Rekruten, 450 Premium Rekruten, 41k Dilithium, A1250+`
+- [Erfordert: Schwindendes Licht](mBotanyBay.md#schwindendes-licht)
+- [x] Sammle 700 AUgment Credits
+
+
+#### Auge des Sturms
+`?`
+- [Erfordert: Auge des Sturms](mBotanyBay.md#auge-des-sturms)
+- [ ] Triff mit Khans Truppen in Olassa
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
 
 ---
 [Oben](#botany-bay)
