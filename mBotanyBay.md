@@ -198,7 +198,7 @@ Kümmere dich um den Föderationsagenten
 - [Erfordert: Auge des Sturms](mBotanyBay.md#auge-des-sturms)
 - [x] Triff mit Khans Truppen in Olassa
 - [x] Besiege den Kopfgeldjäger (Forschungsschiff 131625 Stärke)
-- [x] Beschütze Khan vor dem Vollstrecker des Kopfgeldjäger
+- [x] Beschütze Khan vor dem Vollstrecker des Kopfgeldjäger (Kampfschiff 153150 Stärke)
 - [ ] Führe die Augments zur Sternenbasis 82
 - [ ] bla
 - [ ] bla

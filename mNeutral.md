@@ -29,12 +29,12 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Ein verlorener Koloss
 `340x Parstahl, 18k Tritanium`
-- [ ] Besiege 10 Feinde auf Level 30 oder höher
-- [ ] bla
+- [x] Besiege 10 Feinde auf Level 30 oder höher
+- [x] Besiege Arven den Champion (Kampfschiff 293839 Stärke)
 
 #### Kampfarena
 `104x Parstahl, 6k Tritanium, 1x 15 Minuten Reparatur`
-- [ ] Besiege 15 Feinde auf Level 30 oder höher
+- [x] Besiege 15 Feinde auf Level 30 oder höher
 
 ---
 [Oben](#neutral)
