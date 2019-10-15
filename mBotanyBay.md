@@ -196,10 +196,10 @@ Kümmere dich um den Föderationsagenten
 #### Die kommende Dunkelheit
 `?`
 - [Erfordert: Auge des Sturms](mBotanyBay.md#auge-des-sturms)
-- [ ] Triff mit Khans Truppen in Olassa
-- [ ] bla
-- [ ] bla
-- [ ] bla
+- [x] Triff mit Khans Truppen in Olassa
+- [x] Besiege den Kopfgeldjäger (Forschungsschiff 131625 Stärke)
+- [x] Beschütze Khan vor dem Vollstrecker des Kopfgeldjäger
+- [ ] Führe die Augments zur Sternenbasis 82
 - [ ] bla
 - [ ] bla
 - [ ] bla
