@@ -200,9 +200,13 @@ Kümmere dich um den Föderationsagenten
 - [x] Besiege den Kopfgeldjäger (Forschungsschiff 131625 Stärke)
 - [x] Beschütze Khan vor dem Vollstrecker des Kopfgeldjäger (Kampfschiff 153150 Stärke)
 - [x] Führe die Augments zur Sternenbasis 82
-- [ ] Deaktiviere das Schiff des Sternenflottenagenten (Forschungsschiff 200351 Stärke)
-- [ ] bla
-- [ ] bla
+- [x] Deaktiviere das Schiff des Sternenflottenagenten (Forschungsschiff 200351 Stärke)
+
+Wie wollen wir vorgehen?
+- [x] Links, Hilf bei Kahns Angriff auf die Föderation `8x Kahn, 15x 3Std Beschleuniger, 2.8m Parstahl, 418k Tritanium, A2000+`
+- [ ] Rechts, Verrate Kahn und schlag dich auf die Seite der Sternenflotte `1600 Ultra Rekruten, 12x ungewöhnliches (Gas, Erz, Kristall), A2000+`
+- [x] Zerstöre die USS Chennai (Forschungsschiff 200351 Stärke)
+- [x] Ergreife die Flucht, bevor die USS Enterprise ankommt.
 
 ---
 [Oben](#botany-bay)
