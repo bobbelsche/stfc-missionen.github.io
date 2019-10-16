@@ -238,7 +238,7 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 `200x Schwarm Biominerale, 1x Warp-Regulator der Franklin, 9k Dilithium`
 
 - [Erfordert: USS Franklin Part 4](mFranklin.md#uss-franklin-part-4)
-- [ ] Verbessere das Antriebslabor auf Level 24
+- [x] Verbessere das Antriebslabor auf Level 24
 
 ---
 
@@ -248,7 +248,7 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 `225x Schwarm Biominerale, 1x Warp-Injektor der Franklin, 1x G3 seltenes raffiniertes Kristall, Gas, Erz`
 
 - [Erfordert: USS Franklin Part 5](mFranklin.md#uss-franklin-part-5)
-- [ ] Verbessere das Astronautikstudio auf Level 26
+- [x] Verbessere das Astronautikstudio auf Level 26
 
 ---
 

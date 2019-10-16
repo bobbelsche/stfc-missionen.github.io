@@ -199,8 +199,8 @@ Kümmere dich um den Föderationsagenten
 - [x] Triff mit Khans Truppen in Olassa
 - [x] Besiege den Kopfgeldjäger (Forschungsschiff 131625 Stärke)
 - [x] Beschütze Khan vor dem Vollstrecker des Kopfgeldjäger (Kampfschiff 153150 Stärke)
-- [ ] Führe die Augments zur Sternenbasis 82
-- [ ] bla
+- [x] Führe die Augments zur Sternenbasis 82
+- [ ] Deaktiviere das Schiff des Sternenflottenagenten (Forschungsschiff 200351 Stärke)
 - [ ] bla
 - [ ] bla
 
