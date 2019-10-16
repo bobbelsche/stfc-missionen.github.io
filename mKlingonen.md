@@ -144,8 +144,8 @@ Spüre einen schwer zu fassenden Kiriminellen auf, indem du seiner Spur aus Hinw
 - [x] Suche das Signal im Deneva System
 - [x] Folge dem Signal nach Rigel
 - [x] Finde die Quelle der Transmission auf Zaurak
-- [ ] Besiege Vigik (Forschungsschiff 39874 Stärke)
-- [ ] bla
+- [x] Besiege Vigik (Forschungsschiff 39874 Stärke)
+- [x] Kehre zur Station zurück
 
 ---
 [Oben](#klingonen)

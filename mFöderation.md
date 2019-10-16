@@ -122,8 +122,8 @@ Gleiche Missionen gibt es in der
 `111k Parstahl`
 - [x] Untersuche das seltsame Signal, das von Thaspa kommt
 - [x] Gehe zur letzte bekannten Position der USS Franklin
-- [ ] Besiege den nausakanischen Plünderer (Abfangfäger 44970 Stärke)
-- [ ] bla
+- [x] Besiege den nausakanischen Plünderer (Abfangfäger 44970 Stärke)
+- [x] Begieb dich zu den Koordinaten der Transmission
 
 ---
 [Oben](#föderation)
