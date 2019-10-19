@@ -229,10 +229,42 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 > Sollten wir dem Schwarm zugriff auf unseren Schiffscomputer gewähren
 - [ ] links, `951k Parstahl, 11x Bescheuniger, 5x Laylah`
 - [x] rechts, `140k Tritanium, 22x Reparatur , 5x Laylah`
-- [ ] Zerstöre die Schwarmschiffe (Abfangjäger 577185 Stärke) _28er haben 605485_
+- [x] Zerstöre die Schwarmschiffe (Abfangjäger 577185 Stärke) _28er haben 605485_ 
+_mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gestorben_
+
+- [x] Bringe 8000 Frequenzmudulatoren zu deiner Station
+- [x] Spende 8000 Frequenzmudulatoren
 
 ---
 
+#### Ich sehe klar
+> Schwarm
+`?`
+- [Erfordert: Lost in Translation](mFranklin.md#lost-in-translation)
+- [x] Scanne den Ort der Schlacht in Afritalis
+- [x] Finde den romulanischen Agenten im Davidul System
+- [ ] Deaktiviere das Schiff des Tal-Shiar Agenten (kampfschiff 153150 Stärke)
+
+> Entscheide was mit dem Agenten geschehen soll
+- [x] links, Kehre zur Station zurück `225 Premium Rekruten, 72k Offizier-EP`
+- [ ] rechts, Töte den Agenten `77k Dilitium`
+- [x] Kehre zur Station zurück
+
+---
+
+#### Eine Insel ohne Meer
+> Schwarm
+`?`
+- [Erfordert: Ich sehe klar](mFranklin.md#ich-sehe-klar)
+- [x] Finde den Unabhängigen in ALpha Horunia
+- [ ] Hilf dem Unabhängigen aus der Atmosphäre zu kommen
+
+> Wähle aus was mit dem Unabhängigen Captain geschehen soll
+- [ ] links, Hilf dem Unabhängigen `35x ungewöhnliches raffiniertes Gas 3*`
+- [x] mitte, Erpresse den Unabhängigen `35x ungewöhnliches raffiniertes Erz 3*`
+- [ ] rechts, Vernichte den Unabhängigen `35x ungewöhnliches raffiniertes Kristall 3*`
+
+- [ ] überweise dem Captain 42k Dilithium
 
 
 ---
