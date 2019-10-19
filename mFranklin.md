@@ -5,6 +5,7 @@
 [Inhalt](README.md#inhalt)
 
 - [Missionen](mFranklin.md#missionen)
+- [Missionen Strang Naiwillen](mFranklin.md#missionen-strang-naiwillen)
 - [Station Missionen](mFranklin.md#station-missionen)
 - [Info](mFranklin.md#info)
 
@@ -174,7 +175,7 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 [Oben](#franklin-und-schwarm)
 
 
-## Missions Strang Naiwillen
+## Missionen Strang Naiwillen
 
 ### _**(Naiwillen - Gorvax)**_
 > Neutraler Raum [S:955177926 X:-200 Y:-260]
@@ -186,7 +187,26 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 - [Erfordert: Die Quelle](mFranklin.md#die-quelle)
 - [Erfordert: Eindämmungsprotokoll](mFranklin.md#eindämmungsprotokoll)
 - [Erfordert: F&E Abteilung 26]
-- [ ] ???
+- [x] Untersuche das Schwarmsignal in Alpha Horunia
+- [x] Kontaktiere die zivile Kolonie auf New Macau
+- [x] Bring den Romulaner nach Kaikara
+- [x] Zerstöre den Schwarmabfangjäger (Abfangjäger 191377 Stärke)
+- [x] Transportiere den Romulaner nach Kaikara Prime
+
+---
+
+#### Ich bin nicht leicht zu finden
+> Schwarm
+`4x Jaylah, 55k Offizier-EP, 1x Cyberpathische Verknüpfung`
+- [Erfordert: Raubtierhaft](mFranklin.md#raubtierhaft)
+- [Erfordert: Raubtierhaft](#raubtierhaft)
+- [x] Untersuche das Schwarmsignal in Alpha Horunia
+- [x] Kontaktiere die zivile Kolonie auf New Macau
+- [x] Bring den Romulaner nach Kaikara
+- [x] Zerstöre den Schwarmabfangjäger (Abfangjäger 191377 Stärke)
+- [x] Transportiere den Romulaner nach Kaikara Prime
+
+
 
 ---
 [Oben](#franklin-und-schwarm)

@@ -2,6 +2,23 @@
 
 ## Station Missionen
 
+
+#### Krisenherd
+`?`
+- [x] Besuche die Kolonisten auf Leduk
+- [ ] bla
+- [ ] bla
+
+---
+
+#### Verteidigungsverbesserungen
+`100k Parstahl`
+- [x] Baue das Labor
+- [x] Baue die Fertigungsanlage
+- [x] Baue das Antriebslabor
+
+---
+
 #### Widerstand 
 `500k Parstahl`
 - [x] Erreiche die Widerstandskämpfer in Riquzei
