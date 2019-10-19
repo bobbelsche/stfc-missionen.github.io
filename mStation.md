@@ -2,6 +2,24 @@
 
 ## Station Missionen
 
+#### Widerstand 
+`500k Parstahl`
+- [x] Erreiche die Widerstandskämpfer in Riquzei
+- [ ] Zerstöre 10 feindliche Schiffe im Yadow System
+
+---
+
+#### Komanndonest 
+`?`
+- [x] Triff dich mit dem Informanten im Afritalis System
+
+> Wie wirst du mit dem romulanischen Einfringling verfahren?
+- [ ] links, Informiere Spock über den romulanischen Spion `100k Parstahl, 40k Offizier-EP`
+- [ ] mitte, Informiere T'Yeka in der vulkanischen Akademie der Wissenschaften `100k Parstahl, 1x Vesetzungs-Token`
+- [x] rechts, Verhandle mit den ROmulanern `250k Parstahl, 30x Ungewöhnliches raffiniertes Erz 3*`
+
+---
+
 #### Verbessere OPS auf Level 27
 `1,2m Tritanium`
 - [ ] Verbessere OPS auf Level 27
