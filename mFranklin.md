@@ -199,12 +199,9 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 > Schwarm
 `4x Jaylah, 55k Offizier-EP, 1x Cyberpathische Verknüpfung`
 - [Erfordert: Raubtierhaft](mFranklin.md#raubtierhaft)
-- [Erfordert: Raubtierhaft](#raubtierhaft)
-- [x] Untersuche das Schwarmsignal in Alpha Horunia
-- [x] Kontaktiere die zivile Kolonie auf New Macau
-- [x] Bring den Romulaner nach Kaikara
-- [x] Zerstöre den Schwarmabfangjäger (Abfangjäger 191377 Stärke)
-- [x] Transportiere den Romulaner nach Kaikara Prime
+- [x] Triff dich mit der Enterprise bei der Sternenbasis 82
+- [ ] 
+
 
 
 
