@@ -200,8 +200,38 @@ Entscheide, was bezüglich des Schwarms geschehen soll?
 `4x Jaylah, 55k Offizier-EP, 1x Cyberpathische Verknüpfung`
 - [Erfordert: Raubtierhaft](mFranklin.md#raubtierhaft)
 - [x] Triff dich mit der Enterprise bei der Sternenbasis 82
-- [ ] 
+- [x] Finde Jaylah in Nabok
+- [x] Besiege die Romulanische Centurion (Kampfschiff 104204 Stärke)
+- [x] Spüre Jaylah in Alpha Horunia auf
+- [x] Zerstöre die Schwarmeindringlinge (Abfangjäger 191377 Stärke)
 
+---
+
+#### Spiralen im Himmel
+> Schwarm
+`200 Biomaterialien, 160 Forschungsschiffteile 3*`
+- [Erfordert: Ich bin nicht leicht zu finden](mFranklin.md#ich-bin-nicht-leicht-zu-finden)
+- [x] Finde das Schwarmnest in Ortek 
+- [x] Spende 6000 Frequenzmodulatoren 
+- [x] Zerstöre das Schwarmnest auf Ortek III
+- [x] Bringe die Cyberpathische-Verknüpfung zur Sternenflotte in Lorillia
+- [x] Gib Admiral grant die Cyberpathische-Verknüpfung
+
+---
+
+#### Lost in Translation
+> Schwarm
+`?`
+- [Erfordert: Spiralen im Himmel](mFranklin.md#spiralen-im-himmel)
+- [x] Untersuche das diffuse Schwarmsignal auf Alpha Horunia
+- [x] versuche Maja mit dem Schwarm Computer zu verbinden
+
+> Sollten wir dem Schwarm zugriff auf unseren Schiffscomputer gewähren
+- [ ] links, `951k Parstahl, 11x Bescheuniger, 5x Laylah`
+- [x] rechts, `140k Tritanium, 22x Reparatur , 5x Laylah`
+- [ ] Zerstöre die Schwarmschiffe (Abfangjäger 577185 Stärke) _28er haben 605485_
+
+---
 
 
 
