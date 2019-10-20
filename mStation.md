@@ -1,4 +1,45 @@
+
+1. [Mission Strang 1](mStation.md#mission-strang-1)
+2. [Mission Strang 2](mStation.md#mission-strang-2)
+3. [Station Missionen](mStation.md#station-missionen)
+
 [Inhalt](README.md#inhalt)
+
+
+## Mission Strang 1
+
+#### Krisenherd
+`100k Parstahl, 10k Offizier-EP`
+- [x] Besuche die Kolonisten auf Leduk
+- [x] Hilf den Einheimischen oder den Geächteten
+- [x] Zerstöre den Abfangjäger der Kolonie (Abfangjäger 40602 Stärke)
+
+---
+
+#### Verkäufermarkt
+`100k Parstahl, 150x Premium Rekruten`
+- [x] Triff dich mit Toryn auf Deneva
+- [ ] bla
+
+---
+
+## Mission Strang 2
+
+#### Die geheime Cabal
+`100k Parstahl, 200x Premium Rekruten, 1x Versetzungstoken`
+- [x] Finde den unabhängigen Captain in Gradientes
+- [x] Zerstöre Captain Estillas Schiff (Forschungsschiff 102470 Stärke)
+- [x] Eskortiere die Suliban-Nomaden nach Galorndon Core
+
+---
+
+#### Baubefehle
+`10k Schiffs-EP`
+- [x] Untersuche den Schaden auf Laerra 
+- [ ] bla
+
+---
+
 
 ## Station Missionen
 
@@ -6,13 +47,6 @@
 `500k Parstahl, 1x Versetzungstoken`
 - [x] Finde den Klingonen im Morska System
 - [x] Besiege Qa'ugs Kampfschiff (Kampfschiff 53959 Stärke)
-
-
-#### Krisenherd
-`?`
-- [x] Besuche die Kolonisten auf Leduk
-- [ ] bla
-- [ ] bla
 
 ---
 

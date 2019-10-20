@@ -267,6 +267,15 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 - [x] überweise dem Captain 42k Dilithium
 - [x] Bring die Daten zu den Romulanern
 
+---
+
+#### Nadel im Heuhaufen
+> Schwarm
+`800x Ultra-Rekruten, 150x Premium-Rekruten`
+- [Erfordert: Eine Insel ohne Meer](mFranklin.md#eine-insel-ohne-meer)
+- [x] bla
+- [ ] bla
+
 
 ---
 [Oben](#franklin-und-schwarm)
