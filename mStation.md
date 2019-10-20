@@ -2,12 +2,6 @@
 
 ## Station Missionen
 
-
-#### Werksreihe
-`50k Parstahl`
-- [x] Finde Gas Abbauzonen
-- [x] bla
-
 #### Krieger zu mieten
 `500k Parstahl, 1x Versetzungstoken`
 - [x] Finde den Klingonen im Morska System

@@ -264,7 +264,8 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 - [x] mitte, Erpresse den Unabhängigen `35x ungewöhnliches raffiniertes Erz 3*`
 - [ ] rechts, Vernichte den Unabhängigen `35x ungewöhnliches raffiniertes Kristall 3*`
 
-- [ ] überweise dem Captain 42k Dilithium
+- [x] überweise dem Captain 42k Dilithium
+- [x] Bring die Daten zu den Romulanern
 
 
 ---
