@@ -72,6 +72,15 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Angriffsformation
 `8x 8 Std Beschleunigen, Cred 230, 1x Schlüssel F10000+, K10400-, R2320-`
+- [x] Besiege den arkonianischen Aufklärer (Abfangjäger 133020 Stärke)
+- [x] Zerstöre das arkonianische Kriegsschiff (Forschungsschiff 200351 Stärke)
+- [x] Kehre nach Andoria Prime zurück
+
+#### Die Heldenmauer
+`1200x Ultra Rekruten, Cred 230, 1x Schlüssel, F10000+, K10400-, R2320-`
+- [erfordert: Angriffsformation](#angriffsformation)
+- [ ] Sammle die Überreste der Soldaten ein
+- [ ] Besiege 5 Feinde in Azati 
 - [ ] bla
 
 #### Gewaltige Bohrung

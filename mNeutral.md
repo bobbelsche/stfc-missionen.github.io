@@ -2,6 +2,8 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
+
+1. [Level 34 Systeme](mNeutral.md#level-34-systeme)
 1. [Level 30 Systeme](mNeutral.md#level-30-systeme)
 1. [Level 29 Systeme](mNeutral.md#level-29-systeme)
 1. [Level 28 Systeme](mNeutral.md#level-28-systeme)
@@ -21,6 +23,20 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 34 Systeme
+
+### _**(Azati - Azati Prime)**_
+> Neutraler Raum [S:625581925 X:-249 Y:72]
+
+#### Krise auf Praxis
+`1.3m Parstahl`
+- [x] Hole den klingonischen Wissenschaftler aus dem Nausikaa-System ab
+- [ ] bla
+
+---
+[Oben](#neutral)
+
 
 ## Level 30 Systeme
 

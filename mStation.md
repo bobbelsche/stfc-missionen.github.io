@@ -204,7 +204,7 @@
 
 ---
 
-#### Aufstandische
+#### Aufständische
 `1x Jellyfish, 9k Parstahl, 1x Orion-Manifest`
 - [x] Vernichte Hemtaks Anhänger
 - [x] Schalte Hemtaks letzte Verbündete aus
