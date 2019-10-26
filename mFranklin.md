@@ -272,8 +272,10 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 #### Nadel im Heuhaufen
 > Schwarm
 `800x Ultra-Rekruten, 150x Premium-Rekruten`
-- [Erfordert: Eine Insel ohne Meer](mFranklin.md#eine-insel-ohne-meer)
-- [x] bla
+- [x] Mache die Einrichtung aus in der die Wissenschaftler festgehalten werden.
+- [ ] Vernichte 30 Feinde auf Level 28 oder höher
+- [ ] bla
+- [ ] bla
 - [ ] bla
 
 

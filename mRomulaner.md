@@ -2,6 +2,8 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
+1. [Level 30 Systeme](mRomulaner.md#level-30-systeme)
+1. [Level 29 Systeme](mRomulaner.md#level-29-systeme)
 1. [Level 27 Systeme](mRomulaner.md#level-27-systeme)
 1. [Level 25 Systeme](mRomulaner.md#level-25-systeme)
 2. [Level 24 Systeme](mRomulaner.md#level-24-systeme)
@@ -10,6 +12,70 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 30 Systeme
+
+### _**(Galornen Core - Galornen Core)**_
+> Romulanischer Raum
+
+#### Zum Wohle Aller
+`Credits 250, 101k Dilithium, R12000+, F8640-, K6720-`
+- [ ] Finde die Suliban Kabale im Vendor System
+
+
+---
+[Oben](#romulaner)
+
+
+## Level 29 Systeme
+
+### _**(Rator - Kervas)**_
+> Romulanischer Raum
+
+#### Gedächtnislücke
+`183k Tritanium, 17x 15 Minuten reparatur, Credits 230, R10000+, F6960-, K4640-`
+- [ ] Untersuche den Stromausfall
+- [ ] bla
+- [ ] bla
+
+#### Unterstützung des Reiches
+`3x seltenes raffiniertes Erz 3*, 27x ungewöhnliches raffiniertes Erz 3*, Credits 230, R10000+, F6960-, K4640-`
+- [ ] Triff eine Vereinbarung mit dem Tal Shiar
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
+
+#### Uneinigkeit
+`347k DIlithium, 1x Schlüssel, Credits 300, R23000+, F17600-, K11700-`
+- [ ] Besiege 15 Feinde auf Level 32 oder höher 
+- [ ] bla
+- [ ] bla
+
+#### Der Konsul
+`12x 8 Std Beschleunigen, 1x Schlüssel, Credits 300, R23000+, F17600-, K11700-`
+- [ ] Reise nach P'Jem
+- [ ] bla
+- [ ] bla
+
+#### Ausgelöst
+`5x seltenes raffiniertes Erz 3*, 1x Schlüssel, Credits 300, R23000+, F17600-, K11700-`
+- [ ] Hole die Partikelgewehre in Azati ab
+- [ ] bla
+- [ ] bla
+
+#### Ein Pyrrhussieg
+`500x Romulaner Rekruten,34x 15 Minuten Reparatur, Credits 230, R10000+, F6960-, K4640-`
+- [ ] Nimm am Angriff der Suliban auf Thiros teil.
+- [ ] bla
+- [ ] bla
+- [ ] bla
+
+
+---
+[Oben](#romulaner)
+
+
 
 ## Level 27 Systeme
 

@@ -36,6 +36,30 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Oben](#föderation)
 
 
+## Level 29 Systeme
+
+### _**(P'Jem - P'Jem)**_
+> Foderation Raum [S:31 X:456 Y:102]
+
+#### Angriffsformation
+`8x 8 Std Beschleunigen, Cred 230, 1x Schlüssel F10000+, K10400-, R2320-`
+- [ ] bla
+
+#### Gewaltige Bohrung
+`250k Parstahl, 1x Verschlüsselungscode`
+- [x] Besiege das Sicherheiitsschiff der Mine (Abfangjäger 157440 Stärke)
+- [ ] bla 
+
+#### Wellen
+`86k Dilithium, 230 Cred, 1x Schlüssel F10000+, K10400-, R2320-`
+- [ ] bla
+
+
+---
+[Oben](#föderation)
+
+
+
 ## Level 27 Systeme
 
 ### _**(Doska - Sternenbasis 76)**_
@@ -83,8 +107,29 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Hilf bei der Verteidigung des Ajilon-Systems mit ()
 - [x] Besiege 5 Feinde in Ajilon
 - [x] Besiege die Separatisten Vorhut (Abfangjäger 75312 Stärke)
-- [ ] Evakuiere die Zivilisten von Ajilon Prime
-- [ ] bla
+- [x] Evakuiere die Zivilisten von Ajilon Prime
+- [x] Bring die Zivilistenzu deiner Station zurück
+
+#### Plan B
+`?`
+- [erfordert: Invasion](#invasion)
+- [x] Triff dich mit dem Föderationsagenten in Draken
+- [x] Erkunde die Separatisten-Station in Ajilon
+- [x] Besiege die Separatisten Wache (Kampfschiff 73260 Stärke)
+- [ ] links, Hilf den Kolonisten `5x Hendorff Rekruten, 1m Parstahl, Cred 180 F2000+, K1800-, R400-`
+- [x] rechts, Verfolge das Sepparatisten Schiff `5x Hendorff Rekruten, 60k Tritanium, Cred 180 F2000+, K1800-, R400-`
+- [x] Besiege die Separatisten Captain (Abfangjäger 75312 Stärke)
+- [x] Bring den Separatisten Captain zu deiner Station zurück
+
+#### Verzweifelte Situation
+`3x 8Std Beschleunigen, 8x 3Std Beschleunigen, Cred 190, F2000+, K1800- R400-`
+- [erfordert: Plan B](#plan-b)
+- [x] Untersuche den klingonischen Notruf in Opla
+- [x] Spende 450000 Tritanium, um das Schiff zu reparieren
+- [x] Sende ein Notsignal von Ajilon
+- [x] Mache das Separatisten Schiff funktionsunfähig (Kampfschiff 101520 Stärke)
+- [x] Bring den Separatisten Captain zur Vos'Keth Station
+ 
 
 ---
 [Oben](#föderation)
@@ -152,13 +197,13 @@ Gleiche Missionen gibt es in der
 #### Erhalt
 `130 Credits, 15k Dilitium, F2000+, K1800-, R400-, 1x Frachtkontainer` 
 - [erfordert: Kein Freibeuter](#kein-freibeuter)
-- [ ] Liefere Artefakte nach Deneva
-- [ ] bla
+- [x] Liefere Artefakte nach Deneva
+- [x] Corvallener Söldner (Forschungsschiff 44329 Stärke)
 
 #### Kein Freibeuter
 `130 Credits, 502k Parstahl, F2000+, K1800-, R400-, 1x Frachtkontainer`
 - [x] Besiege den Freibeuter (Kampfschiff 36701 Stärke)
-- [ ] Bring die Trümer nach Delta Vega zurück
+- [x] Bring die Trümer nach Delta Vega zurück
 
 ---
 [Oben](#föderation)

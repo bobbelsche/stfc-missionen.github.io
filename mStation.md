@@ -1,3 +1,4 @@
+# Station
 
 1. [Mission Strang 1](mStation.md#mission-strang-1)
 2. [Mission Strang 2](mStation.md#mission-strang-2)
@@ -19,9 +20,34 @@
 #### Verkäufermarkt
 `100k Parstahl, 150x Premium Rekruten`
 - [x] Triff dich mit Toryn auf Deneva
+- [x] Zahle Toryn 25k Dilithium für das Artefakt
+
+---
+
+#### Ursprung
+`500k Parstahl`
+- [x] Verbessere die OPS auf Level 24
+
+---
+
+#### Akademische Anerkennung 
+`150k Parstahl, 70x Kampfschiffsteile`
+- [x] Finde die gestrandeten Kadetten
+- [x] Besiege das Gorn Schiff das die Kadetten bedroht (Abfangjäger 16758 Stärke)
+- [x] Bring die Kadetten nach Rigel VII zurück
+
+---
+
+#### Kein Preis ist zu hoch
+`250k Parstahl, 100 Standard-Rekruten`
+- [x] Triff den Minenbesitzer auf Zoseh
+- [ ] Baue 25k Tritanium ab
 - [ ] bla
 
 ---
+[Oben](#station)
+
+
 
 ## Mission Strang 2
 
@@ -36,10 +62,16 @@
 #### Baubefehle
 `10k Schiffs-EP`
 - [x] Untersuche den Schaden auf Laerra 
-- [ ] bla
+- [x] Spende 5m Parstahl
 
 ---
 
+#### Verlorene Welten von Raum und Zeit
+`2m Parstahl`
+- [ ] Verbessere die Ops auf level 28
+
+---
+[Oben](#station)
 
 ## Station Missionen
 
@@ -428,5 +460,6 @@
 - [x] Verbessere Ops 18
 
 ---
+[Oben](#station)
 
 [Inhalt](README.md#inhalt)
