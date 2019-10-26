@@ -3,12 +3,13 @@
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 1. [Level 34 Systeme](mFöderation.md#level-34-systeme)
-1. [Level 27 Systeme](mFöderation.md#level-27-systeme)
-1. [Level 25 Systeme](mFöderation.md#level-25-systeme)
-2. [Level 24 Systeme](mFöderation.md#level-24-systeme)
-3. [Level 23 Systeme](mFöderation.md#level-23-systeme)
-4. [Level 21 Systeme](mFöderation.md#level-21-systeme)
-5. [Level 20 Systeme](mFöderation.md#level-20-systeme)
+1. [Level 30 Systeme](mFöderation.md#level-30-systeme)
+3. [Level 27 Systeme](mFöderation.md#level-27-systeme)
+4. [Level 25 Systeme](mFöderation.md#level-25-systeme)
+5. [Level 24 Systeme](mFöderation.md#level-24-systeme)
+6. [Level 23 Systeme](mFöderation.md#level-23-systeme)
+7. [Level 21 Systeme](mFöderation.md#level-21-systeme)
+8. [Level 20 Systeme](mFöderation.md#level-20-systeme)
 
 [Inhalt](README.md#inhalt)
 
@@ -17,7 +18,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ## Level 34 Systeme
 
 ### _**(Andoria - Andoria Prime)**_
-> Foderation Raum [S:31 X:456 Y:102]
 
 #### Unter dem Eis
 `?`
@@ -31,6 +31,36 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `2.1M Tritanium, 434k Dilithium, 350 Cred, F42000+, K51400-, R11400-`
 - [ ] bla
 
+---
+[Oben](#föderation)
+
+
+## Level 30 Systeme
+
+### _**(Noakyn - Thiros)**_
+
+### Verwalter 
+`4.3m Parstahl, 7x 8 Std Beschleunigen, Cred 280, F18000+, K20900-, R4464-`
+- [ ] Fliege ins Azati System
+- [ ] bla 
+- [ ] bla 
+- [ ] bla 
+
+### Katastrophe 
+`460k Tritanium, 92k Dilithium, Cred 250, F12000+, K12900-, R2880-`
+- [ ] Untersuche die Katastrophe auf Laerra 
+- [ ] bla 
+- [ ] bla 
+- [ ] bla 
+
+---
+
+### _**(Noakyn - Burud)**_
+
+### Was dein ist, ist mein
+`43k Tritanium, 400x Premium Rekruten`
+- [ ] Baue 100k Dilithium ab
+- [ ] bla 
 
 ---
 [Oben](#föderation)
@@ -39,7 +69,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ## Level 29 Systeme
 
 ### _**(P'Jem - P'Jem)**_
-> Foderation Raum [S:31 X:456 Y:102]
 
 #### Angriffsformation
 `8x 8 Std Beschleunigen, Cred 230, 1x Schlüssel F10000+, K10400-, R2320-`
@@ -52,8 +81,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Wellen
 `86k Dilithium, 230 Cred, 1x Schlüssel F10000+, K10400-, R2320-`
-- [ ] bla
-
+- [x] Hol den Physiker Suvak auf Trois Ouef ab
+- [x] Besiege den Corvallener Spion (Abfangjäger 157440 Stärke)
+- [x] Bring Suvak nach Vojeu
+- [x] Bringe Suvak zur verlassenen Kolonie
 
 ---
 [Oben](#föderation)
