@@ -270,11 +270,18 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 ---
 
 #### Nadel im Heuhaufen
-> Schwarm
 `800x Ultra-Rekruten, 150x Premium-Rekruten`
+- [Erfordert: Eine Insel ohne Meer](mFranklin.md#eine-insel-ohne-meer)
 - [x] Mache die Einrichtung aus in der die Wissenschaftler festgehalten werden.
-- [ ] Vernichte 30 Feinde auf Level 28 oder höher
-- [ ] bla
+- [x] Vernichte 30 Feinde auf Level 28 oder höher
+- [x] Rette die Wissenschaftler 
+- [x] Besiege den Wachposten der Einrichtung (Kampfschiff 157440 Stärke)
+- [x] Kehre zu deiner Station zurück
+
+#### Bewaffnet
+`?`
+- [Erfordert: Nadel im Heuhaufen](mFranklin.md#nadel-im-heuhaufen)
+- [ ] Reise zum Von-System
 - [ ] bla
 - [ ] bla
 

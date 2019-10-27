@@ -32,6 +32,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Krise auf Praxis
 `1.3m Parstahl`
 - [x] Hole den klingonischen Wissenschaftler aus dem Nausikaa-System ab
+- [ ] Spende 1.8m Dilithium an T'Korma
 - [ ] bla
 
 ---
