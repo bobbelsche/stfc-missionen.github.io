@@ -75,6 +75,13 @@
 
 ## Station Missionen
 
+
+#### Verbessere Schiffswerft auf Level 27
+`500k Tritanium`
+- [ ] Verbessere Schiffswerft auf Level 27
+
+---
+
 #### Krieger zu mieten
 `500k Parstahl, 1x Versetzungstoken`
 - [x] Finde den Klingonen im Morska System
@@ -110,7 +117,7 @@
 
 #### Verbessere OPS auf Level 27
 `1,2m Tritanium`
-- [ ] Verbessere OPS auf Level 27
+- [x] Verbessere OPS auf Level 27
 
 ---
 

@@ -10,6 +10,7 @@ Werte wie A60+ Fraktionspunkte A(ugment) R(omulaner), F(öderation), K(lingonen)
 4. [Level 22 Systeme Augment](mBotanyBay.md#level-22-systeme-augment)
 5. [Level 24 Systeme Augment](mBotanyBay.md#level-24-systeme-augment)
 6. [Level 27 Systeme Augment](mBotanyBay.md#level-27-systeme-augment)
+7. [Level 28 Systeme Augment](mBotanyBay.md#level-28-systeme-augment)
 
 ## Start der Missionen
 
@@ -297,6 +298,25 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 
 ---
 [Oben](#botany-bay)
+
+
+## Level 28 Systeme Augment
+
+### _**(Terazon 31 - Jadot)**_
+
+#### Bla
+``
+- [ ] bla
+- [ ] bla
+
+#### Bla
+``
+- [ ] bla
+- [ ] bla
+
+---
+[Oben](#botany-bay)
+
 
 
 ## Info

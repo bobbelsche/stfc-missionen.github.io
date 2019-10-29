@@ -278,6 +278,7 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 - [x] Besiege den Wachposten der Einrichtung (Kampfschiff 157440 Stärke)
 - [x] Kehre zu deiner Station zurück
 
+--- 
 #### Bewaffnet
 `?`
 - [Erfordert: Nadel im Heuhaufen](mFranklin.md#nadel-im-heuhaufen)
@@ -285,7 +286,13 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 - [ ] bla
 - [ ] bla
 
+--- 
 
+#### Handelt gemeinsam
+`200 Schwarm Biominerale`
+- [ ] Untersuche das Signal in Niawillen
+- [ ] bla
+  
 ---
 [Oben](#franklin-und-schwarm)
 
