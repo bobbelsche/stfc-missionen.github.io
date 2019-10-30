@@ -115,6 +115,7 @@ Selbe Missionen gibt es bei:
 - [x] Deaktiviere das klingonische Militärschiff (Kampfschiff 73260 Stärke)
 - [x] Zerstöre das Separatistenschiff (Abfangjäger 75312 Stärke)
 
+
 #### Die Schlacht um Narenda
 `120k Tritanium, 20k Dilitium, 6x 15 Minuten Reparatur, 25x 5 Minuten Reparatur`
 - [erfordert: Die klingonischen Separatisten](#die-klingonischen-separatisten)
@@ -130,9 +131,10 @@ Selbe Missionen gibt es bei:
 #### Faires Spiel
 `36k Dilitium, F1600+, K1600+, R1600+`
 - [erfordert: Die Schlacht um Narenda](#die-schlacht-um-narenda)
-- [ ] Schliesse Dich dem klingonischen Angriff in Agnosia an
-- [ ] bla
-  
+- [x] Schliesse Dich dem klingonischen Angriff in Agnosia an
+- [x] Besiege 15 Feinde auf Level 24 oder höher
+- [x] Nimm Yan'Agh zum Ort des Wracks mit
+- [x] Vernichte das Haus Antaak Kriegsschiff (Kampfschiff 101520 Stärke)
 
 #### In Bewegung (In Motion)
 - [x] Finde das Separatisten Lager im P'Jem System

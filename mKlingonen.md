@@ -123,11 +123,9 @@ Gleiche Missionen gibt es in der
 
 #### Missverständnisse
 `98k Parstahl`
-
-Hilf Uhuras Freund aus einer gefährlichen Situation
-- [ ] Finde die Freundin von Uhura im Orion System
-- [ ] bla
-- [ ] bla
+- [x] Finde die Freundin von Uhura im Orion System
+- [x] Besiege den Orion Sklavenhändler (Forschungsschiff 44329 Stärke)
+- [x] Bringe die Daten zu Uhura
 
 #### Großindustrielle
 `147k Parstahl`
