@@ -144,7 +144,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `46x 5 Minuten Reparatur, 110x Kampfschiffteile G3, Credits 200, R8000+, F5184-, K3456-`
 - [x] Untersuche den Kommunikationsaußenposten in Kepler-018
 - [x] Spüre die Quelle des Signals in Zaurac auf
-- [ ] Zerstöre den arkonianischen Kreuzer (Forschungsschiff 102720 Stärke)
+- [x] Zerstöre den arkonianischen Kreuzer (Forschungsschiff 102720 Stärke)
 
 ---
 [Oben](#romulaner)

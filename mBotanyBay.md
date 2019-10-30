@@ -37,6 +37,7 @@ Werte wie A60+ Fraktionspunkte A(ugment) R(omulaner), F(öderation), K(lingonen)
 [Oben](#botany-bay)
 
 
+
 ## Automatische Missionen
 
 #### Nachrüstung
@@ -295,6 +296,16 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 - [x] Melde dem Agenten in Kaikara die falschen Informationen
 - [x] Besiege den romulanischen Spion (Kampfschiff 129975) _Nordstern mit 135k Captain Kirk, Pille, Uhura_
 
+---
+
+### _**(Paradane - Iussa)**_
+
+#### Eine Grenze Überschreiten
+`4x Kahn, 22x 15 Minuten Reparatur, 1x Dunkle Materie, A150+`
+- [x] Suche das Notsignal in Terazon-31
+- [x] Besiege Chosh (Abfangjäger 104274 Stärke)
+- [x] Besiege die klingonische Bortas (Kampfschiff 39484 Stärke)
+- [x] Bringe die Gefangenen auf deine Station zurück
 
 ---
 [Oben](#botany-bay)
@@ -304,15 +315,22 @@ Agenten der Sternenflotte haben mehrere Personen wegen des Verdachts der Unterst
 
 ### _**(Terazon 31 - Jadot)**_
 
-#### Bla
-``
-- [ ] bla
-- [ ] bla
+#### Die andere Seite
+`4x Kahn, 821k Parstahl, 1x Dunkle Materie, A100+`
+- [x] Untersuche einen Notruf in Rainsford
+- [x] Besiege 8 Feinde auf Level 24 oder höher
+- [x] Sammle die Gefangenen von Paradane auf
+- [x] Bombardiere die Kolonie Thomax vom Orbit aus
+- [ ] Kehre zu deiner Station zurück und gib Kahn bericht.
 
-#### Bla
-``
-- [ ] bla
-- [ ] bla
+
+#### Ein kalkuliertes Risiko
+`3x 1 tag Beschleunigen, 19x 3 Stunden Beschleunigen, 1x Dunkle Materie, A100+`
+- [x] Begieb dich zum Experimentierort in Gealan
+- [x] Untersuche den Experimentierort in Yarda 
+- [x] Untersuche den das Signal in Paradane
+- [x] Berichte Otto auf Lydan von deinen Funden
+
 
 ---
 [Oben](#botany-bay)

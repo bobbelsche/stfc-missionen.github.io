@@ -124,7 +124,13 @@ Selbe Missionen gibt es bei:
 - [x] Schließ dich dem Kampf im K'amia-System an
 - [x] Zerstöre das Corvallener Spähschiff (Forschungsschiff 74100 Stärke)
 - [x] Erlange die Corvallener Übertragungsprotokolle 
-- [ ] Rette den verwundeten Klingonen vor dem Corvallene-Kampfschiff (Kampfschiff 73260 Stärke)
+- [x] Rette den verwundeten Klingonen vor dem Corvallene-Kampfschiff (Kampfschiff 73260 Stärke)
+- [x] Fange den romulanischen Spion in Eatoin ab ()
+  
+#### Faires Spiel
+`36k Dilitium, F1600+, K1600+, R1600+`
+- [erfordert: Die Schlacht um Narenda](#die-schlacht-um-narenda)
+- [ ] Schliesse Dich dem klingonischen Angriff in Agnosia an
 - [ ] bla
   
 
