@@ -110,8 +110,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Triff dich mit Major T'Nara in Kaikara
 - [x] Erkunde das Argosia System
 - [x] Besiege 8 Feinde in Angosia
-- [ ] Besiege die USS Browning (kampfschiff 73260 Stärke)
-- [ ] bla
+- [x] Besiege die USS Browning (kampfschiff 73260 Stärke)
+- [x] Bringe Major T'Nara zum Valdore Aussenposten zurück
 
 ---
 
