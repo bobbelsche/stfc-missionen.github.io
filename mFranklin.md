@@ -279,20 +279,28 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 - [x] Kehre zu deiner Station zurück
 
 --- 
-#### Bewaffnet
-`?`
-- [Erfordert: Nadel im Heuhaufen](mFranklin.md#nadel-im-heuhaufen)
-- [ ] Reise zum Von-System
-- [ ] bla
-- [ ] bla
-
---- 
 
 #### Handelt gemeinsam
 `200 Schwarm Biominerale`
-- [ ] Untersuche das Signal in Niawillen
-- [ ] bla
-  
+- [x] Untersuche das Signal in Niawillen
+
+---
+
+#### Bewaffnet
+`100x 5 Minuten Reparatur, 266k Tritanium`
+- [Erfordert: Nadel im Heuhaufen](mFranklin.md#nadel-im-heuhaufen)
+- [x] Reise zum Von-System
+- [x] Kontaktiere den romulanischen General
+- [x] Kehre zu deiner Station zurück
+- [x] Spende 150000 Frequenzmodulatoren
+
+---
+
+#### Vorbereitung
+`1x Selten raffinierte Kristall, Gas, Erz`
+- [Erfordert: Bewaffnet](mFranklin.md#bewaffnet)
+- [ ] Verbessere die F&E Abteilung auf level 28
+
 ---
 [Oben](#franklin-und-schwarm)
 
