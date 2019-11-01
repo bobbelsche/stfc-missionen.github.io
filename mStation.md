@@ -45,6 +45,41 @@
 - [ ] bla
 
 ---
+
+#### Kein Preis ist zu hoch
+`250k Parstahl, 100 Standard-Rekruten`
+- [x] Triff den Minenbesitzer auf Zoseh
+- [x] Baue 25k Tritanium ab
+- [x] Gib Cladius die 25000 Tritanium
+
+---
+
+#### Das kleinere von drei Übeln
+`100k Parstahl, 200x Premium Rekruten, 1x Versetzungstoken`
+- [x] Untersuche die dreiseitige Pattsituation
+- [x] Besiege den romulanischen Abfangjäger (Abfangjäger 55452 Stärke)
+- [x] Entkomme nach Orion Prime
+
+---
+
+### Stein von Rosetta
+`500k Parstahl, 75x Vermessungsteile 3*`
+- [x] Sammle 3 Schlüssel in Missionen auf P'Jem, Rator, und Morska
+
+---
+
+### Eine Verbindung zur Vergangenheit
+`1m Parstahl`
+- [x] Verbessere die OPS auf Level 26
+
+---
+
+### Kommandonest
+`?`
+- [ ] Triff dich mit dem Informanten im Afritalis System
+
+
+---
 [Oben](#station)
 
 
