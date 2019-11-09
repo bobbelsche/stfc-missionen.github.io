@@ -54,7 +54,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `64x 5 Minuten Reparatur, 110x Abfabgjägerteile G3, Credits 200, K8000+, R7168-, F2688-`
 - [x] Nimm einen Liefervertrag auf KineQ an
 - [x] Setze die Fracht bei Sternenbasis 74 ab
-- [ ] Deaktiviere das verfolgende Sternenflottenschiff (Forschungsschiff 54559 Stärke)
+- [x] Deaktiviere das verfolgende Sternenflottenschiff (Forschungsschiff 54559 Stärke)
 
 #### Biogefahr
 `?`
@@ -105,7 +105,7 @@ Sabotiere die Separatistenflotte oder lass den Angriff weitergehen
 `Credits 150, 5000x Schiff-EP, 35k Offizier-EP, K3100+, R2579-, F967-`
 - [x] Überbringe General Tavrak auf Khitomer eine Nachricht
 - [x] Liefere die Ladung Gaghan den Romulaner
-- [ ] Kehre zu Tavrak zurück (Warpreichweite 37) 
+- [x] Kehre zu Tavrak zurück (Warpreichweite 37) 
 
 ---
 [Oben](#klingonen)
@@ -132,8 +132,8 @@ Gleiche Missionen gibt es in der
 
 Hilf einer jungen Abbaugesellschaft, indem du Daten über gewöhnliche Ressourcenablagerungen sammelst
 - [x] Bau 2000 Tritanium ab.
-- [ ] Bau 2000 Parstahl ab.
-- [ ] bla
+- [x] Bau 2000 Parstahl ab.
+- [x] ?
 
 #### Fußspuren
 `376k Parstahl`

@@ -299,7 +299,17 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 #### Vorbereitung
 `1x Selten raffinierte Kristall, Gas, Erz`
 - [Erfordert: Bewaffnet](mFranklin.md#bewaffnet)
-- [ ] Verbessere die F&E Abteilung auf level 28
+- [x] Verbessere die F&E Abteilung auf level 28
+
+---
+
+#### Pestilence
+`6x Jaylah, 300 Biomminerale, 53k Dilithium`
+- [Erfordert: Vorbereitung](mFranklin.md#vorbereitung)
+- [ ] Untersuche die Schwarminvasion von Huebr
+- [ ] bla
+- [ ] bla
+- [ ] bla
 
 ---
 [Oben](#franklin-und-schwarm)
@@ -308,9 +318,7 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 ## Station Missionen
 
 #### USS Franklin Part 1
-
 > Benötigt: `300x Frequenzmodulatoren, 50x gewöhnlich raffinierte Gas G2, 35k Tritanium, 1400 Dilithium`
-
 - [Erfordert: Das Nest ](mFranklin.md#das-nest)
 - [x] Baue die USS Franklin
 - [Folgemission: USS Franklin Part 2](mFranklin.md#uss-franklin-part-2)
@@ -318,9 +326,7 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 ---
 
 #### USS Franklin Part 2
-
 `120x Schwarm Biominerale, 1x Warpsperre der Franklin, 5x ungewöhnliche raffinierte Gas, Erz, Kristalle G2`
-
 - [Erfordert: USS Franklin Part 1](mFranklin.md#uss-franklin-part-1)
 - [x] Verbessere die Schiffswerft auf Level 18
 - [Folgemission: USS Franklin Part 3](mFranklin.md#uss-franklin-part-3)
@@ -328,50 +334,43 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 ---
 
 #### USS Franklin Part 3
-
 `120x Schwarm Biominerale, 1x Warpsperre der Franklin, 5x ungewöhnliche raffinierte Gas, Erz, Kristalle G3, `
-
 - [Erfordert: USS Franklin Part 2](mFranklin.md#uss-franklin-part-2)
 - [x] Verbessere das Astronautikstudio auf Level 20
 
 ---
 
 #### USS Franklin Part 4
-
 `175x Schwarm Biominerale, 1x Warp-Relais der Franklin, 8x ungewöhnliche raffinierte Gas, Erz, Kristalle G3, `
-
 - [Erfordert: USS Franklin Part 3](mFranklin.md#uss-franklin-part-3)
 - [x] Verbessere die F&E-Abteilung auf Level 22
 
 ---
 
 #### USS Franklin Part 5
-> Verbessere deine Station, damit Scotty seine Arbeit auf der Franklin fortsetzen kann
-
 `200x Schwarm Biominerale, 1x Warp-Regulator der Franklin, 9k Dilithium`
-
 - [Erfordert: USS Franklin Part 4](mFranklin.md#uss-franklin-part-4)
 - [x] Verbessere das Antriebslabor auf Level 24
 
 ---
 
 #### USS Franklin Part 6
-> Verbessere deine Station, damit Scotty seine Arbeit auf der Franklin fortsetzen kann
-
 `225x Schwarm Biominerale, 1x Warp-Injektor der Franklin, 1x G3 seltenes raffiniertes Kristall, Gas, Erz`
-
 - [Erfordert: USS Franklin Part 5](mFranklin.md#uss-franklin-part-5)
 - [x] Verbessere das Astronautikstudio auf Level 26
 
 ---
 
 #### USS Franklin Part 7
-> Verbessere deine Station, damit Scotty seine Arbeit auf der Franklin fortsetzen kann
-
 `225x Schwarm Biominerale, 1x Warp-Eindämmung der Franklin, 36k Dilithium`
-
 - [Erfordert: USS Franklin Part 6](mFranklin.md#uss-franklin-part-6)
-- [ ] Verbessere das F&E auf Level 27
+- [x] Verbessere das F&E auf Level 27
+
+---
+
+#### USS Franklin Part 8
+`275x Schwarm Biominerale, 1x Warp-Spule der Franklin, 70k Dilithium`
+- [ ] Verbessere die Schiffswerft auf Level 30
 
 ---
 [Oben](#franklin-und-schwarm)

@@ -136,6 +136,13 @@ Selbe Missionen gibt es bei:
 - [x] Nimm Yan'Agh zum Ort des Wracks mit
 - [x] Vernichte das Haus Antaak Kriegsschiff (Kampfschiff 101520 Stärke)
 
+#### Zuschauer
+`3x 8 Std Beschleunigen, 4x 3 Std Beschleunigen, 4x 1 Std Beschleunigen, `
+- [erfordert: Faires Spiel](#faires-spiel)
+- [ ] Untersuche den Schaden an der Kolonie auf Agnosia IV
+- [ ] Spende 1m Parstahl 
+
+
 #### In Bewegung (In Motion)
 - [x] Finde das Separatisten Lager im P'Jem System
 

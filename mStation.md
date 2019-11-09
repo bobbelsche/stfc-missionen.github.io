@@ -76,7 +76,17 @@
 
 ### Kommandonest
 `?`
-- [ ] Triff dich mit dem Informanten im Afritalis System
+- [x] Triff dich mit dem Informanten im Afritalis System
+- [x] Wähle ...
+- [x] Verhandle mit den Romulanern
+
+---
+
+### Widerstand
+`500k Parstahl`
+- [ ] Erreiche die Widerstandskämpfer auf Riquzai
+- [ ] bla
+
 
 
 ---
@@ -103,7 +113,39 @@
 
 #### Verlorene Welten von Raum und Zeit
 `2m Parstahl`
-- [ ] Verbessere die Ops auf level 28
+- [x] Verbessere die Ops auf level 28
+
+---
+
+#### Flottenüberlegenheit
+`1m Parstahl`
+- [x] Finde das Zielsystem des Orion Sklavenhändlers
+- [x] Besiege 5 Feinde auf lvl 28 oder höher
+
+---
+
+#### Geister des Weltraums
+`250k Parstahl`
+- [x] versuche Toryn im Lipig System zu finden
+- [x] Folge Toryns Spur nach Orion
+- [x] Besiege das Orion Gefängnisschiff um Toryn zu retten (Abfangjäger 133020 Stärke)
+- [x] Bringe Toryn nach Deneva
+
+---
+
+#### Es brennt wie Eis
+`250k Parstahl, 50x ungewöhnliches raffiniertes Kristall`
+- [x] Triff Agent Menra auf Diseh
+- [x] Reise nach Rura Penthe und warne die Klingonen
+- [x] Besiege das romulanische Kommandoschiff (Kampfschiff 153150 Stärke)
+
+---
+
+#### Auszeichnung für Tapferkeit
+`2.5m Parstahl 800 Ultra Rekruten, 1x Versetzungstoken`
+- [ ] Erwirb einen Belobigungsrang II
+
+---
 
 ---
 [Oben](#station)
@@ -113,9 +155,33 @@
 
 ## Station Missionen
 
+#### Verbessere die V.P.A auf Level 26
+`100k Tritanium, 2x 15 Minuten Reparatur`
+- [ ] Verbessere die V.P.A auf Level 26
+
+---
+
+#### Verbessere OPS auf Level 28
+`1,5m Tritanium, 3x 15 Minuten Reparatur`
+- [x] Verbessere OPS auf Level 28
+
+---
+
+#### Kampftraining 29 Soldat
+`490k Dilithium, 425x Premium Rekruten, 145k Offizier-EP`
+- [x] Besiege 10 Feinde auf Level 29 oder höher
+
+---
+
+#### Kampftraining 29 Rekrut
+`330k Dilithium, 200x Standard Rekruten`
+- [x] Besiege 3 Feinde auf Level 29 oder höher
+
+---
+
 #### Verbessere Schiffswerft auf Level 27
 `500k Tritanium`
-- [ ] Verbessere Schiffswerft auf Level 27
+- [x] Verbessere Schiffswerft auf Level 27
 
 ---
 
@@ -160,7 +226,7 @@
 
 #### Kampftraining 28 Veteran
 `540k Dilithium, 14x 3 Stunde Beschleunigen, 600x Ultra Rekruten, 7x Klaa`
-- [ ] Besiege den feindlichen Captain (Forschungsschiff 129975 Stärke)
+- [x] Besiege den feindlichen Captain (Forschungsschiff 157440 Stärke)
 
 ---
 
@@ -214,7 +280,7 @@
 
 #### Baue die Horizon
 `800x Ultra Rekruten`
-- [ ] Baue die Horizon
+- [x] Baue die Horizon
 
 ---
 
