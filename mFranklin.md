@@ -306,8 +306,21 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 #### Pestilence
 `6x Jaylah, 300 Biomminerale, 53k Dilithium`
 - [Erfordert: Vorbereitung](mFranklin.md#vorbereitung)
-- [ ] Untersuche die Schwarminvasion von Huebr
-- [ ] bla
+- [x] Untersuche die Schwarminvasion von Huebr
+- [x] Besiege den Schwarmabfangjäger (Schwarm 359607 Stärke)
+- [x] Hilf den Romulanern sich gegen den Schwarm zu wehren
+- [x] Zerstöre das Führungsschwarmschiff
+
+---
+
+#### Waffenstillstand 
+`100k Frequenzmodule 2x Seltene raffinierte Kristall, Erz, gas`
+- [Erfordert: Pestilence](mFranklin.md#pestilence)
+- [ ] Hol Scotty in Lorillia ab
+- [ ] Finde den Schwarm in Redmond
+- [ ] Besiege die Schwarmschiffe (Schwarm 577187)
+- [ ] Besiege das Führungsschwarmschiff (Schwarm 577187)
+- [ ] Besiege 40 Feinde in Redmond
 - [ ] bla
 - [ ] bla
 

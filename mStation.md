@@ -15,20 +15,14 @@
 - [x] Hilf den Einheimischen oder den Geächteten
 - [x] Zerstöre den Abfangjäger der Kolonie (Abfangjäger 40602 Stärke)
 
----
-
 #### Verkäufermarkt
 `100k Parstahl, 150x Premium Rekruten`
 - [x] Triff dich mit Toryn auf Deneva
 - [x] Zahle Toryn 25k Dilithium für das Artefakt
 
----
-
 #### Ursprung
 `500k Parstahl`
 - [x] Verbessere die OPS auf Level 24
-
----
 
 #### Akademische Anerkennung 
 `150k Parstahl, 70x Kampfschiffsteile`
@@ -36,23 +30,11 @@
 - [x] Besiege das Gorn Schiff das die Kadetten bedroht (Abfangjäger 16758 Stärke)
 - [x] Bring die Kadetten nach Rigel VII zurück
 
----
-
-#### Kein Preis ist zu hoch
-`250k Parstahl, 100 Standard-Rekruten`
-- [x] Triff den Minenbesitzer auf Zoseh
-- [ ] Baue 25k Tritanium ab
-- [ ] bla
-
----
-
 #### Kein Preis ist zu hoch
 `250k Parstahl, 100 Standard-Rekruten`
 - [x] Triff den Minenbesitzer auf Zoseh
 - [x] Baue 25k Tritanium ab
 - [x] Gib Cladius die 25000 Tritanium
-
----
 
 #### Das kleinere von drei Übeln
 `100k Parstahl, 200x Premium Rekruten, 1x Versetzungstoken`
@@ -60,19 +42,13 @@
 - [x] Besiege den romulanischen Abfangjäger (Abfangjäger 55452 Stärke)
 - [x] Entkomme nach Orion Prime
 
----
-
 ### Stein von Rosetta
 `500k Parstahl, 75x Vermessungsteile 3*`
 - [x] Sammle 3 Schlüssel in Missionen auf P'Jem, Rator, und Morska
 
----
-
 ### Eine Verbindung zur Vergangenheit
 `1m Parstahl`
 - [x] Verbessere die OPS auf Level 26
-
----
 
 ### Kommandonest
 `?`
@@ -80,13 +56,66 @@
 - [x] Wähle ...
 - [x] Verhandle mit den Romulanern
 
----
-
 ### Widerstand
 `500k Parstahl`
-- [ ] Erreiche die Widerstandskämpfer auf Riquzai
-- [ ] bla
+- [x] Erreiche die Widerstandskämpfer auf Riquzai
+- [x] bla
 
+### Krieger zu mieten
+`500k Parstahl, 1x Versetzungstoken`
+- [x] Finde den Klingonenkrieger im Morska System
+- [x] Besiege Qa'ugs Kampfschiff (Kampfschiff 53959 Stärke)
+
+### Werksreihe
+`50k Parstahl`
+- [x] Finde Gas Abbauzonen
+- [x] Baue 10k Gas ab
+
+### Überholung
+`250k Parstahl`
+- [x] Verbessere ein Schiff der Güte 3 zur Stufe 2
+
+#### Die geheime Cabal
+`100k Parstahl, 200x Premium Rekruten, 1x Versetzungstoken`
+- [x] Finde den unabhängigen Captain in Gradientes
+- [x] Zerstöre Captain Estillas Schiff (Forschungsschiff 102470 Stärke)
+- [x] Eskortiere die Suliban-Nomaden nach Galorndon Core
+
+#### Baubefehle
+`10k Schiffs-EP`
+- [x] Untersuche den Schaden auf Laerra 
+- [ ] Spende 5m Parstahl
+
+#### Baubefehle
+`10k Schiffs-EP`
+- [x] Untersuche den Schaden auf Laerra 
+- [x] Spende 5m Parstahl
+
+#### Verlorene Welten von Raum und Zeit
+`2m Parstahl`
+- [x] Verbessere die Ops auf level 28
+
+#### Flottenüberlegenheit
+`1m Parstahl`
+- [x] Finde das Zielsystem des Orion Sklavenhändlers
+- [x] Besiege 5 Feinde auf lvl 28 oder höher
+
+#### Geister des Weltraums
+`250k Parstahl`
+- [x] versuche Toryn im Lipig System zu finden
+- [x] Folge Toryns Spur nach Orion
+- [x] Besiege das Orion Gefängnisschiff um Toryn zu retten (Abfangjäger 133020 Stärke)
+- [x] Bringe Toryn nach Deneva
+
+#### Es brennt wie Eis
+`250k Parstahl, 50x ungewöhnliches raffiniertes Kristall`
+- [x] Triff Agent Menra auf Diseh
+- [x] Reise nach Rura Penthe und warne die Klingonen
+- [x] Besiege das romulanische Kommandoschiff (Kampfschiff 153150 Stärke)
+
+#### Genau Nördlich
+`5m Parstahl`
+- [ ] Verbessere die OPS auf Level 30
 
 
 ---
@@ -102,27 +131,19 @@
 - [x] Zerstöre Captain Estillas Schiff (Forschungsschiff 102470 Stärke)
 - [x] Eskortiere die Suliban-Nomaden nach Galorndon Core
 
----
-
 #### Baubefehle
 `10k Schiffs-EP`
 - [x] Untersuche den Schaden auf Laerra 
 - [x] Spende 5m Parstahl
 
----
-
 #### Verlorene Welten von Raum und Zeit
 `2m Parstahl`
 - [x] Verbessere die Ops auf level 28
-
----
 
 #### Flottenüberlegenheit
 `1m Parstahl`
 - [x] Finde das Zielsystem des Orion Sklavenhändlers
 - [x] Besiege 5 Feinde auf lvl 28 oder höher
-
----
 
 #### Geister des Weltraums
 `250k Parstahl`
@@ -131,21 +152,20 @@
 - [x] Besiege das Orion Gefängnisschiff um Toryn zu retten (Abfangjäger 133020 Stärke)
 - [x] Bringe Toryn nach Deneva
 
----
-
 #### Es brennt wie Eis
 `250k Parstahl, 50x ungewöhnliches raffiniertes Kristall`
 - [x] Triff Agent Menra auf Diseh
 - [x] Reise nach Rura Penthe und warne die Klingonen
 - [x] Besiege das romulanische Kommandoschiff (Kampfschiff 153150 Stärke)
 
----
-
 #### Auszeichnung für Tapferkeit
 `2.5m Parstahl 800 Ultra Rekruten, 1x Versetzungstoken`
-- [ ] Erwirb einen Belobigungsrang II
+- [x] Erwirb einen Belobigungsrang II
+- [x] Spende 100 Belobigungsrang II
 
----
+#### Genau Nördlich
+`5m Parstahl`
+- [ ] Verbessere die OPS auf Level 30
 
 ---
 [Oben](#station)
@@ -155,42 +175,34 @@
 
 ## Station Missionen
 
+#### Verbessere die Schiffswerft auf Level 28
+`600k Tritanium`
+- [ ] Verbessere die Schiffswerft auf Level 28
+
 #### Verbessere die V.P.A auf Level 26
 `100k Tritanium, 2x 15 Minuten Reparatur`
-- [ ] Verbessere die V.P.A auf Level 26
-
----
+- [x] Verbessere die V.P.A auf Level 26
 
 #### Verbessere OPS auf Level 28
 `1,5m Tritanium, 3x 15 Minuten Reparatur`
 - [x] Verbessere OPS auf Level 28
 
----
-
 #### Kampftraining 29 Soldat
 `490k Dilithium, 425x Premium Rekruten, 145k Offizier-EP`
 - [x] Besiege 10 Feinde auf Level 29 oder höher
-
----
 
 #### Kampftraining 29 Rekrut
 `330k Dilithium, 200x Standard Rekruten`
 - [x] Besiege 3 Feinde auf Level 29 oder höher
 
----
-
 #### Verbessere Schiffswerft auf Level 27
 `500k Tritanium`
 - [x] Verbessere Schiffswerft auf Level 27
-
----
 
 #### Krieger zu mieten
 `500k Parstahl, 1x Versetzungstoken`
 - [x] Finde den Klingonen im Morska System
 - [x] Besiege Qa'ugs Kampfschiff (Kampfschiff 53959 Stärke)
-
----
 
 #### Verteidigungsverbesserungen
 `100k Parstahl`
@@ -198,14 +210,10 @@
 - [x] Baue die Fertigungsanlage
 - [x] Baue das Antriebslabor
 
----
-
 #### Widerstand 
 `500k Parstahl`
 - [x] Erreiche die Widerstandskämpfer in Riquzei
 - [ ] Zerstöre 10 feindliche Schiffe im Yadow System
-
----
 
 #### Komanndonest 
 `?`
@@ -216,111 +224,75 @@
 - [ ] mitte, Informiere T'Yeka in der vulkanischen Akademie der Wissenschaften `100k Parstahl, 1x Vesetzungs-Token`
 - [x] rechts, Verhandle mit den ROmulanern `250k Parstahl, 30x Ungewöhnliches raffiniertes Erz 3*`
 
----
-
 #### Verbessere OPS auf Level 27
 `1,2m Tritanium`
 - [x] Verbessere OPS auf Level 27
-
----
 
 #### Kampftraining 28 Veteran
 `540k Dilithium, 14x 3 Stunde Beschleunigen, 600x Ultra Rekruten, 7x Klaa`
 - [x] Besiege den feindlichen Captain (Forschungsschiff 157440 Stärke)
 
----
-
 #### Kampftraining 28 Rekrut
 `215k Dilithium, 200x Standard Rekruten`
 - [x] Besiege 3 Feinde auf Level 28 oder höher
-
----
 
 #### Kampftraining 27 Veteran
 `360k Dilithium, 12x 3 Stunde Beschleunigen, 550x Ultra Rekruten, 6x Vixis`
 - [x] Besiege den feindlichen Captain (Forschungsschiff 129975 Stärke)
 
----
-
 #### Kampftraining 27 Soldat
 `215k Dilithium, 425x Premium Rekruten, 115k Offizier-EP`
 - [x] Besiege 3 Feinde auf Level 27 oder höher
-
----
 
 #### Verbessere Schiffswerft auf Level 25
 `250k Tritanium`
 - [x] Verbessere Schiffswerft auf Level 25
 
----
-
 #### Kampftraining 27 Rekrut
 `144k Dilithium, 180x Standard Rekruten`
 - [x] Besiege 3 Feinde auf Level 27 oder höher
-
----
 
 ### Verbessere die F&E auf Level 25
 `50.5k Tritanium, 2x 15 Minuten Reparatur`
 - [x] Verbessere die F&E auf Level 25
 
----
-
 #### Kampftraining 26 Veteran
 `250k Dilithium, 10x 3 Stunde Beschleunigen, 500x Ultra Rekruten, 5x Klaa`
-- [ ] Besiege den feindlichen Captain (Forschungsschiff 102720 Stärke)
-
----
+- [x] Besiege den feindlichen Captain (Forschungsschiff 102720 Stärke)
 
 ### Verbessere die OPS auf Level 25
 `700k Tritanium, 2x 15 Minuten Reparatur`
 - [x] Verbessere die OPS auf Level 25
 
----
-
 #### Baue die Horizon
 `800x Ultra Rekruten`
 - [x] Baue die Horizon
-
----
 
 #### Kampftraining 26 Soldat
 `150k Dilithium, 100k Offizier-EP, 400x Premium Rekruten`
 - [x] Besiege 10 Feinde auf Level 26 oder höher
 
----
-
 #### Kampftraining 26 Rekrut
 `100k Dilithium, 180x Standard Rekruten`
 - [x] Besiege 3 Feinde auf Level 26 oder höher
-
----
 
 #### Verbessere Schiffswerft auf Level 24
 `150k Tritanium`
 - [x] Verbessere Schiffswerft auf Level 24
 
----
-
 #### Baue die Kumari
 `400x Ultra Rekruten`
 - [x] Baue die Kumari
 
----
-
 ### Verbessere den Dilithium Generator A auf Level 23
 `50k Tritanium, 2x 10 Minuten Reparatur`
 - [x] Verbessere den Dilithium Generator A auf Level 23
-
----
 
 #### Aufständische
 `1x Jellyfish, 9k Parstahl, 1x Orion-Manifest`
 - [x] Vernichte Hemtaks Anhänger
 - [x] Schalte Hemtaks letzte Verbündete aus
 - [x] Triff dich mit Orion Boss in Arvent
-
----
 
 #### Verhörraum
 > Missionsherkunft unbekannt
@@ -329,15 +301,11 @@
 - [x] Durchsuche Commander Harthins Schiff
 - [x] Rette den Fähnrich vor Commander Polsik
 
----
-
 #### Gekreutzte Klingen
 > Missionsherkunft unbekannt
 
 `1x Jellyfish`
 - [x] Besiege den Takret Commander Polsik
-
----
 
 #### Schleicher
 > Missionsherkunft unbekannt
@@ -345,19 +313,13 @@
 `3x Jellyfish, 1x Energieverteiler`
 - [x] Besiege den Deneva Schleicher
 
----
-
 #### Verbessere die OPS auf Level 24
 `350k Tritanium, 2x 10 Minuten Reparatur`
 - [x] Verbessere die OPS auf Level 24
 
----
-
 #### Verbessere Schiffswerft auf Level 22
 `50k Tritanium`
 - [x] Verbessere Schiffswerft auf Level 22
-
----
 
 #### Verbessere die OPS auf Level 22
 `100k Tritanium, 2x 10 Minuten Reparatur`

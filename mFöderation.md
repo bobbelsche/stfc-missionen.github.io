@@ -48,10 +48,11 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ### Katastrophe 
 `460k Tritanium, 92k Dilithium, Cred 250, F12000+, K12900-, R2880-`
-- [ ] Untersuche die Katastrophe auf Laerra 
-- [ ] bla 
-- [ ] bla 
-- [ ] bla 
+- [x] Untersuche die Katastrophe auf Laerra 
+- [x] Identifiziere die Quelle der Energiemessungen 
+- [x] Halte den Terraformer der Suliban auf (Kampfschiff 153150 Stärke)
+- [x] Fange den Suliban Kundschafter ab (Abfangjäger 305058 Stärke)
+- [ ] bla
 
 ---
 
