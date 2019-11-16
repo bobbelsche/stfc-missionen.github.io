@@ -316,13 +316,13 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 #### Waffenstillstand 
 `100k Frequenzmodule 2x Seltene raffinierte Kristall, Erz, gas`
 - [Erfordert: Pestilence](mFranklin.md#pestilence)
-- [ ] Hol Scotty in Lorillia ab
-- [ ] Finde den Schwarm in Redmond
-- [ ] Besiege die Schwarmschiffe (Schwarm 577187)
-- [ ] Besiege das Führungsschwarmschiff (Schwarm 577187)
-- [ ] Besiege 40 Feinde in Redmond
-- [ ] bla
-- [ ] bla
+- [x] Hol Scotty in Lorillia ab
+- [x] Finde den Schwarm in Redmond
+- [x] Besiege die Schwarmschiffe (Schwarm 577187)
+- [x] Besiege das Führungsschwarmschiff (Schwarm 577187)
+- [x] Besiege 40 Feinde in Redmond
+- [x] Besiege 20 Feinde in Redmond
+- [x] Vernichte die Eliteschwarmgruppe (Schwarm 605484)
 
 ---
 [Oben](#franklin-und-schwarm)

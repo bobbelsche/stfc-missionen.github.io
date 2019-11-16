@@ -80,7 +80,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Die Heldenmauer
 `1200x Ultra Rekruten, Cred 230, 1x Schlüssel, F10000+, K10400-, R2320-`
 - [erfordert: Angriffsformation](#angriffsformation)
-- [ ] Sammle die Überreste der Soldaten ein
+- [x] Sammle die Überreste der Soldaten ein
 - [ ] Besiege 5 Feinde in Azati 
 - [ ] bla
 

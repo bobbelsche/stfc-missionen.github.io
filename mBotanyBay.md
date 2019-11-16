@@ -192,7 +192,7 @@ Kümmere dich um den Föderationsagenten
 #### Auge des Sturms
 `800x Utra Rekruten, 450 Premium Rekruten, 41k Dilithium, A1250+`
 - [Erfordert: Schwindendes Licht](mBotanyBay.md#schwindendes-licht)
-- [x] Sammle 700 AUgment Credits
+- [x] Sammle 700 Augment Credits
 
 
 #### Die kommende Dunkelheit

@@ -139,8 +139,9 @@ Selbe Missionen gibt es bei:
 #### Zuschauer
 `3x 8 Std Beschleunigen, 4x 3 Std Beschleunigen, 4x 1 Std Beschleunigen, `
 - [erfordert: Faires Spiel](#faires-spiel)
-- [ ] Untersuche den Schaden an der Kolonie auf Agnosia IV
-- [ ] Spende 1m Parstahl 
+- [x] Untersuche den Schaden an der Kolonie auf Agnosia IV
+- [x] Spende 1m Parstahl 
+- [ ] Nimm Yan'Agh mit und finde Separatisten die sich auf Agnosia V verstecken
 
 
 #### In Bewegung (In Motion)
