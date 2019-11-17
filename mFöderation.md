@@ -20,19 +20,61 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Andoria - Andoria Prime)**_
 
 #### Unter dem Eis
-`?`
-- [ ] bla
+`? 6x seltenes raffiniertes Gas 3*, 50x ungewöhnliches raffiniertes Gas 3*, 330x Cred, F40000+, K47500-, R10500-`
+- [x] Triff den romulanischen Informanten
+- [ ] Schmugle Garan nach Talpa in Gradientes
 
 #### Ushaan
 `1200 Ultra Rekruten, 500 Cred, 1x Energieverteiler, F100000+, K136800-, R30400-`
-- [ ] bla
+- [x] Bring Ontella ins Azati System
+- [ ] Deaktiviere Sovrens Schiff (Abfangjäger 937932)
 
 #### Wachturm
 `2.1M Tritanium, 434k Dilithium, 350 Cred, F42000+, K51400-, R11400-`
-- [ ] bla
+- [ ] Fliege ins Archer System (Warp 45)
 
 ---
 [Oben](#föderation)
+
+
+## Level 32 Systeme
+
+### _**(Thama - Suaneh)**_
+
+#### Kriesenreaktion
+`1m Parstahl`
+- [ ] bla
+
+#### Recht und Ordnung
+`1.6m Parstahl`
+- [x] Untersuche den Schauplatz des Angriffs auf Azati Prime
+- [x] Ergreife den Suliban Raider (Abfangjäger 305058)
+- [x] Ergreife den Captain des Suliban Raider (Kampfschiff 293839)
+- [x] Bringe den Gefangenen nach Suaneh
+
+#### Technologische Wunder
+`1m Parstahl`
+- [ ] bla
+
+
+### _**(Thama - Mimazub)**_
+
+#### Entschädigung
+`1.4m Parstahl`
+- [ ] Begib dich zur Kolonie der Föderation auf P'Jem
+- [ ] Spende 120000 Roherz 3*
+- [ ] bla
+- [ ] bla
+- [ ] bla
+
+#### Schock und Ehrfurcht
+`631k Tritanium, 210x Forschungsschiffsteile, 300x Cred, F23000+, K26400-, R5888-`
+- [x] Begib dich zum Gradientes System
+- [x] Besiege 10 Feinde im Gradientes System
+- [x] Kehre zu Admiral Johnson auf Mimazub zurück
+
+---
+[Oben](#neutral)
 
 
 ## Level 30 Systeme
@@ -52,7 +94,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Identifiziere die Quelle der Energiemessungen 
 - [x] Halte den Terraformer der Suliban auf (Kampfschiff 153150 Stärke)
 - [x] Fange den Suliban Kundschafter ab (Abfangjäger 305058 Stärke)
-- [ ] bla
+- [x] Kehre nach Andoria Prime zurück
 
 ---
 
@@ -106,9 +148,12 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Doska - Sternenbasis 76)**_
 > Foderation Raum [S:1036671379 X:-419 Y:196]
 
-#### Invasion Heimatlicher Boden
-`1m Parstahl, 146k Tritanium, Credits 200, F8000+, K8064-, R1792-`
-- [ ] bla
+#### Heimatlicher Boden
+`1m Parstahl, 149k Tritanium, 200x Cred, F8000+, K8064-, R1792-`
+- [x] Reise nach Vulkan
+- [x] Orte ein Fragment des Kristalls
+- [x] Besiegeden nausikaanischen Dieb (Forschungsschiff 54559)
+- [ ] Bring das Kristallfragment zu Sol zurück (Warp 40)
 
 ---
 [Oben](#föderation)
@@ -251,11 +296,6 @@ Gleiche Missionen gibt es in der
 
 
 ## Level 21 Systeme
-
-### _**(Aruna - Kulug)**_
-> Föderation Raum [S:37068128 X:-306 Y:83]
-
-#### ???
 
 ---
 [Oben](#föderation)

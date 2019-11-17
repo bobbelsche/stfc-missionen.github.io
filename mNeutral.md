@@ -38,7 +38,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ---
 [Oben](#neutral)
 
-
 ## Level 30 Systeme
 
 ### _**(Tejat - Flula)**_
@@ -141,8 +140,17 @@ Selbe Missionen gibt es bei:
 - [erfordert: Faires Spiel](#faires-spiel)
 - [x] Untersuche den Schaden an der Kolonie auf Agnosia IV
 - [x] Spende 1m Parstahl 
-- [ ] Nimm Yan'Agh mit und finde Separatisten die sich auf Agnosia V verstecken
+- [x] Nimm Yan'Agh mit und finde Separatisten die sich auf Agnosia V verstecken
 
+#### Wir sitzen alle im selben Boot
+`40x Teile Abfangjäger, Foschungsschiff, Kampfschiff`
+- [erfordert: Zuschauer](#zuschauer)
+- [ ] Finde die verschlüsselte klingonische Sonde in Auruna
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
 
 #### In Bewegung (In Motion)
 - [x] Finde das Separatisten Lager im P'Jem System
