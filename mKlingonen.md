@@ -15,6 +15,40 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ---
 
+
+## Level 30 Systeme
+
+### _**(H'Atoria - Heghpu'HuD)**_
+
+#### Weg zur Weisheit
+`3x seltenes Kristall 3*, 750x Rekruten, 250 Cred, K12000+, F4320-, R11500-`
+- [ ] Besuche den Händler für die Vereinbarung
+- [ ] bla
+- [ ] bla
+
+### _**(H'Atoria - Heghpu'ngeng)**_
+
+#### Subraumbeben
+`460k Tritanium, 92k Dilithium, 250 Cred, K12000+, R11500-, F4320-`
+- [x] Finde den Beschützer Gon'hakr im May'Lang System
+- [x] Besiege Gon'hakr im ehrenhaften Kampf (Abfangjäger 157440)
+- [x] Verfolge Beschützer Uk'Lrahk bis Lipig
+- [x] Schalte Uk'Lrahk Schiff aus (Abfangjäger 157440)
+- [x] Bring den Gefangenen nach Heghpu'ngeng
+
+#### Keine Krieger hier
+`5x Kras, 14x 8 Std Beschleunigen, 300 Cred, K23000+, R23500-, F8832-`
+- [erfordert: Subraumbeben](#subraumbeben)
+- [x] Reise zur klingonischen Kolonie in Morska
+- [ ] Spende 1m Dilithium
+- [ ] bla
+- [ ] bla
+
+---
+[Oben](#klingonen)
+
+
+
 ## Level 29 Systeme
 
 ### _**(Morska - KineQ)**_
@@ -28,13 +62,17 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Morska - Byand'on)**_
 > Klingonischer Raum [S:1057703933 X:277 Y:433]
 
-#### Weg von der Harmonie
+#### Weg von der Hegemonie
 `2,8m Parstahl, Credits 230, K10000+, R9280-, F3480-, 1x Schlüssel`
-- [ ] bla
+- [x] Triff dich mit dem Geschwaderführer der Gorn in H'Atoria
+- [x] Besiege 5 Feinde auf Level 25 oder höher
 
 #### Verlorene Farben
 `16x ungewöhnliche raffinierte Kristalle, Credits 230, K10000+,  R9280-, F3480-, 1x Schlüssel`
-- [ ] bla
+- [x] Markiere den Planeten KineQ
+- [x] Erkunde die Region um Heghpu'HuD
+- [x] Schalte den Suliban Kundschafter aus (Abfangjäger 133020)
+- [x] Markiere das finale Ziel auf Carraya
 
 #### Türme
 `1200x Ultra Rekruten, Credits 250, K12000+,  R11500-, F4320-, 1x Schlüssel`
@@ -88,7 +126,18 @@ Sabotiere die Separatistenflotte oder lass den Angriff weitergehen
 - [ ] Links, Greif den Ingenieur an `140k Tritanium, 20x 15 Minuten Reparatur, Credits 170, K2000+, R1600-, F600-`
 - [x] Rechts, Erlaube dem Ingenieur fortzufahren `8x 3 Stunden Beschleunigen, Credits 170, K2000+, R1600-, F600-`
 - [x] Setze den Angriff in Voss fort
-- [ ] Besiege die USS Beaumont (Forschungsschiff 74100 Stärke)
+- [x] Besiege die USS Beaumont (Forschungsschiff 74100 Stärke)
+- [x] Kehre nach Maranga zurück
+
+#### Ein Verbrechen der anderen Art 
+`3x Koth, 25k Dilithium, Credits 180, K2000+, R1600-, F600-`
+- [erfordert: Begrenzungsgitter](#begrenzungsgitter)
+- [x] Begieb dich zur Separatistenbasis in Ajilon
+- [x] Besiege 6 Feinde in Ajilon
+- [x] Besiege T'Ravma
+- [x] Greife die Separatistenbasis an
+- [x] Besiege das Flagschiff der Separatisten
+- [x] Kehre zu deiner Sation zurück
 
 ---
 
