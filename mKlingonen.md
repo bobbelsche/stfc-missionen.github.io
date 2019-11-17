@@ -2,18 +2,84 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
-1. [Level 29 Systeme](mKlingonen.md#level-29-systeme)
-2. [Level 27 Systeme](mKlingonen.md#level-27-systeme)
-3. [Level 25 Systeme](mKlingonen.md#level-25-systeme)
-4. [Level 24 Systeme](mKlingonen.md#level-24-systeme)
-5. [Level 23 Systeme](mKlingonen.md#level-23-systeme)
-6. [Level 22 Systeme](mKlingonen.md#level-22-systeme)
-7. [Level 21 Systeme](mKlingonen.md#level-21-systeme)
-8. [Level 20 Systeme](mKlingonen.md#level-20-systeme)
+1. [Level 60 Systeme](mKlingonen.md#level-60-systeme)
+1. [Level 40 Systeme](mKlingonen.md#level-40-systeme)
+3. [Level 34 Systeme](mKlingonen.md#level-34-systeme)
+4. [Level 30 Systeme](mKlingonen.md#level-30-systeme)
+5. [Level 29 Systeme](mKlingonen.md#level-29-systeme)
+6. [Level 27 Systeme](mKlingonen.md#level-27-systeme)
+7. [Level 25 Systeme](mKlingonen.md#level-25-systeme)
+8. [Level 24 Systeme](mKlingonen.md#level-24-systeme)
+9. [Level 23 Systeme](mKlingonen.md#level-23-systeme)
+10. [Level 22 Systeme](mKlingonen.md#level-22-systeme)
+11. [Level 21 Systeme](mKlingonen.md#level-21-systeme)
+12. [Level 20 Systeme](mKlingonen.md#level-20-systeme)
 
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 60 Systeme
+
+### _**(Kronos - Kronos)**_
+
+#### Zeichen der Drei
+`?`
+- [ ] Untersuche die Pattsituation im Deneva System
+- [ ] bla
+
+#### Trotz
+`?`
+- [x] Schließe mit General Gorath auf Mempa ein Abkommen
+- [ ] links, Versprich einschreiten um die Kriosianer zu retten `1600 Ultra Rekruten, 1x beschädigtes Datenpad, 600 Cred, K100000+, F51600-, R137600-`
+- [ ] rechts, Plädiere für Hinrichtung `5x Gorkon, 1x beschädigtes Datenpad, 600 Cred, K100000+, F51600-, R137600-`
+- [ ] Besiege den kriosianischen Rebellen ()
+- [ ] bla
+- [ ] bla
+
+---
+[Oben](#klingonen)
+
+
+## Level 40 Systeme
+
+### _**(Ursva - Ursva)**_
+
+#### Stille
+`12x seltene Kristall 3*, 60x ungewöhnliche Kristall 3*, Cred 500, K100000+, R128000-, F48000-`
+- [x] Spüre die Quelle der Transmission auf Kronos auf
+- [ ] Zahle 150m Parstahl an den Klingonischen Magistrat
+- [ ] bla
+
+#### Draht
+`24.7m Parstahl, Cred 500, K100000+, R128000-, F48000-`
+- [ ] Liefere die Ausrüstung nach Nausikaa
+- [ ] bla
+
+---
+[Oben](#klingonen)
+
+
+
+
+## Level 34 Systeme
+
+### _**(Beta Penthe - Wezam)**_
+
+#### Schatten Arena
+`774k Tritanium, 150x Abfangjägerteile, 350 Cred, K42000+, R45600-, F17100-`
+- [ ] bla
+- [ ] bla
+
+#### Meridor und Gagh
+`450x Premium Rkruten, 100k Offizier-EP, 200 Cred, K8000+, R7168-, F2688-`
+- [x] Hole die Meridor Ladung von Ka'weh ab.
+- [x] Liefere die Meridor nach Kronos (Warp 38, Kadet Scotty) 
+
+
+---
+[Oben](#klingonen)
+
 
 
 ## Level 30 Systeme
@@ -76,7 +142,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Türme
 `1200x Ultra Rekruten, Credits 250, K12000+,  R11500-, F4320-, 1x Schlüssel`
-- [ ] bla
+- [x] Finde den Mond der Gorn im Beta Penthe System
+- [x] Zerstöre den Unabhängigen Verteidiger (Forschungsschiff 200351)
+- [x] Vernichte 5 Feinde auf Level 30 oder höher
 
 
 ---

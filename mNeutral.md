@@ -145,8 +145,17 @@ Selbe Missionen gibt es bei:
 #### Wir sitzen alle im selben Boot
 `40x Teile Abfangjäger, Foschungsschiff, Kampfschiff`
 - [erfordert: Zuschauer](#zuschauer)
-- [ ] Finde die verschlüsselte klingonische Sonde in Auruna
-- [ ] bla
+- [x] Finde die verschlüsselte klingonische Sonde in Auruna
+- [x] Triff dich mit Wral'Vor auf Lorusa
+- [x] Schließe dich Wral'Vors Angriff auf Antaaks Flotte an.
+- [x] Zerstöre den Abfangjäger (75312)
+- [x] Mach für Wral'Vor einen Weg durch das Kampfschiff frei (73260)
+- [x] Zerstöre Captain Kurtaks Schiff (101520)
+
+#### Ein Ort namens Heimat 
+`?`
+- [erfordert: Wir sitzen alle im selben Boot](#wir-sitzen-alle-im-selben-boot)
+- [ ] Reise mit Wral'Vor nach Khitomer
 - [ ] bla
 - [ ] bla
 - [ ] bla
