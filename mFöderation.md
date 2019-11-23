@@ -129,7 +129,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Gewaltige Bohrung
 `250k Parstahl, 1x Verschlüsselungscode`
 - [x] Besiege das Sicherheiitsschiff der Mine (Abfangjäger 157440 Stärke)
-- [ ] bla 
+- [x] Baue 15000 Dilithium ab
 
 #### Wellen
 `86k Dilithium, 230 Cred, 1x Schlüssel F10000+, K10400-, R2320-`

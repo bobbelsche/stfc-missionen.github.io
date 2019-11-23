@@ -48,8 +48,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Uneinigkeit
 `347k DIlithium, 1x Schlüssel, Credits 300, R23000+, F17600-, K11700-`
-- [ ] Besiege 15 Feinde auf Level 32 oder höher 
-- [ ] bla
+- [x] Besiege 15 Feinde auf Level 32 oder höher 
+- [ ] Besiege den kriosianischen Rebellenanführer (Kampfschiff 293839)
 - [ ] bla
 
 #### Der Konsul

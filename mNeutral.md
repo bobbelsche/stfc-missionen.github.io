@@ -155,11 +155,16 @@ Selbe Missionen gibt es bei:
 #### Ein Ort namens Heimat 
 `?`
 - [erfordert: Wir sitzen alle im selben Boot](#wir-sitzen-alle-im-selben-boot)
-- [ ] Reise mit Wral'Vor nach Khitomer
-- [ ] bla
-- [ ] bla
-- [ ] bla
-- [ ] bla
+- [x] Reise mit Wral'Vor nach Khitomer
+- [x] Finde das Schiff von General Antaak in K'amia
+- [x] Zerstöre das Flaggschiff von General Antaak (Kampfschiff 101520)
+- [x] Heiße die Söhne von Antaak wieder im Reich willkommen
+- [x] Transportiere Yan'Agh zurück zur Nu'Daq Station
+- [x] links, `500 klingonische Rekruten, 5x ungewöhnliches Kristall 3*, 250Cred, K2500+, R2000-, F750- `
+- [ ] mitte, `500 romulanische Rekruten, 5x ungewöhnliches Erz 3*, 250Cred, R2500+, F1500-, K1000- `
+- [ ] rechts, `500 föderations Rekruten, 5x ungewöhnliches Gas 3*, 250Cred, F2500+, K2250-, R500-`
+- [x] Nach Hause zurück kehren
+
 
 #### In Bewegung (In Motion)
 - [x] Finde das Separatisten Lager im P'Jem System

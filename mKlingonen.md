@@ -25,7 +25,11 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Zeichen der Drei
 `?`
-- [ ] Untersuche die Pattsituation im Deneva System
+- [x] Untersuche die Pattsituation im Deneva System
+- [ ] links, Greife das Schiff der Föderation an `35x ungewöhnliche Gas 3*, 1x Frachtcontainer, Cred 600, K100000+, R137600-, F51600-`
+- [ ] mitte, Greife das romulanische Schiff an `35x ungewöhnliche Erz 3*, 1x Frachtcontainer, Cred 600, K100000+, R137600-, F51600-`
+- [x] rechts,Warte darauf, dass die Klingonen den ersten Schritt machen `35x ungewöhnliche Krisatall 3*, 1x Frachtcontainer, Cred 600, K100000+, R137600-, F51600-`
+- [ ] Besiege den IRW Augur (Kampfschiff 1373877)
 - [ ] bla
 
 #### Trotz
@@ -53,8 +57,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Draht
 `24.7m Parstahl, Cred 500, K100000+, R128000-, F48000-`
-- [ ] Liefere die Ausrüstung nach Nausikaa
-- [ ] bla
+- [x] Liefere die Ausrüstung nach Nausikaa
+- [ ] Halte den Saboteur auf (Abfangjäger 2104711)
 
 ---
 [Oben](#klingonen)
@@ -118,12 +122,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ## Level 29 Systeme
 
 ### _**(Morska - KineQ)**_
-> Klingonischer Raum [S:1057703933 X:-225 Y:-534]
-
-#### Gewaltige Bohrung
-`250k Parstahl, 1x Schlüssel`
-- [ ] bla
-
 
 ### _**(Morska - Byand'on)**_
 > Klingonischer Raum [S:1057703933 X:277 Y:433]
