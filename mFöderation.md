@@ -2,6 +2,7 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
+1. [Level 60 Systeme](mFöderation.md#level-60-systeme)
 1. [Level 34 Systeme](mFöderation.md#level-34-systeme)
 1. [Level 30 Systeme](mFöderation.md#level-30-systeme)
 3. [Level 27 Systeme](mFöderation.md#level-27-systeme)
@@ -14,6 +15,30 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 60 Systeme
+
+### _**(Sol - Erde)**_
+
+#### Riposte
+`55x ungewöhnliches raffiniertes Gas 3*, 1x beschädigtes Datenpad, 600x Cred, F100000+, K151200-, R33600-`
+- [ ] Bereite dich auf den Angriff der Romulaner vor
+- [ ] bla
+
+#### Fehlzündung
+`25m Parstahl, 600 Cred, 1x beschädigtes Datenpad, F100000+, K154800-, R34400-`
+- [ ] Sprich mit dem Admiral um dich zu informieren
+- [ ] bla
+
+#### Null Toleranz
+`?`
+- [ ] Finde Captain Crowley
+- [ ] bla
+
+---
+[Oben](#föderation)
+
+
 
 ## Level 34 Systeme
 
@@ -43,6 +68,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Kriesenreaktion
 `1m Parstahl`
+- [x] Schätze den Schaden auf Jolojuq ein
+- [ ] Spende 7.5m Tritanium
 - [ ] bla
 
 #### Recht und Ordnung
@@ -54,7 +81,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Technologische Wunder
 `1m Parstahl`
-- [ ] bla
+- [ ] Baue 250000 Dilithium ab
 
 
 ### _**(Thama - Mimazub)**_
@@ -152,7 +179,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Reise nach Vulkan
 - [x] Orte ein Fragment des Kristalls
 - [x] Besiegeden nausikaanischen Dieb (Forschungsschiff 54559)
-- [ ] Bring das Kristallfragment zu Sol zurück (Warp 40)
+- [x] Bring das Kristallfragment zu Sol zurück (Warp 40)
 
 ---
 [Oben](#föderation)

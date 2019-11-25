@@ -5,6 +5,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 1. [Level 60 Systeme](mKlingonen.md#level-60-systeme)
 1. [Level 40 Systeme](mKlingonen.md#level-40-systeme)
 3. [Level 34 Systeme](mKlingonen.md#level-34-systeme)
+4. [Level 32 Systeme](mKlingonen.md#level-32-systeme)
 4. [Level 30 Systeme](mKlingonen.md#level-30-systeme)
 5. [Level 29 Systeme](mKlingonen.md#level-29-systeme)
 6. [Level 27 Systeme](mKlingonen.md#level-27-systeme)
@@ -28,7 +29,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Untersuche die Pattsituation im Deneva System
 - [ ] links, Greife das Schiff der Föderation an `35x ungewöhnliche Gas 3*, 1x Frachtcontainer, Cred 600, K100000+, R137600-, F51600-`
 - [ ] mitte, Greife das romulanische Schiff an `35x ungewöhnliche Erz 3*, 1x Frachtcontainer, Cred 600, K100000+, R137600-, F51600-`
-- [x] rechts,Warte darauf, dass die Klingonen den ersten Schritt machen `35x ungewöhnliche Krisatall 3*, 1x Frachtcontainer, Cred 600, K100000+, R137600-, F51600-`
+- [x] rechts,Warte darauf, dass die Klingonen den ersten Schritt machen `35x ungewöhnliche Kristall 3*, 1x Frachtcontainer, Cred 600, K100000+, R137600-, F51600-`
 - [ ] Besiege den IRW Augur (Kampfschiff 1373877)
 - [ ] bla
 
@@ -64,6 +65,21 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Oben](#klingonen)
 
 
+## Level 38 Systeme
+
+### _**(Mempa - Huado)**_
+
+#### Subversion
+`?`
+- [x] Hole Lezrik von Nausikaa
+- [x] links, `450x Premium Offiziere, 500 Cred, K100000+, R121600-, F22800-`
+- [ ] rechts, `2.4m Tritanium, 270x Abfangjäger Teile, 500 Cred, K100000+, R121600-, F22800-`
+- [x] Spende 50000 Dilithium
+- [x] Bring Lezrik wohlbehalten nach Khitomer
+
+---
+[Oben](#klingonen)
+
 
 
 ## Level 34 Systeme
@@ -72,7 +88,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Schatten Arena
 `774k Tritanium, 150x Abfangjägerteile, 350 Cred, K42000+, R45600-, F17100-`
-- [ ] bla
+- [ ] Transportiere Nalrex an den Ort seines Todeskampfes
 - [ ] bla
 
 #### Meridor und Gagh
@@ -84,6 +100,32 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ---
 [Oben](#klingonen)
 
+
+## Level 32 Systeme
+
+### _**(Ok'Vak - Viotkas)**_
+
+#### Wendehals
+`1.2m Parstahl`
+- [x] Finde den Verräter auf Gevuj
+- [ ] Bestich den Kolonisten 1000000 Dilithium um den Standort des Verräters zu erfahren
+- [ ] bla
+
+#### Herrschaft behaupten
+`1.2m Parstahl`
+- [x] Bombadiere Kervas vom Orbit aus
+- [x] Vernichte den Suliban Verteidiger
+- [x] Kehre nach Viotkas zurück
+
+#### Abhören
+`1.1m Parstahl`
+- [x] Hol den Signalverstärker aus Wezam
+- [x] Platziere den Signalverstärker in May'lang
+- [x] Schalte den Suliban Kundschafter aus (Kampfschiff 293839 Stärke)
+
+
+---
+[Oben](#klingonen)
 
 
 ## Level 30 Systeme
