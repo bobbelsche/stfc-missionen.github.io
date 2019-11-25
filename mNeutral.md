@@ -596,6 +596,19 @@ Selbe Missionen gibt es bei:
 - [Folgemission: Ein scharfes Auge](#ein-scharfes-auge)
 
 ---
+
+### _**(Rakkaus - Siouxban)**_
+
+#### Carrion Spoils
+`1x Tricorder`
+- [x] investigate the source of the distress beacon
+- [x] Defeat the Nausicaan Scavenger, Razehk (9309 Stärke)
+- [x] Zurück zur Station
+
+
+
+
+---
 [Oben](#neutral)
 
 [Inhalt](README.md#inhalt)

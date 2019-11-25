@@ -2,6 +2,7 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
+1. [Level 32 Systeme](mRomulaner.md#level-32-systeme)
 1. [Level 30 Systeme](mRomulaner.md#level-30-systeme)
 1. [Level 29 Systeme](mRomulaner.md#level-29-systeme)
 1. [Level 27 Systeme](mRomulaner.md#level-27-systeme)
@@ -12,6 +13,24 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 32 Systeme
+
+### _**(Unroth -  Lameo)**_
+
+#### bla
+`Credits 250, 101k Dilithium, R12000+, F8640-, K6720-`
+- [ ] Finde die Suliban Kabale im Vendor System
+
+#### bla
+`Credits 250, 101k Dilithium, R12000+, F8640-, K6720-`
+- [ ] Finde die Suliban Kabale im Vendor System
+
+
+---
+[Oben](#romulaner)
+
+
 
 ## Level 30 Systeme
 
@@ -34,8 +53,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Gedächtnislücke
 `183k Tritanium, 17x 15 Minuten reparatur, Credits 230, R10000+, F6960-, K4640-`
-- [ ] Untersuche den Stromausfall
-- [ ] bla
+- [x] Untersuche den Stromausfall
+- [ ] Finde die Andorianer, die für den ANgriff verantwortlich sind
 - [ ] bla
 
 #### Unterstützung des Reiches

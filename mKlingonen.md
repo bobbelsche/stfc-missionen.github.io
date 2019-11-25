@@ -92,9 +92,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Weg zur Weisheit
 `3x seltenes Kristall 3*, 750x Rekruten, 250 Cred, K12000+, F4320-, R11500-`
-- [ ] Besuche den Händler für die Vereinbarung
-- [ ] bla
-- [ ] bla
+- [x] Besuche den Händler für die Vereinbarung
+- [x] Triff dich mit Doktor Newson auf Risa
+- [x] Spende 500000 Dilithium
 
 ### _**(H'Atoria - Heghpu'ngeng)**_
 
