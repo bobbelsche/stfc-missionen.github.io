@@ -20,11 +20,11 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### bla
 `Credits 250, 101k Dilithium, R12000+, F8640-, K6720-`
-- [ ] Finde die Suliban Kabale im Vendor System
+- [ ] bla
 
 #### bla
 `Credits 250, 101k Dilithium, R12000+, F8640-, K6720-`
-- [ ] Finde die Suliban Kabale im Vendor System
+- [ ] bla
 
 
 ---
@@ -39,8 +39,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Zum Wohle Aller
 `Credits 250, 101k Dilithium, R12000+, F8640-, K6720-`
-- [ ] Finde die Suliban Kabale im Vendor System
-
+- [x] Finde die Suliban Kabale im Vendor System
+- [x] Enthebe Doasen der Macht
+- [x] Kehre zu Kelia zurück und berichte von Doasens Untergang
 
 ---
 [Oben](#romulaner)
@@ -54,8 +55,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Gedächtnislücke
 `183k Tritanium, 17x 15 Minuten reparatur, Credits 230, R10000+, F6960-, K4640-`
 - [x] Untersuche den Stromausfall
-- [ ] Finde die Andorianer, die für den ANgriff verantwortlich sind
-- [ ] bla
+- [x] Finde die Andorianer, die für den Angriff verantwortlich sind
+- [x] Zerstöre das andorianische Schiff Kumari (Kampfschiff 153150 Stärke)
 
 #### Unterstützung des Reiches
 `3x seltenes raffiniertes Erz 3*, 27x ungewöhnliches raffiniertes Erz 3*, Credits 230, R10000+, F6960-, K4640-`
@@ -68,14 +69,14 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Uneinigkeit
 `347k DIlithium, 1x Schlüssel, Credits 300, R23000+, F17600-, K11700-`
 - [x] Besiege 15 Feinde auf Level 32 oder höher 
-- [ ] Besiege den kriosianischen Rebellenanführer (Kampfschiff 293839)
-- [ ] bla
+- [x] Besiege den kriosianischen Rebellenanführer (Kampfschiff 293839)
+- [x] Stiehl das banner von Krios Prime
 
 #### Der Konsul
 `12x 8 Std Beschleunigen, 1x Schlüssel, Credits 300, R23000+, F17600-, K11700-`
-- [ ] Reise nach P'Jem
-- [ ] bla
-- [ ] bla
+- [x] Reise nach P'Jem
+- [x] Zerstöre das Schiff des Andorianischen Reichs (Kampfschiff 293839 Stärke)
+- [x] Zerstöre das vulkanische Schiff (Forschungsschiff 418676)
 
 #### Ausgelöst
 `5x seltenes raffiniertes Erz 3*, 1x Schlüssel, Credits 300, R23000+, F17600-, K11700-`
@@ -85,10 +86,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Ein Pyrrhussieg
 `500x Romulaner Rekruten,34x 15 Minuten Reparatur, Credits 230, R10000+, F6960-, K4640-`
-- [ ] Nimm am Angriff der Suliban auf Thiros teil.
-- [ ] bla
-- [ ] bla
-- [ ] bla
+- [x] Nimm am Angriff der Suliban auf Thiros teil.
+- [x] Zerstöre das andorianische kampfschiff (Kampfschiff 101520 Stärke)
+- [x] Zerstöre die USS Trinity (Forschungsschiff 200351 Stärke)
+- [x] Zieh dich zum Planeten Delba zurück
 
 
 ---
@@ -104,16 +105,16 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Überläufer 
 `Credits 150, 250x ROM Rekruten, R3100+, F1934-, K1581-`
 - [x] Hole den Container vom Planeten Denner ab.
-- [ ] Besiege den arkonianischen Abfangjäger (Abfangjäger 75312 Stärke)
-- [ ] bla
+- [x] Besiege den arkonianischen Abfangjäger (Abfangjäger 75312 Stärke)
+- [x] Bring den Klingonen in Sicherheit
 
 
 #### Separator
 `Credits 150, 44k Dilitium, R3100+, F1934-, K1581-`
 - [x] Besuche den Direktor der Manaran Abbaugesellschaft
 - [x] Zerstöre ein Manaran Vermessungsschiff (Forschungsschiff 44329 Stärke)
-- [ ] Besiege die Manaran Sicherheitskräfte (Forschungsschiff 54559 Stärke)
-- [ ] bla
+- [x] Besiege die Manaran Sicherheitskräfte (Forschungsschiff 54559 Stärke)
+- [x] Kehre mit dem Geschenk der Minengesellschaft zu Menra zurück
 
 ---
 [Oben](#romulaner)

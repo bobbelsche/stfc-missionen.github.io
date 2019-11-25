@@ -83,10 +83,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ### Verwalter 
 `4.3m Parstahl, 7x 8 Std Beschleunigen, Cred 280, F18000+, K20900-, R4464-`
-- [ ] Fliege ins Azati System
-- [ ] bla 
-- [ ] bla 
-- [ ] bla 
+- [x] Fliege ins Azati System
+- [x] Besiege 10 Corvallener im Azati System
+- [x] Zerstöre die führenden Corvallener (Kampfschiff 293839 Stärke)
 
 ### Katastrophe 
 `460k Tritanium, 92k Dilithium, Cred 250, F12000+, K12900-, R2880-`
@@ -123,8 +122,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `1200x Ultra Rekruten, Cred 230, 1x Schlüssel, F10000+, K10400-, R2320-`
 - [erfordert: Angriffsformation](#angriffsformation)
 - [x] Sammle die Überreste der Soldaten ein
-- [ ] Besiege 5 Feinde in Azati 
-- [ ] bla
+- [x] Besiege 5 Feinde in Azati 
+- [x] Bring die Andorianer zur Heldenmauer
 
 #### Gewaltige Bohrung
 `250k Parstahl, 1x Verschlüsselungscode`
@@ -166,7 +165,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Unterstützung
 `22k Dilithium, 22x ungewöhnliches raffiniertes Gas G3, Credits 150, F3100+, K2902-, R645-`
-- [ ] Baue 250000 Tritanium ab
+- [x] Baue 250000 Tritanium ab
+- [x] Spende 250000 Tritanium
 
 
 #### Lebende Fracht
