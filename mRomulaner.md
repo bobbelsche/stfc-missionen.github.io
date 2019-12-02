@@ -91,7 +91,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `5x seltenes raffiniertes Erz 3*, 1x Schlüssel, Credits 300, R23000+, F17600-, K11700-`
 - [x] Hole die Partikelgewehre in Azati ab
 - [x] Zahle 1000000 Dilithium für die Partikelgewehre
-- [x] Liefere die Waffen an den romulanischen Spion (Warp 38)
+- [x] Liefere die Waffen an den romulanischen Spion (Warpreichweite 38)
 
 #### Ein Pyrrhussieg
 `500x Romulaner Rekruten,34x 15 Minuten Reparatur, Credits 230, R10000+, F6960-, K4640-`

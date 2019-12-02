@@ -57,7 +57,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Wachturm
 `2.1M Tritanium, 434k Dilithium, 350 Cred, F42000+, K51400-, R11400-`
-- [ ] Fliege ins Archer System (Warp 45)
+- [ ] Fliege ins Archer System (Warpreichweite 45)
 
 ---
 [Oben](#föderation)
@@ -180,7 +180,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Reise nach Vulkan
 - [x] Orte ein Fragment des Kristalls
 - [x] Besiegeden nausikaanischen Dieb (Forschungsschiff 54559)
-- [x] Bring das Kristallfragment zu Sol zurück (Warp 40)
+- [x] Bring das Kristallfragment zu Sol zurück (Warpreichweite 40)
 
 ---
 [Oben](#föderation)

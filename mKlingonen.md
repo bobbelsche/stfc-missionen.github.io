@@ -94,7 +94,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Meridor und Gagh
 `450x Premium Rkruten, 100k Offizier-EP, 200 Cred, K8000+, R7168-, F2688-`
 - [x] Hole die Meridor Ladung von Ka'weh ab.
-- [x] Liefere die Meridor nach Kronos (Warp 38, Kadet Scotty) 
+- [x] Liefere die Meridor nach Kronos (Warpreichweite 38, Kadet Scotty) 
 
 
 ---
