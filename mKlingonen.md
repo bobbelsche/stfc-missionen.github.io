@@ -88,8 +88,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Schatten Arena
 `774k Tritanium, 150x Abfangjägerteile, 350 Cred, K42000+, R45600-, F17100-`
-- [ ] Transportiere Nalrex an den Ort seines Todeskampfes
-- [ ] bla
+- [x] Transportiere Nalrex an den Ort seines Todeskampfes
+- [ ] Deaktiviere den Abfangjäger der Föderation (Abfangjäger 652792 Stärke)
 
 #### Meridor und Gagh
 `450x Premium Rkruten, 100k Offizier-EP, 200 Cred, K8000+, R7168-, F2688-`
@@ -152,9 +152,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `5x Kras, 14x 8 Std Beschleunigen, 300 Cred, K23000+, R23500-, F8832-`
 - [erfordert: Subraumbeben](#subraumbeben)
 - [x] Reise zur klingonischen Kolonie in Morska
-- [ ] Spende 1m Dilithium
-- [ ] bla
-- [ ] bla
+- [x] Spende 1m Dilithium
+- [x] Kehre nach Firexii zurück
+- [x] Vernichte den nausikaanischen Bezwinger in Morska (Abfangjäger 305058 Stärke)
 
 ---
 [Oben](#klingonen)

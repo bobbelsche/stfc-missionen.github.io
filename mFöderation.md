@@ -47,7 +47,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Unter dem Eis
 `? 6x seltenes raffiniertes Gas 3*, 50x ungewöhnliches raffiniertes Gas 3*, 330x Cred, F40000+, K47500-, R10500-`
 - [x] Triff den romulanischen Informanten
-- [ ] Schmugle Garan nach Talpa in Gradientes
+- [x] Schmugle Garan nach Talpa in Gradientes
+- [ ] Bestich die romulanische Wache mit 4m Dilithium
 
 #### Ushaan
 `1200 Ultra Rekruten, 500 Cred, 1x Energieverteiler, F100000+, K136800-, R30400-`
