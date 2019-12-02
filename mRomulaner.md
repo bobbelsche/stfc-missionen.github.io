@@ -2,6 +2,7 @@
 
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
+1. [Level 36 Systeme](mRomulaner.md#level-36-systeme)
 1. [Level 32 Systeme](mRomulaner.md#level-32-systeme)
 1. [Level 30 Systeme](mRomulaner.md#level-30-systeme)
 1. [Level 29 Systeme](mRomulaner.md#level-29-systeme)
@@ -20,7 +21,11 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ### Empathie
 `?`
-- [ ] Finde Elina auf Risa
+- [x] Finde Elina auf Risa
+- [ ] links  `422k Dilithium, 280 Forschungsschiffteile, Credits 400, R60000+, F51800-, R34500-`
+- [x] rechts `14.3m Parstahl, 17x 3Std Beschleunigen, Credits 400, R60000+, F51800-, R34500-`
+- [ ] Besiege das Schiff der Föderation (Forschungsschiff 910378 Stärke)
+- [ ] bla
 
 
 ## Level 32 Systeme

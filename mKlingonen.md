@@ -3,6 +3,7 @@
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 1. [Level 60 Systeme](mKlingonen.md#level-60-systeme)
+1. [Level 42 Systeme](mKlingonen.md#level-42-systeme)
 1. [Level 40 Systeme](mKlingonen.md#level-40-systeme)
 3. [Level 34 Systeme](mKlingonen.md#level-34-systeme)
 4. [Level 32 Systeme](mKlingonen.md#level-32-systeme)
@@ -44,6 +45,16 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ---
 [Oben](#klingonen)
+
+
+## Level 42 Systeme
+
+### _**(Lankal - Qubui)**_
+
+#### Rechner
+`12x seltene Kristall 3*, 60x ungewöhnliche Kristall 3*, Cred 500, K100000+, R128000-, F48000-`
+- [ ] Finde die Festung im Orbit um Ophiuchi (Warpreichweite 62)
+- [ ] bla
 
 
 ## Level 40 Systeme
