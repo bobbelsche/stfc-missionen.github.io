@@ -129,8 +129,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ### Was dein ist, ist mein
 `43k Tritanium, 400x Premium Rekruten`
-- [ ] Baue 100k Dilithium ab
-- [ ] bla 
+- [x] Baue 100k Dilithium ab
+- [x] Spende 100k Dilithium
 
 ---
 [Oben](#föderation)
