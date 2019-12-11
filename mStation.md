@@ -175,9 +175,13 @@
 
 ## Station Missionen
 
+#### Verbessere die OPS auf Level 29
+`1.7m Tritanium, 3x 15 min Reparatur`
+- [ ] Verbessere die OPS auf Level 29
+
 #### Verbessere die Schiffswerft auf Level 28
 `600k Tritanium`
-- [ ] Verbessere die Schiffswerft auf Level 28
+- [x] Verbessere die Schiffswerft auf Level 28
 
 #### Verbessere die V.P.A auf Level 26
 `100k Tritanium, 2x 15 Minuten Reparatur`
