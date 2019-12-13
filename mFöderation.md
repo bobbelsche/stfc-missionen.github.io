@@ -115,6 +115,11 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Besiege 10 Corvallener im Azati System
 - [x] Zerstöre die führenden Corvallener (Kampfschiff 293839 Stärke)
 
+### Antenne
+`22x ungewöhnliches raffiniertes Gas G3, 1000 Rekruten, 250 Cred, F12000+, K12900-, R28800-`
+- [erfordert: Verwalter](#verwalter)
+- [ ] Besuche Admiral Johnson auf Sternenbasis 5
+
 ### Katastrophe 
 `460k Tritanium, 92k Dilithium, Cred 250, F12000+, K12900-, R2880-`
 - [x] Untersuche die Katastrophe auf Laerra 
@@ -152,6 +157,12 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Sammle die Überreste der Soldaten ein
 - [x] Besiege 5 Feinde in Azati 
 - [x] Bring die Andorianer zur Heldenmauer
+
+### Gräben
+`25x ungewöhnliches raffiniertes Gas G3, 1000 Rekruten, 150 Cred, F3100+, K2902-, R645-`
+- [erfordert: Die Heldenmauer](#die-heldenmauer)
+- [ ] Triff dich mit dem Admiral im Azati System
+
 
 #### Gewaltige Bohrung
 `250k Parstahl, 1x Verschlüsselungscode`
