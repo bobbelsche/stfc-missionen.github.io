@@ -3,6 +3,7 @@
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 
+1. [Level 40 Systeme](mNeutral.md#level-40-systeme)
 1. [Level 34 Systeme](mNeutral.md#level-34-systeme)
 1. [Level 30 Systeme](mNeutral.md#level-30-systeme)
 1. [Level 29 Systeme](mNeutral.md#level-29-systeme)
@@ -23,6 +24,19 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Inhalt](README.md#inhalt)
 
 ---
+
+## Level 40 Systeme
+
+### _**(Nekosa - Dolora)**_
+
+#### Schattenschwert
+`2.7m Parstahl`
+- [ ] Unternimm eine Rettungsmission nach Babel
+- [ ] bla
+
+---
+[Oben](#neutral)
+
 
 ## Level 34 Systeme
 
@@ -56,8 +70,17 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 [Oben](#neutral)
 
 
-
 ## Level 29 Systeme
+
+### _**(Xerxes - Sternenbasis 80)**_
+
+#### An Rand
+`43k Tritanium, 9k Dilithium`
+- [ ] Hilf Doktor Mullen im Suliban System
+
+---
+[Oben](#neutral)
+
 
 ---
 [Oben](#neutral)
