@@ -3,14 +3,16 @@
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 1. [Level 60 Systeme](mFöderation.md#level-60-systeme)
-1. [Level 34 Systeme](mFöderation.md#level-34-systeme)
-1. [Level 30 Systeme](mFöderation.md#level-30-systeme)
-3. [Level 27 Systeme](mFöderation.md#level-27-systeme)
-4. [Level 25 Systeme](mFöderation.md#level-25-systeme)
-5. [Level 24 Systeme](mFöderation.md#level-24-systeme)
-6. [Level 23 Systeme](mFöderation.md#level-23-systeme)
-7. [Level 21 Systeme](mFöderation.md#level-21-systeme)
-8. [Level 20 Systeme](mFöderation.md#level-20-systeme)
+1. [Level 39 Systeme](mFöderation.md#level-39-systeme)
+1. [Level 36 Systeme](mFöderation.md#level-36-systeme)
+3. [Level 34 Systeme](mFöderation.md#level-34-systeme)
+4. [Level 30 Systeme](mFöderation.md#level-30-systeme)
+5. [Level 27 Systeme](mFöderation.md#level-27-systeme)
+6. [Level 25 Systeme](mFöderation.md#level-25-systeme)
+7. [Level 24 Systeme](mFöderation.md#level-24-systeme)
+8. [Level 23 Systeme](mFöderation.md#level-23-systeme)
+9. [Level 21 Systeme](mFöderation.md#level-21-systeme)
+10. [Level 20 Systeme](mFöderation.md#level-20-systeme)
 
 [Inhalt](README.md#inhalt)
 
@@ -34,6 +36,40 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `?`
 - [ ] Finde Captain Crowley
 - [ ] bla
+
+---
+[Oben](#föderation)
+
+
+
+## Level 39 Systeme
+
+### _**(Wolf - 359)**_
+
+#### Zu wenig und zu spät
+`801k Dilithium, Cred 500, 28x 3 Std Beschleunigen, F100000+, K144000-, R32000-`
+- [ ] bla
+
+
+---
+[Oben](#föderation)
+
+
+
+
+## Level 36 Systeme
+
+### _**(Sirius - Yubii)**_
+
+#### Entgegen aller Widrigkeit
+`1200 Premium Rekruten, 1x Energie-Verteiler, Cred 400, F60000+, K77700-, R17200-`
+- [ ] bla
+
+
+#### Versagen an der Hauptkampflinie
+`15x seltenes raffiniertes Gas 3*, 1x Energie-Verteiler, Cred 400, F60000+, K77700-, R17200-`
+- [ ] bla
+
 
 ---
 [Oben](#föderation)
