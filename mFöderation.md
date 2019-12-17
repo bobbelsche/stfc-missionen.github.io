@@ -79,6 +79,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Entgegen aller Widrigkeit
 `1200 Premium Rekruten, 1x Energie-Verteiler, Cred 400, F60000+, K77700-, R17200-`
+- [ ] Hole weiter andorianische Abgesandte ab
+- [ ] Besiege den Abfangjäger der Suliban (Abfangjäger 937932 Stärke)
+- [ ] bla
 - [ ] bla
 
 
@@ -100,7 +103,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `? 6x seltenes raffiniertes Gas 3*, 50x ungewöhnliches raffiniertes Gas 3*, 330x Cred, F40000+, K47500-, R10500-`
 - [x] Triff den romulanischen Informanten
 - [x] Schmugle Garan nach Talpa in Gradientes
-- [ ] Bestich die romulanische Wache mit 4m Dilithium
+- [x] Bestich die romulanische Wache mit 4m Dilithium
+- [x] Bring Garan und die Medizin nach Andoria Prime
 
 #### Ushaan
 `1200 Ultra Rekruten, 500 Cred, 1x Energieverteiler, F100000+, K136800-, R30400-`
