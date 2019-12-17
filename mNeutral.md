@@ -383,6 +383,12 @@ Selbe Missionen gibt es bei:
 - [x] Konfrontiere K'Thak auf Dhi'Ban
 - [x] Besiege K'Thak (Abfangjäger 37725 Stärke)
 
+### _**(Krah’Hor - Krah'Tok)**_
+
+#### Je mehr sich die DInge verändern
+- [erfordert: Ehre und Blut](#ehre-und-blut)
+- [ ] bla
+
 ---
 
 
@@ -487,6 +493,13 @@ Selbe Missionen gibt es bei:
 
 ---
 
+### _**(Kaikara - Kaikara Prime)**_
+
+#### Treuepflichten
+- [erfordert: Dem Imperium dienen](#dem-imperium-dienen)
+- [ ] bla
+
+
 
 ### _**(Lorillia - Sternenbasis 82)**_
 
@@ -506,6 +519,14 @@ Selbe Missionen gibt es bei:
 - [x] Besiege 8 Feinde in Sorenle
 - [x] Untersuche die versteckte Basis oder die stumme Kolonie (**Belohnung auswählbar**)
 - [x] Untersuche Vayuooaf
+
+---
+
+### _**(Lorillia - Lorillia)**_
+
+#### Reisen
+- [erfordert: Frieden in unserer Zeit](#frieden-in-unserer-zeit)
+- [ ] bla
 
 ---
 [Oben](#neutral)
