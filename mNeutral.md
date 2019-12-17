@@ -553,9 +553,68 @@ Selbe Missionen gibt es bei:
 - [erfordert: Übertretungen](#übertretungen)
 - [x] Triff Kerla in Vindemiatrix
 - [x] Scanne einen Teil des Objekts in Amador
-- [ ] bla
-- [ ] bla
-- [ ] bla
+- [x] Zerstöre das Forschungsschiff der Suliban
+- [x] Zerstöre den Suliban Zerstörer
+- [x] Bring ein paar Materialien zu den Klingonen
+
+#### Eine zweite Meinung
+`5k Dilithium`
+- [erfordert: Fürs Reich](#fürs-reich)
+- [x] Bring die Objektstücke zu Toryn
+- [x] Triff dich mit Toryns Kontakt in Gelvin
+- [x] Zahle 16000 Tritanium für den Transistor
+- [x] Kehre mit dem Transistor zu Toryn zurück
+- [x] Bring Toryn zu deiner Station zurück
+
+#### Für uns oder gegen uns
+`75x Premium Rekruten, 55k Offizier-EP`
+- [erfordert: Eine zweite Meinung](#eine-zweite-meinung)
+- [x] Verfolge das seltsame Signal nach Wezen
+- [x] Finde die Spur des Schiffs in Labac
+- [x] Finde das Forschungsschiffin Priya
+- [x] Schalte das Forschungsschiff aus
+- [x] Triff den Agenten in Davidul
+- [x] blaEntscheide, was mit den Daten geschehen soll
+- [x] Besiege den Agenten 
+
+#### Die Ziele rechtfertigen die Mittel
+`?`
+- [erfordert: Für uns oder gegen uns](#für-uns-oder-gegen-uns)
+- [x] Triff dich mit den Romulanern in V'varia
+- [x] Besiege die romulanische Centurion
+- [x] Jage und zerstöre die Augur
+- [x] Kehre zu deiner Station zurück
+
+#### Die Ruhe vor dem Sturm
+`?`
+- [erfordert: Die Ziele rechtfertigen die Mittel](#die-ziele-rechtfertigen-die-mittel)
+- [x] Spende 2000 Dilithium
+- [x] Verlasse das System
+- [x] Besiege den Gorn Marauder
+- [x] Kehre zurück und untersuche das Objekt
+- [x] Bringe Toryn zu deiner Station zurück
+
+#### So ist es dazu gekommen
+`?`
+- [erfordert: Die Ruhe vor dem Sturm](#die-ruhe-vor-dem-sturm)
+- [x] Entscheide dich für eine Seite
+- [x] Besiege die klingonische D4
+- [x] Besiege die IRW Magnifica
+- [x] Eskortiere das Sternenflottenschiff zurück nach Lorillia
+- [x] Bring die Daten zu deiner Station zurück
+
+#### Neue Lebensformen suchen
+`Baupläne für D3, Legionary, Mayflower`
+- [erfordert: So ist es dazu gekommen](#so-ist-es-dazu-gekommen)
+- [x] Finde das Primärobjekt in Deneva
+- [x] Besiege 10 Feinde auf Level 17 oder höher
+- [x] Besiege die D3
+- [x] Finde die Quelle des neuen Signals in Midnight
+- [x] Besiege die Legionary
+- [x] Wähle eine Seite 
+- [x] Besiege den General der Sternenflotte
+- [x] Besiege den romulanischen General
+- [x] Kehre zu deiner Station zurück
 
 
 
