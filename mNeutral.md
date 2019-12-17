@@ -514,6 +514,51 @@ Selbe Missionen gibt es bei:
 
 ## Level 17 Systeme
 
+### _**(Labac - Halla)**_
+
+#### Sie kam aus dem Weltraum
+> wurde 2019/12/16 mit Deep Space Update hinzugefügt
+`5k Tritanium, 7x 1 Std Beschleunigung, 7x 15 min Reparatur`
+- [x] Finde das Objekt in Deneva
+- [x] Bezahle 2.500 Dilithium für Infos über das Signal.
+- [x] Verfolge das Signal nach Cita Laga
+- [x] Kehre zu deiner Station zurück
+
+#### Du kannst auf mich zählen
+`?`
+- [erfordert: Sie kam aus dem Weltraum](#sie-kam-aus-dem-weltraum)
+- [x] Triff den Sternenflottenoffizier in Lorilla
+- [x] Finde das neu eingetroffene Objekt in Labac
+- [x] Besiege 20 Feinde auf lvl 16 oder höher
+- [x] Kehre zur Sternenflotte in Lorillia zurück
+- [x] Lüge den Offizier an
+- [x] Kehre zu deiner Station zurück 
+
+#### Wenn du nur wüsstes
+`?`
+- [erfordert: Du kannst auf mich zählen](#du-kannst-auf-mich-zählen)
+- [x] Triff die Sternenflotte in Lorillia
+- [x] Besiege den Arconianischen Zerstörer
+- [x] Bringe die Daten zur Analyse zu deiner Station zurück
+
+#### Übertretungen
+`?`
+- [erfordert: Wenn du nur wüsstes](#wenn-du-nur-wüsstes)
+- [x] Greife das Objekt an
+- [x] Vernichte das störende Schiff
+- [x] Versuche, dem Objekt bis Amador hinterherzuspüren
+
+#### Fürs Reich
+`3x Kerla Rekruten, 43k Offizier-EP`
+- [erfordert: Übertretungen](#übertretungen)
+- [x] Triff Kerla in Vindemiatrix
+- [x] Scanne einen Teil des Objekts in Amador
+- [ ] bla
+- [ ] bla
+- [ ] bla
+
+
+
 ### _**(Freyda - Maxom)**_
 
 #### Unterschätztes Genie

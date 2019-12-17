@@ -3,6 +3,7 @@
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 1. [Level 60 Systeme](mFöderation.md#level-60-systeme)
+1. [Level 40 Systeme](mFöderation.md#level-40-systeme)
 1. [Level 39 Systeme](mFöderation.md#level-39-systeme)
 1. [Level 36 Systeme](mFöderation.md#level-36-systeme)
 3. [Level 34 Systeme](mFöderation.md#level-34-systeme)
@@ -42,6 +43,23 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 
 
+## Level 40 Systeme
+
+### _**(Bernards Pfeilstern - Snrub)**_
+
+#### Raumrennen
+`444k Dilithium, 240x Forschungsschiffteile, Cred 600, 28x 3 Std Beschleunigen, F100000+, K147600-, R32800-`
+- [ ] bla
+
+#### Der große Tribble-Raub
+`?`
+- [ ] bla
+
+---
+[Oben](#föderation)
+
+
+
 ## Level 39 Systeme
 
 ### _**(Wolf - 359)**_
@@ -50,10 +68,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `801k Dilithium, Cred 500, 28x 3 Std Beschleunigen, F100000+, K144000-, R32000-`
 - [ ] bla
 
-
 ---
 [Oben](#föderation)
-
 
 
 
