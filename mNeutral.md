@@ -31,7 +31,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Schattenschwert
 `2.7m Parstahl`
-- [ ] Unternimm eine Rettungsmission nach Babel
+- [x] Unternimm eine Rettungsmission nach Babel
+- [ ] Finde die fliehenden Angreifer
+- [ ] Besiege die Angreifer (Abfangjäger 5.649.812 Stärke)
 - [ ] bla
 
 ---
@@ -385,9 +387,9 @@ Selbe Missionen gibt es bei:
 
 ### _**(Krah’Hor - Krah'Tok)**_
 
-#### Je mehr sich die DInge verändern
+#### Je mehr sich die Dinge verändern
+> > Föderation ausgewählt. Deswegen sind "Dem Imperium dienen" oder "Ehre und Blut" nicht mehr verfügbar.
 - [erfordert: Ehre und Blut](#ehre-und-blut)
-- [ ] bla
 
 ---
 
@@ -496,9 +498,8 @@ Selbe Missionen gibt es bei:
 ### _**(Kaikara - Kaikara Prime)**_
 
 #### Treuepflichten
+> Föderation ausgewählt. Deswegen sind "Dem Imperium dienen" oder "Ehre und Blut" nicht mehr verfügbar.
 - [erfordert: Dem Imperium dienen](#dem-imperium-dienen)
-- [ ] bla
-
 
 
 ### _**(Lorillia - Sternenbasis 82)**_
@@ -636,6 +637,62 @@ Selbe Missionen gibt es bei:
 - [x] Besiege den General der Sternenflotte
 - [x] Besiege den romulanischen General
 - [x] Kehre zu deiner Station zurück
+
+#### Frieden in unserer Zeit
+> Föderation ausgewählt. Deswegen sind "Dem Imperium dienen" oder "Ehre und Blut" nicht mehr verfügbar.
+`Cred 5, F50+, K34-, R8-`
+- [erfordert: Neue Lebensformen suchen](#neue-lebensformen-suchen)
+- [x] Triff dich mit der Sternenflotte auf Lorillia
+
+#### Reisen
+`6 ungewöhnliches raffiniertes Gas 2*, 3200 Dilithium, Cred 25, F250+, K171-, R38-`
+- [erfordert: Frieden in unserer Zeit](#frieden-in-unserer-zeit)
+- [x] Untersuche die Zarri-Goma-Kolonie
+- [x] Untersuche Aussenposten 3
+- [x] Gib 6000 Tritanium um die Verteidigungsanlage zu reparieren
+- [x] Folge der Warp Spur nach Bos Vehna
+- [x] Besiege den nausikaanischen Gangster
+
+#### Abstammung
+`7000 Tritanium, 18x 5 min Reparatur, Cred 25, F250+, K171-, R38-`
+- [erfordert: Reisen](#reisen)
+- [x] Triff die Mayflower in Vulkan
+- [x] Untersuche den Gaszwerk in Kepler-018
+- [x] Besiege den Corvallener-Piraten
+- [x] Scanne das Labor auf Wonax
+- [x] Bring die Daten zu deiner Station zurück
+
+#### Krankheitserreger
+`75 Premium Rekruten, 43k Offizier-EP, Cred 25, F250+, K171-, R38-`
+- [erfordert: Abstammung](#abstammung)
+- [x] Untersuche Zarri Goma
+- [x] Besiege den Gorn Marauder
+- [x] Besiege den Gorn Captain
+- [x] Bring Verwundete zur Sternenbasis 82
+
+#### Verletzlichkeit
+`12 ungewöhnliches raffiniertes Gas 2*, 1700 gewöhnliches raffiniertes Gas 2*, Cred 35, F400+, K288-, R64-`
+- [erfordert: Krankheitserreger](#krankheitserreger)
+- [x] Teste das Gas in einer sauerstoffarmen Umgebung in Araiza
+- [x] Teste das Gas in einer abgelegenen Region von Niwukin
+- [x] Gib 2000 Dilithium auf dem Planeten frei.
+- [x] Bring die Probe zur Sternenbasis 82 zurück.
+
+#### Bestreitbarkeit 
+`60k Parstahl, 10 1 Std Beschleunigen, Cred 35, F400+, K288-, R64-`
+- [erfordert: Verletzlichkeit](#verletzlichkeit)
+- [x] Besiege den nausikaanischen Raider
+- [x] Spüre den verbleibenden Raider auf
+- [x] Besiege den Raider Captain
+
+#### Rechenschaftspflicht 
+`17k Tritanium, 50 Abfangjägerteile 3*, Cred 50, FF500+, K378-, R84-`
+- [erfordert: Bestreitbarkeit](#bestreitbarkeit)
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
 
 
 
