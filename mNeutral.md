@@ -688,6 +688,50 @@ Selbe Missionen gibt es bei:
 #### Rechenschaftspflicht 
 `17k Tritanium, 50 Abfangjägerteile 3*, Cred 50, FF500+, K378-, R84-`
 - [erfordert: Bestreitbarkeit](#bestreitbarkeit)
+- [x] Verfolge den Kriegsherrn nach Dividul
+- [x] Folge dem Signal nach V'varia
+- [x] Besiege den SUlban Marauder
+- [x] Vernichte den Kriegsherrn
+- [x] Bring den Kriegsherrn zur Sternenbasis 82 
+
+#### Schatten & Überlegungen 
+`6 ungewöhnliches raffiniertes Gas 3*, 200 gewöhnliches raffiniertes Gas 3*, Cred 50, F500+, K378-, R84-`
+- [erfordert: Rechenschaftspflicht](#rechenschaftspflicht)
+- [x] Nimm eine zweite Probe Gas
+- [x] Triff dich mit der Chemie Expertin in Priya
+- [x] Setze 2500 Dilithium für das Gas frei
+- [x] Kehre zur Sternenbasis 82 zurück
+
+#### Regungen des Lebens
+`250 Ultra Rekruten, 101k Offizier-EP, Cred 50, F500+, K378-, R84-`
+- [erfordert: Schatten & Überlegungen ](#schatten-&-überlegungen )
+- [x] Triff Carol Marcus in Lorillia
+- [x] Untersuche Marcus Koordinaten
+- [x] Nimm Messungen auf Bos Vehna vor
+- [x] Setze 4000 Dilithium frei um den Wirbel aufzulösen
+- [x] Bring die Fernmessung zu deiner Station zurück
+
+#### Ein geschenkter Gaul
+`4x Mayflower BP, 3600 Dilithium, Cred 60, F600+, K475-, R106-`
+- [erfordert: Regungen des Lebens](#regungen-des-lebens)
+- [x] Triff die USS Mayflower in Eisenhorn
+- [x] Reise mit der Mayflower nach Tellun
+- [x] Reise mit der Mayflowernach nach Vulkan
+- [x] Reise mit der Mayflowernach nach Orion
+- [x] Besiege den Orion Marauder
+
+#### Gier erzeugt Gier
+`?, 250 FÖD Rekruten, 75x Premium Rekruten, Cred 60, F600+, K475-, R106-`
+- [erfordert: Ein geschenkter Gaul](#ein-geschenkter-gaul)
+- [ ] Triff dich mit dem Orion.Unterboss in Kepler-018
+- [ ] Besiege den Orion Vollstrecker
+- [ ] Schalte das Schiff des Unterbosses aus
+
+#### Wer Geheimnisse hat 
+`100 Abfangjägerteile, 500 gewöhnlich raffiniertes Krisatall 3*, Cred 80, F800+, K662-, R147-`
+- [erfordert: Gier erzeugt Gier](#gier-erzeugt-gier)
+- [ ] bla
+- [ ] bla
 - [ ] bla
 - [ ] bla
 - [ ] bla
