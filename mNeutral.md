@@ -537,6 +537,7 @@ Selbe Missionen gibt es bei:
 ## Level 17 Systeme
 
 ### _**(Labac - Halla)**_
+> Mayflower Missionen
 
 #### Sie kam aus dem Weltraum
 > wurde 2019/12/16 mit Deep Space Update hinzugefügt
@@ -728,15 +729,96 @@ Selbe Missionen gibt es bei:
 - [ ] Schalte das Schiff des Unterbosses aus
 
 #### Wer Geheimnisse hat 
-`100 Abfangjägerteile, 500 gewöhnlich raffiniertes Krisatall 3*, Cred 80, F800+, K662-, R147-`
+`100 Abfangjägerteile, 500 gewöhnlich raffiniertes Gas 3*, Cred 80, F800+, K662-, R147-`
 - [erfordert: Gier erzeugt Gier](#gier-erzeugt-gier)
-- [ ] bla
-- [ ] bla
-- [ ] bla
-- [ ] bla
-- [ ] bla
-- [ ] bla
-- [ ] bla
+- [x] Verfolge die klingonischen Jäger von Ajilon aus
+- [x] Zerstöre den klingonischen Jäger (37729)
+- [x] Folge der Bortas nach Bos Vehna
+- [x] Lösche die Daten des klingonischen Schiffs (Kampfschiff 43849 Stärke)
+- [x] Kehre zu deiner Station zurück
+
+#### Ungestört
+`42k Tritanium, 25x 1 Std Beschleunigen, Cred 80, F800+, K662-, R147-`
+- [erfordert: Wer Geheimnisse hat](#wer-geheimnisse-hat)
+- [x] Untersuche die Störung bei Bos Vehna
+- [x] Zerstöre das klingonische Schiff (Abfangjäger 55452 Stärke)
+- [x] Zerstöre das romulanische Schiff (Kampfschiff 43849 Stärke)
+- [x] Bring Marcus an einen sicheren Ort
+- [x] Bring Marcus zu deiner Station zurück
+
+#### Eine glücklichere Zukunft
+`325k Parstahl, 14x 15 min Reparatur, Cred 100, F1000+, K864-, R192-`
+- [erfordert: Ungestört](#ungestört)
+- [x] Triff dich mit der USS Mayflower in Lorillia
+- [x] Fliege nach Draken
+- [x] Fliege nach Khitomer
+- [x] Besiege den klingonischen Jäger (55452 Stärke)
+- [x] Kehre zwecks reparaturen zu deiner Station zurück
+
+#### Erholung
+`4x Mayflower100, 12 ungewöhnlich raffiniertes Gas 3*, Cred 100, F1000+, K864-, R192-`
+- [erfordert: Eine glücklichere Zukunft](#eine-glücklichere-zukunft)
+- [x] Entnimm Gasproben aus der Sternenbasis 82
+- [x] Bring die Proben nach Vulkan
+- [x] Spende 5000 Dilithium um den Warpkern zu stabilisieren
+- [x] Sammle verwundete Besatzungsmitglieder vom Testgelände auf
+- [x] Bring die Verwundeten zur Sternenbasis 82 
+
+#### Silbermünzen
+`?`
+`180 Abfangjägerteile, 75 Premium Rekruten, Cred 100, F1000+, K864-, R192-`
+- [erfordert: Eine glücklichere Zukunft](#eine-glücklichere-zukunft)
+- [x] Untersuche das Signal in Nabok
+- [x] Bring den Agenten nach Bos Vehna
+- [x] Besiege die Tal-Shiar Agentin 
+- [x] Kehre zur Sternenbasis 82 zurück
+
+#### Brennende Flügel
+`21k Dilithium, Cred 130, F2000+, K1800-, R400-`
+- [erfordert: Silbermünzen](#silbermünzen)
+- [x] Finde das romulanische Labor in Davidul
+- [x] Zerstöre die romulanische Augur (Kampfschiff 39484 Stärke)
+- [x] Finde den Dilithium Experten in Veyil
+- [x] Transportiere die Experten zur Sternenbasis 82
+
+#### Feuerbekämpfung
+`100k Tritanium, 170 Kampfschiffteile, Cred 130, F2000+, K1800-, R400-`
+- [erfordert: Brennende Flügel](#brennende-flügel)
+- [x] Verfolge das SIgnal nach Koltiska
+- [x] Meistere den Suliban Hinterhalt (Forschungsschiff 54559 Stärke)
+- [x] Kehre nach Lorillia zurück 
+- [x] Schlage den Suliban Angriff zurück (Abfangjäger 75312 Stärke)
+- [x] Triff dich auf der Mayflower bei Sternenbasis 82
+- [x] Bring verwundete Wissenschaftler zu deiner Sation zurück
+
+#### Ein radikaler Schritt 
+`?`
+`19 ungewöhnlich raffiniertes Gas 3*, 1.3m Parstahl, Cred 130, F2000+, K1800-, R400-`
+- [erfordert: Feuerbekämpfung](#feuerbekämpfung)
+- [x] Erstatte in Angosia Bericht
+- [x] Bereite Sternenbasis 82 auf den ANgriff vor
+- [x] Repariere die Verteidigungsanlagen der Sternenbasis 82 mit 8000 Tritanium
+- [x] Vernichte den nausikaanischen Raider (Forschungsschiff 44329 Stärke)
+- [x] Besiege den nausikaanischen Kriegsherrn (Kampfschiff 73260 Stärke)
+
+#### Überall
+`?`
+`1 selten raffiniertes Gas 3*, 18 ungewöhnlich raffiniertes Gas 3*, Cred 150, F3100+, K2902-, R645-`
+- [erfordert: Ein radikaler Schritt](#ein-radikaler-schritt)
+- [x] Triff dich mit einem Lieferanten in V'Varia
+- [x] Bezahle 16000 Dilithium für die Lieferung
+- [x] Triff den Liferanten diskret in Enthra
+- [x] Zerstöre den klingonischen Jäger (Abfangjäger 104274 Stärke)
+- [x] Bring die gestohlenen Daten zu Sternenbasis 82 zurück
+
+#### Reparationen
+`6 Mayflower, Cred 150, F3100+, K2902-, R645-`
+- [erfordert: Überall](#überall)
+- [x] Finde das romulanische Labor in Hubr
+- [x] Zerstöre die romulanische Augur (Kampfschiff 53959 Stärke)
+- [x] Zerstöre die romulanische Legionnaire (Kampfschiff 101520 Stärke)
+- [x] Zerstöre das Labor auf Nojusor
+- [x] Kehre zur Sternenbasis 82 zurück
 
 
 
