@@ -100,7 +100,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Schatten Arena
 `774k Tritanium, 150x Abfangjägerteile, 350 Cred, K42000+, R45600-, F17100-`
 - [x] Transportiere Nalrex an den Ort seines Todeskampfes
-- [ ] Deaktiviere den Abfangjäger der Föderation (Abfangjäger 652792 Stärke)
+- [x] Deaktiviere den Abfangjäger der Föderation (Abfangjäger 652792 Stärke)
 
 #### Meridor und Gagh
 `450x Premium Rkruten, 100k Offizier-EP, 200 Cred, K8000+, R7168-, F2688-`

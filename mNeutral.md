@@ -76,9 +76,12 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ### _**(Xerxes - Sternenbasis 80)**_
 
-#### An Rand
+#### Am Rand
 `43k Tritanium, 9k Dilithium`
-- [ ] Hilf Doktor Mullen im Suliban System
+- [x] Hilf Doktor Mullen im Suliban System (Warpreichweite 40)
+- [x] Birg das Shuttle auf Brennis
+- [ ] Gib dem Doktor 10m Parstahl damit er seinen Warpkern mit einem Schild versehen kann
+- [ ] bla
 
 ---
 [Oben](#neutral)

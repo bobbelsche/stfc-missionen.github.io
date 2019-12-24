@@ -175,9 +175,13 @@
 
 ## Station Missionen
 
+#### Kampftraining 29 Veteran
+`820k Dilithium, 16x 3 Stunde Beschleunigen, 650x Ultra Rekruten, 8x Vixis`
+- [ ] Besiege den feindlichen Captain (Forschungsschiff 200351 Stärke)
+
 #### Verbessere die OPS auf Level 29
 `1.7m Tritanium, 3x 15 min Reparatur`
-- [ ] Verbessere die OPS auf Level 29
+- [x] Verbessere die OPS auf Level 29
 
 #### Verbessere die Schiffswerft auf Level 28
 `600k Tritanium`

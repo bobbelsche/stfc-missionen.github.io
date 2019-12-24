@@ -74,11 +74,11 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Unterstützung des Reiches
 `3x seltenes raffiniertes Erz 3*, 27x ungewöhnliches raffiniertes Erz 3*, Credits 230, R10000+, F6960-, K4640-`
-- [ ] Triff eine Vereinbarung mit dem Tal Shiar
-- [ ] bla
-- [ ] bla
-- [ ] bla
-- [ ] bla
+- [x] Triff eine Vereinbarung mit dem Tal Shiar
+- [x] Verfolge die feindlichen Schiffe im Yadella-System
+- [x] Besiege 8 Feinde auf Level 30 oder höher
+- [x] Kehre zum Agenten Menra auf Terixos zurück
+- [x] Gib dem Tal Shiar eine Anzahlung von 10m Parstahl
 
 #### Uneinigkeit
 `347k DIlithium, 1x Schlüssel, Credits 300, R23000+, F17600-, K11700-`
