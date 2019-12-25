@@ -138,7 +138,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Technologische Wunder
 `1m Parstahl`
-- [ ] Baue 250000 Dilithium ab
+- [x] Baue 250000 Dilithium ab
+- [x] Spemde 250000 Dilithium an das Wissenschaftlerteam der Föderation
 
 
 ### _**(Thama - Mimazub)**_
@@ -217,7 +218,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### Gräben
 `25x ungewöhnliches raffiniertes Gas G3, 1000 Rekruten, 150 Cred, F3100+, K2902-, R645-`
 - [erfordert: Die Heldenmauer](#die-heldenmauer)
-- [ ] Triff dich mit dem Admiral im Azati System
+- [x] Triff dich mit dem Admiral im Azati System
+- [x] Liefere der Sternenflotte 50k Einheiten Roherz Güte 3 um die Vorräte ihrer Flotte aufzufüllen
+- [ ] bla
 
 
 #### Gewaltige Bohrung
