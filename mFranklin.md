@@ -314,7 +314,7 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 ---
 
 #### Waffenstillstand 
-`100k Frequenzmodule 2x Seltene raffinierte Kristall, Erz, gas`
+`100k Frequenzmodule 2x Seltene raffinierte Kristall, Erz, Gas`
 - [Erfordert: Pestilence](mFranklin.md#pestilence)
 - [x] Hol Scotty in Lorillia ab
 - [x] Finde den Schwarm in Redmond
