@@ -30,7 +30,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ## Level 32 Systeme
 
-### _**(Unroth -  Lameo)**_
+### _**(Unroth - Lameo)**_
 
 #### bla
 `Credits 250, 101k Dilithium, R12000+, F8640-, K6720-`
@@ -39,6 +39,13 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### bla
 `Credits 250, 101k Dilithium, R12000+, F8640-, K6720-`
 - [ ] bla
+
+### _**(Nelvana - Nelvana II)**_
+
+#### Kapitalrendite
+`50 ungewöhnliches raffiniertes Erz G3, 1x Energieverteiler, Credits 300, R23000+, F176000-, K11700-`
+- [ ] bla
+
 
 
 ---
