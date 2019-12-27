@@ -113,7 +113,11 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Wachturm
 `2.1M Tritanium, 434k Dilithium, 350 Cred, F42000+, K51400-, R11400-`
-- [ ] Fliege ins Archer System (Warpreichweite 45)
+- [x] Fliege ins Archer System (Warpreichweite 45)
+- [x] Zerstöre das Elite Forschungsschiff der Suliban (Forschungsschiff 418676 Stärke)
+- [x] Schalte den Suliban Zerstörer aus (Abfangjäger 431670 Stärke)
+- [x] Besiege das führende Kampfschiff der Suliban (Kampfschiff 415226 Stärke)
+- [x] Kehre nach Andoria zurück
 
 ---
 [Oben](#föderation)
