@@ -1,8 +1,7 @@
 # Station
 
 1. [Mission Strang 1](mStation.md#mission-strang-1)
-2. [Mission Strang 2](mStation.md#mission-strang-2)
-3. [Station Missionen](mStation.md#station-missionen)
+2. [Station Missionen](mStation.md#station-missionen)
 
 [Inhalt](README.md#inhalt)
 
@@ -113,51 +112,6 @@
 - [x] Reise nach Rura Penthe und warne die Klingonen
 - [x] Besiege das romulanische Kommandoschiff (Kampfschiff 153150 Stärke)
 
-#### Genau Nördlich
-`5m Parstahl`
-- [ ] Verbessere die OPS auf Level 30
-
-
----
-[Oben](#station)
-
-
-
-## Mission Strang 2
-
-#### Die geheime Cabal
-`100k Parstahl, 200x Premium Rekruten, 1x Versetzungstoken`
-- [x] Finde den unabhängigen Captain in Gradientes
-- [x] Zerstöre Captain Estillas Schiff (Forschungsschiff 102470 Stärke)
-- [x] Eskortiere die Suliban-Nomaden nach Galorndon Core
-
-#### Baubefehle
-`10k Schiffs-EP`
-- [x] Untersuche den Schaden auf Laerra 
-- [x] Spende 5m Parstahl
-
-#### Verlorene Welten von Raum und Zeit
-`2m Parstahl`
-- [x] Verbessere die Ops auf level 28
-
-#### Flottenüberlegenheit
-`1m Parstahl`
-- [x] Finde das Zielsystem des Orion Sklavenhändlers
-- [x] Besiege 5 Feinde auf lvl 28 oder höher
-
-#### Geister des Weltraums
-`250k Parstahl`
-- [x] versuche Toryn im Lipig System zu finden
-- [x] Folge Toryns Spur nach Orion
-- [x] Besiege das Orion Gefängnisschiff um Toryn zu retten (Abfangjäger 133020 Stärke)
-- [x] Bringe Toryn nach Deneva
-
-#### Es brennt wie Eis
-`250k Parstahl, 50x ungewöhnliches raffiniertes Kristall`
-- [x] Triff Agent Menra auf Diseh
-- [x] Reise nach Rura Penthe und warne die Klingonen
-- [x] Besiege das romulanische Kommandoschiff (Kampfschiff 153150 Stärke)
-
 #### Auszeichnung für Tapferkeit
 `2.5m Parstahl 800 Ultra Rekruten, 1x Versetzungstoken`
 - [x] Erwirb einen Belobigungsrang II
@@ -165,15 +119,29 @@
 
 #### Genau Nördlich
 `5m Parstahl`
-- [ ] Verbessere die OPS auf Level 30
+- [x] Verbessere die OPS auf Level 30
+
+#### Dein Ruf eilt dir vorraus
+`5m Parstahl, 800 Ultra Rekruten`
+- [ ] Verdiene deinen Belobigungsrang III
 
 ---
 [Oben](#station)
 
 
-
-
 ## Station Missionen
+
+#### Verbessere die F&E Abteilung auf Level 30
+`700k Tritanium, 1x 1 Std Reparatur `
+- [ ] Verbessere die F&E Abteilung auf Level 30
+
+#### Verbessere das Tritanium Lager auf Level 28
+`200k Tritanium, 3x 15 Minuten Reparatur `
+- [x] Verbessere das Tritanium Lager auf Level 28
+
+#### Verbessere die OPS auf Level 30
+`2.5m Tritanium, 1x 1 std Reparatur`
+- [x] Verbessere die OPS auf Level 30
 
 #### Kampftraining 29 Veteran
 `820k Dilithium, 16x 3 Stunde Beschleunigen, 650x Ultra Rekruten, 8x Vixis`
