@@ -25,7 +25,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [ ] links  `422k Dilithium, 280 Forschungsschiffteile, Credits 400, R60000+, F51800-, R34500-`
 - [x] rechts `14.3m Parstahl, 17x 3Std Beschleunigen, Credits 400, R60000+, F51800-, R34500-`
 - [ ] Besiege das Schiff der Föderation (Forschungsschiff 910378 Stärke)
-- [ ] bla
+>  OK Kirk Pille Spock - Gorkon Nero Uhura      (606329, 210, 270, 240)
+- [x] Kehre mit Elianas Versicherungen zurück.
 
 
 ## Level 32 Systeme
