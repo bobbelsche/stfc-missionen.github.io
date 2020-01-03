@@ -45,6 +45,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Kapitalrendite
 `50 ungewöhnliches raffiniertes Erz G3, 1x Energieverteiler, Credits 300, R23000+, F176000-, K11700-`
+- [ ] Fliege nach Tenebra  (Warpreichweite 54)
 - [ ] bla
 
 

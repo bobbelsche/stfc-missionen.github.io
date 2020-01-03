@@ -127,8 +127,16 @@
 
 #### Triangulation
 `?`
-- [ ] Besuche den Planeten Dhi'Ban
-- [ ] bla
+- [x] Besuche den Planeten Dhi'Ban
+- [x] links, Bitte die Föderation um Hilfe `2.5m Parstahl, 25x Gas `
+- [ ] mitte, Bitte die Romulaner um Hilfe `2.5m Parstahl, 25x Erz `
+- [ ] rechts, Bitte die Klingonen um Hilfe `2.5m Parstahl, 25x Kristall `
+- [x] Begieb dich nach Andoria Prime
+- [x] Bring Scotty auf deine Station
+
+#### Ein langer dunker Weg durch die Leere
+`2.5m Parstahl, 250x Forschungsschiffteile`
+- [ ] Besuche den Monolithen
 - [ ] bla
 
 
