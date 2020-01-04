@@ -103,10 +103,14 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [ ] bla
 - [ ] bla
 
-#### Unaufhörliches Waxhstum
+#### Unaufhörliches Wachstum
 `?`
-- [ ] bla
-- [ ] bla
+- [x] Triff den klingonischen Frachttransporter
+- [x] Bringe die Tribble Bevölkerung ins Tejat System
+- [ ] links,  `1m Dilithium, 1x Energie-Verteiler, Cred 500, K100000+, R118400-, F44400-`
+- [ ] rechts, 
+- [x] Was wollen wir mit den Tribbles machen?
+- [x] Sende die Tribble Fracht nach Tilit
 
 
 ---
