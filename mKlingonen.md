@@ -5,6 +5,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 1. [Level 60 Systeme](mKlingonen.md#level-60-systeme)
 1. [Level 42 Systeme](mKlingonen.md#level-42-systeme)
 1. [Level 40 Systeme](mKlingonen.md#level-40-systeme)
+3. [Level 36 Systeme](mKlingonen.md#level-36-systeme)
 3. [Level 34 Systeme](mKlingonen.md#level-34-systeme)
 4. [Level 32 Systeme](mKlingonen.md#level-32-systeme)
 4. [Level 30 Systeme](mKlingonen.md#level-30-systeme)
@@ -87,6 +88,26 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [ ] rechts, `2.4m Tritanium, 270x Abfangjäger Teile, 500 Cred, K100000+, R121600-, F22800-`
 - [x] Spende 50000 Dilithium
 - [x] Bring Lezrik wohlbehalten nach Khitomer
+
+---
+[Oben](#klingonen)
+
+
+
+## Level 36 Systeme
+
+### _**(Jiwu'puH - Ligotia)**_
+
+#### Orakel des Endes
+`3.6m Tritanium, 1x Energie-Verteiler, 400 Cred, K60000+, R69100-, F25900-`
+- [ ] bla
+- [ ] bla
+
+#### Unaufhörliches Waxhstum
+`?`
+- [ ] bla
+- [ ] bla
+
 
 ---
 [Oben](#klingonen)

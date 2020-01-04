@@ -5,6 +5,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 1. [Level 60 Systeme](mFöderation.md#level-60-systeme)
 1. [Level 40 Systeme](mFöderation.md#level-40-systeme)
 1. [Level 39 Systeme](mFöderation.md#level-39-systeme)
+1. [Level 38 Systeme](mFöderation.md#level-38-systeme)
 1. [Level 36 Systeme](mFöderation.md#level-36-systeme)
 3. [Level 34 Systeme](mFöderation.md#level-34-systeme)
 4. [Level 30 Systeme](mFöderation.md#level-30-systeme)
@@ -71,6 +72,20 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ---
 [Oben](#föderation)
 
+## Level 38 Systeme
+
+### _**(Terra Nova - Terra Nova)**_
+
+#### Abtrünig geworden
+`?`
+- [ ] Finde die vermutlich abtrünnige Agentin von Sektion 31 (Warpreichweite 53)
+- [ ] bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
+
+---
+[Oben](#föderation)
 
 
 ## Level 36 Systeme
