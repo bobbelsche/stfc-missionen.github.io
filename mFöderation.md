@@ -84,10 +84,27 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [ ] bla
 - [ ] bla
 
-
 #### Versagen an der Hauptkampflinie
 `15x seltenes raffiniertes Gas 3*, 1x Energie-Verteiler, Cred 400, F60000+, K77700-, R17200-`
 - [ ] bla
+
+
+### _**(Axanar - Weyhtan)**_
+
+#### Selbstzerstörung
+`10.7m Parstahl, 10x ungewöhnliches raffiniertes Gas 3*,  Cred 174, R2016-`
+- [ ] Suche im Riktor System nach Überlebenden (Warpreichweite 48)
+- [ ] bla
+- [ ] bla
+- [ ] bla
+
+#### Verlorenes Kommando
+`?`
+- [x] Besuche die Werft, in der sich Talonas altes Schiff befindet
+- [x] Sprich mit General Ontella
+- [ ] links,  `800x Ultra Rekruten, 1x Energie Verteiler, Cred 200, F30000+, K38800-, R8640-`
+- [x] rechts, `6x ungewöhnliches raffiniertes Gas 3*, 1x Energie Verteiler, Cred 200, F30000+, K38800-, R8640-`
+- [x] Sag Talona, dass der General über seine Bitte nachdenkt
 
 
 ---

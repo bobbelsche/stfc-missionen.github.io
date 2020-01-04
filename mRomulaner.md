@@ -40,10 +40,12 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ### Feinde der Nomaden
 `?`
-- [ ] Finde Kelia in der sicheren Zone auf Lameo
-- [ ] bla
-- [ ] bla
-- [ ] bla
+- [x] Finde Kelia in der sicheren Zone auf Lameo
+- [x] Konfrontiere Sovren auf Sutidey
+- [x] links, `8.4m Parstahl, 16x 3 Std Beschleunigen, Cred 350, R42000+, F34200-, K22800-`
+- [ ] rechts, `1.2m Tritanium, 35x 15 min Reparatur, Cred 350, R42000+, F34200-, K22800-`
+- [x] Exekutiere den veräterischen Kabalisten (Abfangjäger 431670 Stärke)
+- [x] Bring die Waffe des Verräters zu Kelia
 
 ---
 [Oben](#romulaner)
