@@ -185,15 +185,13 @@ Kümmere dich um den Föderationsagenten
 
 #### Botany Bay Teil 7
 `18x Joaquin, 5x 8 Stunden Beschleunigen`
-- [erfordert: Botany Bay Teil 6](mBotanyBay.md#botany-bay-teil-6)
-- [ ] Sammle 30 Einheiten Seltenes Plutonium _(kann man ab Level 28 im Fraktions Shop kaufen)_
+- [x] Sammle 30 Einheiten Seltenes Plutonium _(kann man ab Level 30 im Fraktions Shop kaufen)_
 
 
 #### Auge des Sturms
 `800x Utra Rekruten, 450 Premium Rekruten, 41k Dilithium, A1250+`
 - [Erfordert: Schwindendes Licht](mBotanyBay.md#schwindendes-licht)
 - [x] Sammle 700 Augment Credits
-
 
 #### Die kommende Dunkelheit
 `?`
@@ -209,6 +207,11 @@ Wie wollen wir vorgehen?
 - [ ] Rechts, Verrate Kahn und schlag dich auf die Seite der Sternenflotte `1600 Ultra Rekruten, 12x ungewöhnliches (Gas, Erz, Kristall), A2000+`
 - [x] Zerstöre die USS Chennai (Forschungsschiff 200351 Stärke)
 - [x] Ergreife die Flucht, bevor die USS Enterprise ankommt.
+
+#### Botany Bay Teil 8
+`22x Joaquin, 6x 8 Stunden Beschleunigen`
+- [ ] Sammle 150 Einheiten Seltenes Plutonium _(kann man ab Level 30 im Fraktions Shop kaufen)_
+
 
 ---
 [Oben](#botany-bay)
