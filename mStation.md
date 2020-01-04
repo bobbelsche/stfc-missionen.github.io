@@ -136,8 +136,12 @@
 
 #### Ein langer dunker Weg durch die Leere
 `2.5m Parstahl, 250x Forschungsschiffteile`
-- [ ] Besuche den Monolithen
-- [ ] bla
+- [x] Besuche den Monolithen
+- [x] Bringe Deine Erkenntnisse zur Station zurück
+
+#### Doppelhelix
+`7.5m Parstahl`
+- [ ] Verbessere die OPS auf Level 32
 
 
 ---
