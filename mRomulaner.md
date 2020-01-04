@@ -3,6 +3,7 @@
 Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 1. [Level 36 Systeme](mRomulaner.md#level-36-systeme)
+1. [Level 34 Systeme](mRomulaner.md#level-34-systeme)
 1. [Level 32 Systeme](mRomulaner.md#level-32-systeme)
 1. [Level 30 Systeme](mRomulaner.md#level-30-systeme)
 1. [Level 29 Systeme](mRomulaner.md#level-29-systeme)
@@ -28,6 +29,26 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 >  OK Kirk Pille Spock - Gorkon Nero Uhura      (606329, 210, 270, 240)
 - [x] Kehre mit Elianas Versicherungen zurück.
 
+---
+[Oben](#romulaner)
+
+
+
+## Level 34 Systeme
+
+### _**(Vendor -  Volos)**_
+
+### Feinde der Nomaden
+`?`
+- [ ] Finde Kelia in der sicheren Zone auf Lameo
+- [ ] bla
+- [ ] bla
+- [ ] bla
+
+---
+[Oben](#romulaner)
+
+
 
 ## Level 32 Systeme
 
@@ -47,7 +68,6 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `50 ungewöhnliches raffiniertes Erz G3, 1x Energieverteiler, Credits 300, R23000+, F176000-, K11700-`
 - [ ] Fliege nach Tenebra  (Warpreichweite 54)
 - [ ] bla
-
 
 
 ---
