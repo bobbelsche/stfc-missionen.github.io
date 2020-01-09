@@ -210,7 +210,7 @@ Wie wollen wir vorgehen?
 
 #### Botany Bay Teil 8
 `22x Joaquin, 6x 8 Stunden Beschleunigen`
-- [ ] Sammle 150 Einheiten Seltenes Plutonium _(kann man ab Level 30 im Fraktions Shop kaufen)_
+- [x] Sammle 150 Einheiten Seltenes Plutonium _(kann man ab Level 30 im Fraktions Shop kaufen)_
 
 
 ---

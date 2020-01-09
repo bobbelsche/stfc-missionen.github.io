@@ -383,7 +383,13 @@ _mit Kumari 263850 Stärke (1. Kirk Uhura Spock M'Ral Gorkon Klaa) ok aber gesto
 
 #### USS Franklin Part 8
 `275x Schwarm Biominerale, 1x Warp-Spule der Franklin, 70k Dilithium`
-- [ ] Verbessere die Schiffswerft auf Level 30
+- [x] Verbessere die Schiffswerft auf Level 30
+
+---
+
+#### USS Franklin Part 9
+`300x Schwarm Biominerale, 1x Warp-Kern der Franklin, 132k Dilithium`
+- [ ] Verbessere das Antriebslabor auf Level 32
 
 ---
 [Oben](#franklin-und-schwarm)
