@@ -152,7 +152,7 @@
 
 #### Verbessere die F&E Abteilung auf Level 30
 `700k Tritanium, 1x 1 Std Reparatur `
-- [ ] Verbessere die F&E Abteilung auf Level 30
+- [x] Verbessere die F&E Abteilung auf Level 30
 
 #### Verbessere das Tritanium Lager auf Level 28
 `200k Tritanium, 3x 15 Minuten Reparatur `
