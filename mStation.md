@@ -150,6 +150,18 @@
 
 ## Station Missionen
 
+#### Kampftraining 30 Veteran
+`1.2m Dilithium, 10x 5 Stunde Beschleunigen, 800x Ultra Rekruten, 3x Kras`
+- [ ] Besiege den feindlichen Captain (Kampfschiff 293839 Stärke)
+
+#### Kampftraining 30 Soldat
+`720k Dilithium, 160k Offizier-EP, 500x Premium Rekruten`
+- [x] Besiege 10 Feinde auf Level 30
+
+#### Kampftraining 30 Rekrut
+`480k Dilithium, 220 Standart Rekruten`
+- [x] Besiege 3 Feinde auf Level 30
+
 #### Verbessere die F&E Abteilung auf Level 30
 `700k Tritanium, 1x 1 Std Reparatur `
 - [x] Verbessere die F&E Abteilung auf Level 30
