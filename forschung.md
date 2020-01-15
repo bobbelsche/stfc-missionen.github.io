@@ -3,23 +3,26 @@
 ## combat 
 
 ```diff
-01  !r Interceptor Weaponry 8         2000	75 K3u
-02  !r Battleship Weaponry 8          2000	75 E3u
--03  !r Interceptor Hull Boost 7      9000
--04  !r Interceptor Tactics 7          10000
--05 !r Interceptor Shields 7         7500
--06  !r Interceptor Armor Piercing 6  1750
--07  !r Critical Interceptor Hit 6    2500
-08  !r Battleship Penetration 2       1200	23 E3u
-09  !r Battleship Shields 3           1250	20 E3u
-10  !r Battleship Firepower 2         1750	23 E3u
-11  !r Battleship Hull Boost 3        4500	20 E3u
--12  -!r Battleship Tactics 5          7500	
--13  -!r Explorer Hull Boost 6         2000
--14  -!r Explorer Shields 6            1750	30 G3u
--15  -!r Explorer Tactics 7            8500	
--16  -!r Explorer Targeting Array 7    7000	
--17  -!r Explorer Firepower 6          3000	
+a  !r Interceptor Weaponry 8         2000	75 K3u
+b  !r Battleship Weaponry 8          2000	75 E3u
+-c  !r Interceptor Hull Boost 7      9000           < e7
+-d  !r Interceptor Tactics 7          10000
+-e  !r Interceptor Shields 7         7500
+-f  !r Interceptor Armor Piercing 6  1750           < d6
+-g  !r Critical Interceptor Hit 6    2500           < f6
+
+h  -!r Explorer Hull Boost 6         2000           < i6, p3
+-i  -!r Explorer Shields 6            1750	30 G3u  < n3, 
+-j  -!r Explorer Tactics 7            8500          < d6, Antriebslabor 33
+-k  -!r Explorer Targeting Array 7    7000          < j7
+-l  -!r Explorer Firepower 6          3000          < o3
+
+m  !r Battleship Penetration 2       1200	23 E3u
+n  !r Battleship Shields 3           1250	20 E3u
+o  !r Battleship Firepower 2         1750	23 E3u
+p  !r Battleship Hull Boost 3        4500	20 E3u
+-q  -!r Battleship Tactics 5          7500	
+
 ```
 
 ## Station
