@@ -7,7 +7,7 @@
 !r Battleship Weaponry 8			2000	75 E3u
 -!r Interceptor Hull Boost 7			9000
 !r Interceptor Tactics 6			2000
--!r Interceptor Shields 7			7500
+-!r Interceptor Shields 7				7500
 -!r Interceptor Armor Piercing 6	1750
 -!r Critical Interceptor Hit 6		2500
 !r Battleship Penetration 2			1200	23 E3u
