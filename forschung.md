@@ -6,7 +6,7 @@
 a  !r Interceptor Weaponry 8         2000	75 K3u
 b  !r Battleship Weaponry 8          2000	75 E3u
 -c  !r Interceptor Hull Boost 7      9000           < e7
--d  !r Interceptor Tactics 7          10000
+-d  !r Interceptor Tactics 7         10000
 -e  !r Interceptor Shields 7         7500
 -f  !r Interceptor Armor Piercing 6  1750           < d6
 -g  !r Critical Interceptor Hit 6    2500           < f6
