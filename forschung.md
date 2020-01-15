@@ -5,7 +5,7 @@
 ```diff
 !r Interceptor Weaponry 8		    2000	75 K3u
 !r Battleship Weaponry 8		    2000	75 E3u
--!r Interceptor Hull Boost 7    9000
+-!r Interceptor Hull Boost 7      9000
 !r Interceptor Tactics 6		    2000
 -!r Interceptor Shields 7		    7500
 -!r Interceptor Armor Piercing 6    1750
