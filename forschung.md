@@ -22,6 +22,14 @@ n  !r Battleship Shields 3          1250  20  E3u
 o  !r Battleship Firepower 2        1750  23  E3u < m2
 p  !r Battleship Hull Boost 3       4500  20  E3u < n3
 -q  -!r Battleship Tactics 5        7500          < Wissenschaftslabor 31
+
+r  !r Station Piercing 2            1250  
+
+s  !r Romulan Weakpoints 1          19000 75  K3u
+s  !r Klingon Weakpoints 1          19000 75  G3u
+s  !r Romulan Weakpoints 1          19000 75  E3u
+
+
 ```
 
 ## Station
