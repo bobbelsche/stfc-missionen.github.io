@@ -150,9 +150,21 @@
 
 ## Station Missionen
 
+#### Kampftraining 31 Veteran
+`1.8m Dilithium, 12x 5 Stunde Beschleunigen, 850x Ultra Rekruten, 2x Gorkon`
+- [ ] Besiege den feindlichen Captain (Abfangjäger 356340 Stärke)
+
+#### Kampftraining 31 Soldat
+`1.1m Dilithium, 8x Klaa, 525x Premium Rekruten, 175k Offizier-EP`
+- [x] Besiege 10 Feinde auf Level 31
+
+#### Kampftraining 31 Rekrut
+`720k Dilithium, 6x Azebethur, 6x Vemet, 6x Pille`
+- [x] Besiege 3 Feinde auf Level 31
+
 #### Kampftraining 30 Veteran
 `1.2m Dilithium, 10x 5 Stunde Beschleunigen, 800x Ultra Rekruten, 3x Kras`
-- [ ] Besiege den feindlichen Captain (Kampfschiff 293839 Stärke)
+- [x] Besiege den feindlichen Captain (Kampfschiff 293839 Stärke)
 
 #### Kampftraining 30 Soldat
 `720k Dilithium, 160k Offizier-EP, 500x Premium Rekruten`

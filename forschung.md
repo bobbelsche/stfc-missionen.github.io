@@ -4,12 +4,12 @@
 
 ```diff
 a !r Interceptor Weaponry 8        2000  75  K3u
-b !r Battleship Weaponry 8         2000  75  E3u 
+-b 
 -c !r Interceptor Hull Boost 7      9000          < e7
 -d !r Interceptor Tactics 7         10000
 -e !r Interceptor Shields 7         7500
 -f !r Interceptor Armor Piercing 6  1750          < d6
--g !r Critical Interceptor Hit 6    2500          < f6
+-g !r Critical Interceptor Hit 6    10500
 
 -h !r Explorer Hull Boost 6        2000          < i6, p3
 -i !r Explorer Shields 6           1750  30  G3u < n3, 
@@ -37,7 +37,7 @@ s  !r Romulan Weakpoints 1         19000 75  E3u
 !r Tier-Up Boost 2				2000	50 G3u
 !r Station Accuracy 4			1750
 !r Station Shield Piercing 2	1250
-!r Station Armor Piercing 3		3250
+!r Station Armor Piercing 4		1750
 !r Interceptor Focus 3			3500
 !r Explorers Focus 3			3500
 !r Battleships Focus 3			3500
