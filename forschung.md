@@ -7,7 +7,7 @@ a !r Interceptor Weaponry 8        2000  75  K3u
 -b 
 -c !r Interceptor Hull Boost 7      9000          < e7
 -d !r Interceptor Tactics 7         10000
--e !r Interceptor Shields 7         7500
+-e !r Interceptor Shields 7         7500          < i6, Antriebslabor 33
 -f !r Interceptor Armor Piercing 6  1750          < d6
 -g !r Critical Interceptor Hit 6    10500
 
@@ -26,14 +26,14 @@ p !r Battleship Hull Boost 3       4500  20  E3u < n3
 r  !r Station Piercing 2           1250  
 
 s  !r Romulan Weakpoints 1         19000 75  K3u
-s  !r Klingon Weakpoints 1         19000 75  G3u
-s  !r Romulan Weakpoints 1         19000 75  E3u
+-s  !r Klingon Weakpoints 2         2500 90xG3u, 8xG3r
+s  !r Federation Weakpoints 1      19000 75  E3u
 ```
 
 ## Station
 
 ```diff
-!r Dilithium Safeguard 8		2000
+-!r Dilithium Safeguard 8		2000
 !r Tier-Up Boost 2				2000	50 G3u
 !r Station Accuracy 4			1750
 !r Station Shield Piercing 2	1250
