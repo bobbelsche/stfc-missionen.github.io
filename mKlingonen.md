@@ -241,8 +241,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Biogefahr
 `?`
-- [ ] Nimm den gefährlichen Container an Bord (Warpreichweite 48)
-- [ ] bla
+- [x] Nimm den gefährlichen Container an Bord (Warpreichweite 48)
+- [x] links  `70x Kampfschiffteile, 4000x Schiffs-XP, Credit 150, K3100+ R2579- F967-`
+- [ ] rechts `150x Premium Token, Credit 150, K3100+ R2579- F874-`
+- [ ] Lade den Container auf Yisapik ab
 
 ---
 [Oben](#klingonen)
