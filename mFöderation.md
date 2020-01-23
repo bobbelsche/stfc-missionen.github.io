@@ -101,6 +101,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Versagen an der Hauptkampflinie
 `15x seltenes raffiniertes Gas 3*, 1x Energie-Verteiler, Cred 400, F60000+, K77700-, R17200-`
+- [x] Finde den Brennpunkt des Konflikts
+- [x] Bring der Sternenflotzte Neuigkeiten (Warpreichweite 47)
+- [ ] Gib den Andorianern 45m Tritanium zum Wiederaufbau
 - [ ] bla
 
 
@@ -108,9 +111,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Selbstzerstörung
 `10.7m Parstahl, 10x ungewöhnliches raffiniertes Gas 3*,  Cred 174, R2016-`
-- [ ] Suche im Riktor System nach Überlebenden (Warpreichweite 48)
-- [ ] bla
-- [ ] bla
+- [x] Suche im Riktor System nach Überlebenden (Warpreichweite 48)
+- [x] Berge den Transponder
+- [x] Finde die Yridianer die vom Schiff kotaktiert wurden
+- [x] Bestich den Yridianer mit 5m Dilithium
 - [ ] bla
 
 #### Verlorenes Kommando
