@@ -8,6 +8,7 @@ a !r Interceptor Weaponry 8        2000 75*K3u
 -!r Interceptor Hull Boost 7      9000
 -!r Interceptor Tactics 7         10000
 -!r Interceptor Shields 7         7500        Antriebslabor 33
+
 -!r Interceptor Armor Piercing 6  1750          
 -!r Critical Interceptor Hit 6    10500
 
