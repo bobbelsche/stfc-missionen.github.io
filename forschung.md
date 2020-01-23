@@ -3,31 +3,31 @@
 ## combat 
 
 ```diff
-a !r Interceptor Weaponry 8        2000  75  K3u
--b 
--c !r Interceptor Hull Boost 7      9000          < e7
--d !r Interceptor Tactics 7         10000
--e !r Interceptor Shields 7         7500          < i6, Antriebslabor 33
--f !r Interceptor Armor Piercing 6  1750          < d6
--g !r Critical Interceptor Hit 6    10500
+a !r Interceptor Weaponry 8        2000 75*K3u
+ 
+-!r Interceptor Hull Boost 7      9000
+-!r Interceptor Tactics 7         10000
+-!r Interceptor Shields 7         7500        Antriebslabor 33
+-!r Interceptor Armor Piercing 6  1750          
+-!r Critical Interceptor Hit 6    10500
 
--h !r Explorer Hull Boost 6        2000          < i6, p3
--i !r Explorer Shields 6           1750  30  G3u < n3, 
--j !r Explorer Tactics 7           8500          < d6, Antriebslabor 33
--k !r Explorer Targeting Array 7   7000          < j7
--l !r Explorer Firepower 6         3000          < o3
+-!r Explorer Hull Boost 6        2000         
+-!r Explorer Shields 6           1750  30_G3u
+-!r Explorer Tactics 7           8500         Antriebslabor 33
+-!r Explorer Targeting Array 7   7000         
+-!r Explorer Firepower 6         3000         
 
-m !r Battleship Penetration 2      1200  23  E3u
-n !r Battleship Shields 3          1250  20  E3u
-o !r Battleship Firepower 2        1750  23  E3u < m2
-p !r Battleship Hull Boost 3       4500  20  E3u < n3
--q !r Battleship Tactics 5          7500          < Wissenschaftslabor 31
+!r Battleship Penetration 2      1200  23_E3u
+!r Battleship Shields 3          1250  20_E3u
+!r Battleship Firepower 2        1750  23_E3u
+!r Battleship Hull Boost 3       4500  20_E3u
+!r Battleship Tactics 5          7500         Wissenschaftslabor 31
 
-r  !r Station Piercing 2           1250  
+!r Station Piercing 2           1250  
 
-s  !r Romulan Weakpoints 1         19000 75  K3u
--s  !r Klingon Weakpoints 2         2500 90xG3u, 8xG3r
-s  !r Federation Weakpoints 1      19000 75  E3u
+!r Romulan Weakpoints 1         19000 75_K3u
+-!r Klingon Weakpoints 2         2500 90_G3u, 8_G3r
+!r Federation Weakpoints 1      19000 75_E3u
 ```
 
 ## Station
