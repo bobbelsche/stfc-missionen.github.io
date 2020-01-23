@@ -12,22 +12,22 @@ a !r Interceptor Weaponry 8        2000 75*K3u
 -!r Critical Interceptor Hit 6    10500
 
 -!r Explorer Hull Boost 6        2000         
--!r Explorer Shields 6           1750  30_G3u
+-!r Explorer Shields 6           1750  30*G3u
 -!r Explorer Tactics 7           8500         Antriebslabor 33
 -!r Explorer Targeting Array 7   7000         
 -!r Explorer Firepower 6         3000         
 
-!r Battleship Penetration 2      1200  23_E3u
-!r Battleship Shields 3          1250  20_E3u
-!r Battleship Firepower 2        1750  23_E3u
-!r Battleship Hull Boost 3       4500  20_E3u
+!r Battleship Penetration 2      1200  23*E3u
+!r Battleship Shields 3          1250  20*E3u
+!r Battleship Firepower 2        1750  23*E3u
+!r Battleship Hull Boost 3       4500  20*E3u
 !r Battleship Tactics 5          7500         Wissenschaftslabor 31
 
 !r Station Piercing 2           1250  
 
-!r Romulan Weakpoints 1         19000 75_K3u
--!r Klingon Weakpoints 2         2500 90_G3u, 8_G3r
-!r Federation Weakpoints 1      19000 75_E3u
+!r Romulan Weakpoints 1         19000 75*K3u
+-!r Klingon Weakpoints 2         2500 90*G3u, 8_G3r
+!r Federation Weakpoints 1      19000 75*E3u
 ```
 
 ## Station
