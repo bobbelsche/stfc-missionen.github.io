@@ -36,15 +36,18 @@ a !r Interceptor Weaponry 8        2000 75*K3u
 ## Station
 
 ```diff
--!r Dilithium Safeguard 8		2000
-!r Tier-Up Boost 2				2000	50 G3u
-!r Station Accuracy 4			1750
-!r Station Shield Piercing 2	1250
-!r Station Armor Piercing 4		1750
-!r Interceptor Focus 3			3500
-!r Explorers Focus 3			3500
-!r Battleships Focus 3			3500
 !r Pure Dilithium 5				3750	140 K3u
+
+!r Tier-Up Boost 2				2000	50 G3u
+
+!r Station Accuracy 4			1750
+!r Station Shield Piercing 3	3250
+-!r Station Armor Piercing 5 4000
+
+!r Interceptor Focus 3			3500
+!r Explorers Focus 3			  3500
+!r Battleships Focus 3			3500
+
 !r Station Defenses 7			2000
 
 Dilithium Accelerator (1 - 10)	Dilithium Generation speed is increased for all Generators
