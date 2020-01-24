@@ -3,6 +3,7 @@
 ## combat 
 
 ```diff
+<<<<<<< HEAD
 a !r Interceptor Weaponry 8        2000  75  K3u
 -b 
 -c !r Interceptor Hull Boost 7      9000          < e7
@@ -28,20 +29,53 @@ r  !r Station Piercing 2           1250  64xK3u
 s  !r Romulan Weakpoints 1         19000 75 K3u
 -s  !r Klingon Weakpoints 2         2500 90 G3u, 8xG3r
 s  !r Federation Weakpoints 1      19000 75 E3u
+=======
+a !r Interceptor Weaponry 8        2000 75*K3u
+ 
+-!r Interceptor Hull Boost 7      9000
+-!r Interceptor Tactics 7         10000
+-!r Interceptor Shields 7         7500        Antriebslabor 33
+
+-!r Interceptor Armor Piercing 6  1750          
+-!r Critical Interceptor Hit 6    10500
+
+-!r Explorer Hull Boost 7        7500         Explorer Shields 7
+-!r Explorer Tactics 7           8500         Antriebslabor 33
+-!r Explorer Shields 7           6500         Wissenschaftslabor 32
+
+-!r Explorer Targeting Array 7   7000         
+-!r Explorer Firepower 6         3000         
+
+-!r Battleship Hull Boost 4      1750  24*E3u  Battleship Shields 4
+-!r Battleship Tactics 5          7500         Wissenschaftslabor 31
+!r Battleship Shields 4          1500  24*E3u
+
+!r Battleship Penetration 2      1200  23*E3u
+!r Battleship Firepower 2        1750  23*E3u
+
+!r Station Piercing 2           1250  
+
+!r Romulan Weakpoints 1         19000 75*K3u
+!r Klingon Weakpoints 2         2500 90*G3u, 8_G3r
+!r Federation Weakpoints 1      19000 75*E3u
+>>>>>>> 9a26fac3468e795393044b77b5c8a144c7894c78
 ```
 
 ## Station
 
 ```diff
--!r Dilithium Safeguard 8		2000
-!r Tier-Up Boost 2				2000	50 G3u
-!r Station Accuracy 4			1750
-!r Station Shield Piercing 2	1250
-!r Station Armor Piercing 4		1750
-!r Interceptor Focus 3			3500
-!r Explorers Focus 3			3500
-!r Battleships Focus 3			3500
 !r Pure Dilithium 5				3750	140 K3u
+
+!r Tier-Up Boost 2				2000	50 G3u
+
+!r Station Accuracy 4			1750
+!r Station Shield Piercing 3	3250
+-!r Station Armor Piercing 5 4000
+
+!r Interceptor Focus 3			3500
+!r Explorers Focus 3			  3500
+!r Battleships Focus 3			3500
+
 !r Station Defenses 7			2000
 
 Dilithium Accelerator (1 - 10)	Dilithium Generation speed is increased for all Generators
