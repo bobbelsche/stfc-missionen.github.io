@@ -150,6 +150,22 @@
 
 ## Station Missionen
 
+#### Verbessere die OPS auf Level 31
+`3m Tritanium, 2x 1 Std Reparatur`
+- [x] Verbessere die OPS auf Level 31
+
+#### Kampftraining 32 Veteran
+`2.8m Dilithium, 14x 5 Stunde Beschleunigen, 900850x Ultra Rekruten, 2x Nero`
+- [ ] Besiege den feindlichen Captain (Forschungsschiff 418676 Stärke)
+
+#### Kampftraining 31 Soldat
+`???`
+- [x] Besiege 10 Feinde auf Level 32
+
+#### Verbessere die V.P B auf Level 30
+`750 Tritanium, 1x 1 Std Reparatur `
+- [x] Verbessere die V.P B auf Level 30
+
 #### Kampftraining 32 Rekrut
 `1m Dilithium, 6x Kerla, 6x Livis, 6x Uhura`
 - [x] Besiege 3 Feinde auf Level 32
