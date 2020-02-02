@@ -67,6 +67,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Zu wenig und zu spät
 `801k Dilithium, Cred 500, 28x 3 Std Beschleunigen, F100000+, K144000-, R32000-`
+- [x] Begib dich zur Evakuierungszone (Warpreichweite 49)
+- [x] Bring die Evakuierten in die sichere Zone
+- [x] Kehre für eine zweite Welle von Flüchtlingen zurück
+- [ ] Wehre das romulanische Kriegsschiff ab (Kampfschiff 1373877 Stärke)
 - [ ] bla
 
 ---
@@ -77,12 +81,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### _**(Terra Nova - Terra Nova)**_
 
 #### Abtrünig geworden
-`?`
-- [ ] Finde die vermutlich abtrünnige Agentin von Sektion 31 (Warpreichweite 53)
-- [ ] bla
-- [ ] bla
-- [ ] bla
-- [ ] bla
+`17m Parstahl, 501k Dilithium, Cred 500, F100000+, K140000-, R31200-`
+- [x] Finde die vermutlich abtrünnige Agentin von Sektion 31 (Warpreichweite 48)
+- [x] Folge dem Fluchtweg der Agentin
+- [ ] Zerstöre das Schiff der Agentin (Abfangjäger 1157968 Stärke)
 
 ---
 [Oben](#föderation)
@@ -115,6 +117,12 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [x] Berge den Transponder
 - [x] Finde die Yridianer die vom Schiff kotaktiert wurden
 - [x] Bestich den Yridianer mit 5m Dilithium
+- [x] Kehre zu einer Diagnose des Schiffs nach Hause zurück
+
+#### Ein trojanisches Unternehmen
+`4.4m Tritanium, Cred 400, F60000+, K77700-, R29300-`
+- [erfordert: Selbstzerstörung](mFöderation.md#selbstzerstörung)
+- [ ] bla
 - [ ] bla
 
 #### Verlorenes Kommando
@@ -163,7 +171,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ### _**(Thama - Suaneh)**_
 
-#### Kriesenreaktion
+#### Krisenreaktion
 `1m Parstahl`
 - [x] Schätze den Schaden auf Jolojuq ein
 - [ ] Spende 7.5m Tritanium

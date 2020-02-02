@@ -150,9 +150,13 @@
 
 ## Station Missionen
 
+#### Kampftraining 33 Soldat
+`2.3m Dilithium, 3x Kras, 575x Premium Rekruten, 210 Offizier-EP`
+- [ ] Besiege 10 Feinde auf Level 31
+
 #### Kampftraining 33 Rekrut
 `1.5m Dilithium, 6x Kumak, 6x Chang, 6x Spock
-- [ ] Besiege 3 Feinde auf Level 33
+- [x] Besiege 3 Feinde auf Level 33
 
 #### Verbessere die OPS auf Level 31
 `3m Tritanium, 2x 1 Std Reparatur`
