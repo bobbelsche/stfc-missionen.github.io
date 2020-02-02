@@ -56,8 +56,12 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 ### _**(Unroth - Lameo)**_
 
-#### bla
-`Credits 250, 101k Dilithium, R12000+, F8640-, K6720-`
+#### Eine Kultur von Relikten
+`16x Livis, Credits 300, 1x Energieverteiler,  R23000+, F17600-, K11700-`
+- [x] Bring Sovren zum Informationsmarkt auf Yridia
+- [x] Bestich Yursa mit 7.5m Tritanium für Informationen
+- [x] Triff dich mit der vulkanischen Archäologin
+- [ ] Spende 1.5m Roherz der Güte 3
 - [ ] bla
 
 #### bla
