@@ -215,7 +215,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 ### Antenne
 `22x ungewöhnliches raffiniertes Gas G3, 1000 Rekruten, 250 Cred, F12000+, K12900-, R28800-`
 - [erfordert: Verwalter](#verwalter)
-- [ ] Besuche Admiral Johnson auf Sternenbasis 5
+- [x] Besuche Admiral Johnson auf Sternenbasis 5 (Warpreichweite 47)
+- [x] Hole die Antenne auf dem Mars ab
+- [x] Bezahle 2.5m Tritanium für die Antenne
+- [x] Installiere die Antenne auf Weytahn
 
 ### Katastrophe 
 `460k Tritanium, 92k Dilithium, Cred 250, F12000+, K12900-, R2880-`

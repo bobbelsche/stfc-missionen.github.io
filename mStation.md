@@ -150,13 +150,17 @@
 
 ## Station Missionen
 
+#### Kampftraining 33 Rekrut
+`1.5m Dilithium, 6x Kumak, 6x Chang, 6x Spock
+- [ ] Besiege 3 Feinde auf Level 33
+
 #### Verbessere die OPS auf Level 31
 `3m Tritanium, 2x 1 Std Reparatur`
 - [x] Verbessere die OPS auf Level 31
 
 #### Kampftraining 32 Veteran
 `2.8m Dilithium, 14x 5 Stunde Beschleunigen, 900850x Ultra Rekruten, 2x Nero`
-- [ ] Besiege den feindlichen Captain (Forschungsschiff 418676 Stärke)
+- [x] Besiege den feindlichen Captain (Forschungsschiff 418676 Stärke)
 
 #### Kampftraining 31 Soldat
 `???`
