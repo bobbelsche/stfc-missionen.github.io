@@ -21,14 +21,20 @@
 -!r Battleship Tactics 5          7500         Wissenschaftslabor 31
 !r Battleship Shields 4          1500  24*E3u
 
-!r Battleship Penetration 2      1200  23*E3u
+!r Battleship Penetration 3      1500  23*E3u
 !r Battleship Firepower 2        1750  23*E3u
 
-!r Station Piercing 2            1250  
+-!r Station Piercing 4            1750
 
 !r Romulan Weakpoints 1         19000 75*K3u
 !r Klingon Weakpoints 2          2500 90*G3u, 8_G3r
 !r Federation Weakpoints 1      19000 75*E3u
+
+!r Evasive Klingons 4            6500
+!r Modulated Federation 2        5000
+!r Fortified Romulans 1         18000
+
+!r combat Strength of Kahless 2  7000
 ```
 
 ## Station
@@ -38,15 +44,13 @@
 
 !r Tier-Up Boost 2				2000	50 G3u
 
-!r Station Accuracy 4			1750
-!r Station Shield Piercing 3	3250
--!r Station Armor Piercing 5     4000
+!r Station Accuracy 5			4000
+!r Station Shield Piercing 5	4000
+!r Station Armor Piercing 5     4000
 
-!r Interceptor Focus 3			3500
-!r Explorers Focus 3			3500
-!r Battleships Focus 3			3500
-
-!r Station Defenses 7			2000
+!r Interceptor Focus 5			4500
+!r Explorers Focus 5			4500
+!r Battleships Focus 5			4500
 
 Dilithium Accelerator (1 - 10)	Dilithium Generation speed is increased for all Generators
 Dilithium Fusion (1 - 8)		Dilithium Generators provide resources at increased speed.
