@@ -150,9 +150,21 @@
 
 ## Station Missionen
 
+#### Kampftraining 33 Veteran
+`3.8m Dilithium, 2x Kirk, 950x Ultra Rekruten, 16x 5 Stunden Beschleunigen`
+- [ ] Besiege den feindlichen Captain
+
+#### Verbessere die OPS auf Level 32
+`4m Tritanium, 2x 1 Std Reparatur`
+- [ ] Verbessere die OPS auf Level 32
+
 #### Kampftraining 33 Soldat
 `2.3m Dilithium, 3x Kras, 575x Premium Rekruten, 210 Offizier-EP`
-- [ ] Besiege 10 Feinde auf Level 31
+- [x] Besiege 10 Feinde auf Level 31
+
+#### Verbessere das Trockendock D auf Level 31
+`500k Tritanium, 1x 1 Std Reparatur`
+- [x] Verbessere das Trockendock D auf Level 31
 
 #### Kampftraining 33 Rekrut
 `1.5m Dilithium, 6x Kumak, 6x Chang, 6x Spock
