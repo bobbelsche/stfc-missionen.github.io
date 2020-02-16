@@ -96,10 +96,9 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 
 #### Entgegen aller Widrigkeit
 `1200 Premium Rekruten, 1x Energie-Verteiler, Cred 400, F60000+, K77700-, R17200-`
-- [ ] Hole weiter andorianische Abgesandte ab
-- [ ] Besiege den Abfangjäger der Suliban (Abfangjäger 937932 Stärke)
-- [ ] bla
-- [ ] bla
+- [x] Hole weiter andorianische Abgesandte ab
+- [x] Besiege den Abfangjäger der Suliban (Abfangjäger 937932 Stärke)
+- [x] Besuche das Traditionszentrum auf Babel
 
 #### Versagen an der Hauptkampflinie
 `15x seltenes raffiniertes Gas 3*, 1x Energie-Verteiler, Cred 400, F60000+, K77700-, R17200-`
@@ -153,7 +152,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Ushaan
 `1200 Ultra Rekruten, 500 Cred, 1x Energieverteiler, F100000+, K136800-, R30400-`
 - [x] Bring Ontella ins Azati System
-- [ ] Deaktiviere Sovrens Schiff (Abfangjäger 937932)
+- [x] Deaktiviere Sovrens Schiff (Abfangjäger 937932 Stärke)
+- [x] Bring Ontellas Leiche zur Heldenmauer
 
 #### Wachturm
 `2.1M Tritanium, 434k Dilithium, 350 Cred, F42000+, K51400-, R11400-`
