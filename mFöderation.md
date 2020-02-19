@@ -121,8 +121,10 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Ein trojanisches Unternehmen
 `4.4m Tritanium, Cred 400, F60000+, K77700-, R29300-`
 - [erfordert: Selbstzerstörung](mFöderation.md#selbstzerstörung)
-- [ ] bla
-- [ ] bla
+- [x] Finde den Hacker (Warpreichweite 48)
+- [x] Deaktiviere das Schiff der Hacker (Forschungsschiff 910378 Stärke)
+- [x] Zwinge den Hacker den Virus von der Station zu entfernen.
+- [x] Übergib den Hacker den Sicherheitskräften
 
 #### Verlorenes Kommando
 `?`
@@ -271,7 +273,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 - [erfordert: Die Heldenmauer](#die-heldenmauer)
 - [x] Triff dich mit dem Admiral im Azati System
 - [x] Liefere der Sternenflotte 50k Einheiten Roherz Güte 3 um die Vorräte ihrer Flotte aufzufüllen
-- [ ] bla
+- [x] Stocke den örtlichen Flottenvorrat mit 450k an Tritanium auf
 
 
 #### Gewaltige Bohrung
