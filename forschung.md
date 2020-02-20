@@ -3,7 +3,7 @@
 ## combat 
 
 ```diff
- !r Interceptor Hull Boost 7      9000
+-!r Interceptor Hull Boost 8      2500
 -!r Interceptor Tactics 7        10000
 -!r Interceptor Shields 8         2500       Antriebslabor 32
 
@@ -54,7 +54,7 @@
  !r Tier-Up Boost 2				  2000	50 G3u
 
 -!r Station Accuracy 5			  2500
- !r Station Shield Piercing 5	  4000
+-!r Station Shield Piercing 6	  2500
  !r Station Armor Piercing 5      4000
 
  !r Interceptor Focus 5			  4500
