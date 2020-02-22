@@ -26,8 +26,8 @@
 
 -!r Station Piercing 4            1750
 
- !r Romulan Weakpoints 1         19000 75*K3u
- !r Klingon Weakpoints 2          2500 90*G3u, 8_G3r
+ !r Romulan Weakpoints 2          2500
+ !r Klingon Weakpoints 2          2500
  !r Federation Weakpoints 1      19000 75*E3u
 
 -!r Evasive Klingons 4            6500
@@ -75,9 +75,6 @@
 -!r Ore Miner 2                   3000
 -!r Dilithium Miner 3             1000
  !r Emergency Defenses 2		  4250 	50 G3u
- !r Defense Strategy II 1		 16000	25 E3u
- !r Defense Platform Hull II 1	 16000	25 G3u
-
  !r Emergency Defenses 3          1750
  !r Data Miner 2                  2250
 
@@ -87,13 +84,13 @@
 
  !r Defense Strategy II 1        16000
 -!r Survey Warp 2                 1500 
- !r Defense Platform Hull II 1   13250
+-!r Defense Platform Hull II 2    3750
 
  !r Interceptor Regeneration 2    4500
  !r Explorer Regeneration 2       4500
  !r Battleship Regeneration 2     4500
 
- !r Swarm Weakpoints 4            2000
+ !r Swarm Weakpoints 5            2500
  !r Swarm Jammer 6                2500
 -!r Swarm Targeting 4             2500
 -!r Swarm Fortification 4         2500
