@@ -26,7 +26,7 @@
 
 -!r Station Piercing 4            1750
 
- !r Romulan Weakpoints 2          2500
+-!r Romulan Weakpoints 3          5000
  !r Klingon Weakpoints 2          2500
  !r Federation Weakpoints 1      19000 75*E3u
 
@@ -46,7 +46,7 @@
 -!r Station Defenses 7            2000
 
 -!r Defense Platforms 4          50000
- !r Research Optimization 8       4250
+-!r Research Optimization 9       8000
 
 -!r Pure Tritanium 6              4500
  !r Pure Dilithium 5			  3750
@@ -55,11 +55,11 @@
 
 -!r Station Accuracy 5			  2500
 -!r Station Shield Piercing 6	  2500
- !r Station Armor Piercing 5      4000
+-!r Station Armor Piercing 6      2500
 
- !r Interceptor Focus 5			  4500
- !r Explorers Focus 5			  4500
- !r Battleships Focus 5			  4500
+-!r Interceptor Focus 5		      4500
+-!r Explorers Focus 5			  4500
+-!r Battleships Focus 5		      4500
 	
 ```
 

@@ -48,7 +48,14 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Krise auf Praxis
 `1.3m Parstahl`
 - [x] Hole den klingonischen Wissenschaftler aus dem Nausikaa-System ab
-- [ ] Spende 1.8m Dilithium an T'Korma
+- [x] Spende 1.8m Dilithium an T'Korma
+- [x] Bring T'Korma nach Rigel IV
+
+#### Politische Häftlinge
+`1.7m Parstahl`
+- [erfordert: Krise auf Praxis](#krise-aufpraxis)
+- [ ] Untersuche den Schauplatz des Angriffs 
+- [ ] Rette die Besatzung der Enterprise von Rura Penthe
 - [ ] bla
 
 ---

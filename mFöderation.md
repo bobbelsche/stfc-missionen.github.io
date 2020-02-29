@@ -176,8 +176,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Krisenreaktion
 `1m Parstahl`
 - [x] Schätze den Schaden auf Jolojuq ein
-- [ ] Spende 7.5m Tritanium
-- [ ] bla
+- [x] Spende 7.5m Tritanium
+- [x] Bring die verwundeten Andorianer nach Andoria Prime
 
 #### Recht und Ordnung
 `1.6m Parstahl`
