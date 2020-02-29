@@ -101,7 +101,7 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Orakel des Endes
 `3.6m Tritanium, 1x Energie-Verteiler, 400 Cred, K60000+, R69100-, F25900-`
 - [x] Führe einen Angriff auf das Nequencia System aus
-- [ ] Vernichte 10 Rebellen im Nequencia System
+- [x] Vernichte 10 Rebellen im Nequencia System
 
 
 #### Unaufhörliches Wachstum
