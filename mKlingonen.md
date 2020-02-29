@@ -145,8 +145,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Wendehals
 `1.2m Parstahl`
 - [x] Finde den Verräter auf Gevuj
-- [ ] Bestich den Kolonisten 1000000 Dilithium um den Standort des Verräters zu erfahren
-- [ ] bla
+- [x] Bestich den Kolonisten 1.000.000 Dilithium um den Standort des Verräters zu erfahren
+- [x] Vernichte den Gorn Verräter (Abfangjäger 431670 Stärke)
 
 #### Herrschaft behaupten
 `1.2m Parstahl`
