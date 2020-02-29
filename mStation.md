@@ -158,10 +158,29 @@
 
 #### Das war knapp
 `5m Tritanium, 2x 1 Std Reparatur`
-- [ ] Beschaffe auf Yridia Informationen
-- [ ] bla
-- [ ] bla
-- [ ] bla
+- [x] Beschaffe auf Yridia Informationen
+- [x] Finde den Spion in der Nähe von Nausikaa Prime
+- [x] Schalte das Corvallener-Schiff aus (Kampfschiff 415226 Stärke)
+- [x] Bring das Artefakt zur Station zurück
+
+#### Schweigen erkaufen
+`5m Tritanium, 400x Vermessungsschiffteile, 1x Versetzungstoken`
+- [x] Begieb dich nach Yridia
+- [x] Spende 1250000 Dilithium
+
+#### Vage Erinnerungen
+`3m Parstahl`
+- [x] Sammle 4x Energieverteiler
+
+#### Faltung
+`350k Parstahl`
+- [x] Untersuche die Koordinaten im Carraya-System
+- [x] Orte den Ursprung des Signals im Carraya-System
+- [x] Kehre zur Station zurück
+
+#### Entschlüsseln
+`10m Parstahl`
+- [ ] Verbessere die OPS auf Level 34
 
 
 ---
