@@ -54,9 +54,25 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 #### Politische Häftlinge
 `1.7m Parstahl`
 - [erfordert: Krise auf Praxis](#krise-aufpraxis)
-- [ ] Untersuche den Schauplatz des Angriffs 
-- [ ] Rette die Besatzung der Enterprise von Rura Penthe
-- [ ] bla
+- [x] Untersuche den Schauplatz des Angriffs 
+- [x] Rette die Besatzung der Enterprise von Rura Penthe
+- [x] Besiege das Klingonische Wachschiff (Forschungsschiff 418676 Stärke)
+- [x] Bring die Besatzung zu deiner Station zurück
+
+#### Messer in der Finsternis
+`1.7m Parstahl`
+- [erfordert: Politische Häftlinge](#politische-häftlinge)
+- [ ] Kehre zum Schauplatz des Angriffs zurück
+- [ ] Folge der Warpsignatur des Attentäters
+- [ ] Besiege Valeris (Forschungsschiff 531649 Stärke)
+
+#### Der Weg zum Frieden
+`1.5m Parstahl`
+- [erfordert: Messer in der Finsternis](#messer-in-der-finsternis)
+- [x] Begib dich zur Friedenkongerenz auf Rigel IV
+- [x] Besiege General Chang (Abfangjäger 673107 Stärke)
+- [x] Bring die Abgesanten zu deiner Station zurück
+
 
 ---
 [Oben](#neutral)

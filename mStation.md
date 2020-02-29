@@ -141,7 +141,27 @@
 
 #### Doppelhelix
 `7.5m Parstahl`
-- [ ] Verbessere die OPS auf Level 32
+- [x] Verbessere die OPS auf Level 32
+
+#### Tiefer
+`5x Saladin, 2,5m Parstahl, F5000+, K5000-, R5000-`
+- [x] Triff dich mit Toryn auf Deneva
+- [x] Wähle welcher Fraktion du bei der Forschung helfen willst
+- [Föderation] `5x Saladin, 2,5m Parstahl, F5000+, K5000-, R5000-`
+- [Romulaner] `5x Centurion, 2,5m Parstahl, F5000-, K5000-, R5000+`
+- [Klingonen] `5x Bortas, 2,5m Parstahl, F5000-, K5000+, R5000-`
+- [x] Liefere 25 Föderattions-Token
+
+#### Miteinander Verbunden
+`5m Parstahl, 800 Ultra-Rekruten`
+- [x] Verdiene einen Belobigungsrang IV
+
+#### Das war knapp
+`5m Tritanium, 2x 1 Std Reparatur`
+- [ ] Beschaffe auf Yridia Informationen
+- [ ] bla
+- [ ] bla
+- [ ] bla
 
 
 ---
