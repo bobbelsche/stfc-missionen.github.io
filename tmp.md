@@ -7,3 +7,5 @@ Ausgräber: Abbau 22500: Fraktionspunkte(+18000, -9000, -9000), Cred +60, Rek +3
 Krieger  : 10x36er    : Fraktionspunkte(+9000,  -4500, -4500), Cred +25, Rek +25, Reparatur 15x30 Minuten
 Champion : 25x37er    : Fraktionspunkte(+18000, -9000, -9000), Cred +50, Rek +30, Reparatur 25x30 Minuten
 ```
+
+!hostile "Borg Tactical Probe" 25 info
