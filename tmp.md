@@ -9,3 +9,8 @@ Champion : 25x37er    : Fraktionspunkte(+18000, -9000, -9000), Cred +50, Rek +30
 ```
 
 !hostile "Borg Tactical Probe" 25 info
+
+Gorkon Kerla Woteln
+Gorkon Kerla Khan (Kinetic Waffe + Krit)
+Kirk Spock Carol
+Kirk Spock Khan
