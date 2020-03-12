@@ -15,6 +15,8 @@ Gorkon Kerla Khan (Kinetic Waffe + Krit)
 Kirk Spock Carol
 Kirk Spock Khan
 
+```
 Swarm:
 K.Uhura T'Laan Carol
 K.Uhura T'Laan K.Kirk
+```
