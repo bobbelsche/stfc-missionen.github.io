@@ -19,4 +19,15 @@ Kirk Spock Khan
 Swarm:
 K.Uhura T'Laan Carol
 K.Uhura T'Laan K.Kirk
+
+Vidar:
+
+Jäger vs Battle:
+Gorkon Kerla Harrison (Krit/Hull, KritDmg +30%, ignore 60% schild first rounds)
+Pike Moreau Chen
+
+Pike Woteln Chen (vs Trader)
+
+Pike + K.Scotty (+6 Warp)
+
 ```
