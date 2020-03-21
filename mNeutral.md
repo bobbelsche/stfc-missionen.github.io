@@ -103,8 +103,8 @@ Werte wie R60+ Fraktionspunkte R(omulaner), F(öderation), K(lingonen)
 `43k Tritanium, 9k Dilithium`
 - [x] Hilf Doktor Mullen im Suliban System (Warpreichweite 40)
 - [x] Birg das Shuttle auf Brennis
-- [ ] Gib dem Doktor 10m Parstahl damit er seinen Warpkern mit einem Schild versehen kann
-- [ ] bla
+- [x] Gib dem Doktor 10m Parstahl damit er seinen Warpkern mit einem Schild versehen kann
+- [x] Fliehe aus dem System
 
 ---
 [Oben](#neutral)
